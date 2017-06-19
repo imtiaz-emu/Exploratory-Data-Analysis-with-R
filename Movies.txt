@@ -1,0 +1,3243 @@
+Title	Year	Rating	Runtime	Tomato Meter	Box Office
+The Whole Nine Yards	2000	R	98 min	45	$57.3M
+Gladiator	2000	R	155 min	76	$187.3M
+Cirque du Soleil	2000	G	39 min	45	$13.4M
+Dinosaur	2000	PG	82 min	65	$135.6M
+Big Momma's House	2000	PG-13	99 min	30	$0.5M
+Gone in Sixty Seconds	2000	PG-13	118 min	24	$101.0M
+Shaft	2000	R	99 min	68	$70.3M
+"Me, Myself & Irene"	2000	R	116 min	48	$0.6M
+Chicken Run	2000	G	84 min	97	$106.6M
+The Patriot	2000	R	165 min	62	$2.3M
+The Adventures of Rocky & Bullwinkle	2000	PG	92 min	43	$0.4M
+The Kid	2000	PG	104 min	49	$68.5M
+X-Men	2000	PG-13	104 min	82	$156.2M
+What Lies Beneath	2000	PG-13	130 min	46	$155.0M
+Thomas and the Magic Railroad	2000	G	85 min	19	$2.0M
+Nutty Professor II: The Klumps	2000	PG-13	106 min	26	$122.4M
+Hollow Man	2000	R	112 min	27	$72.1M
+Coyote Ugly	2000	PG-13	100 min	22	$59.8M
+Space Cowboys	2000	PG-13	130 min	78	$89.4M
+The Replacements	2000	PG-13	118 min	40	$44.0M
+Bless the Child	2000	R	107 min	3	$28.1M
+The Original Kings of Comedy	2000	R	115 min	86	$37.7M
+The Cell	2000	R	107 min	45	$60.0M
+The Crew	2000	PG-13	88 min	20	$12.5M
+Bring It On	2000	PG-13	98 min	63	$67.9M
+The Art of War	2000	R	117 min	16	$29.5M
+The Tao of Steve	2000	R	87 min	80	$2.6M
+Whipped	2000	R	82 min	13	$3.8M
+Backstage	2000	R	86 min	31	$0.7M
+Turn It Up	2000	R	86 min	8	$0.7M
+The Way of the Gun	2000	R	119 min	48	$5.2M
+Nurse Betty	2000	R	110 min	84	$25.0M
+The Watcher	2000	R	97 min	10	$28.6M
+Duets	2000	R	112 min	20	$4.3M
+Bait	2000	R	119 min	26	$14.9M
+Urban Legends: Final Cut	2000	R	97 min	9	$21.0M
+Woman on Top	2000	R	92 min	34	$4.5M
+Almost Famous	2000	R	122 min	88	$31.7M
+Remember the Titans	2000	PG	113 min	73	$114.3M
+Beautiful	2000	PG-13	112 min	16	$2.8M
+Dancer in the Dark	2000	R	140 min	68	$2.8M
+Meet the Parents	2000	PG-13	108 min	84	$164.5M
+Girlfight	2000	R	110 min	87	$0.8M
+Digimon: The Movie	2000	PG	82 min	25	$9.0M
+Get Carter	2000	R	102 min	12	$14.6M
+Dr. T and the Women	2000	R	122 min	57	$12.1M
+The Contender	2000	R	126 min	76	$16.1M
+Lost Souls	2000	R	97 min	7	$16.4M
+The Ladies Man	2000	R	84 min	11	$13.4M
+Best in Show	2000	PG-13	90 min	95	$16.6M
+Pay It Forward	2000	PG-13	123 min	40	$32.8M
+Bamboozled	2000	R	135 min	48	$1.9M
+Bedazzled	2000	PG-13	93 min	49	$37.0M
+Lucky Numbers	2000	R	105 min	22	$9.5M
+The Little Vampire	2000	PG	95 min	55	$13.4M
+Charlie's Angels	2000	PG-13	98 min	67	$124.4M
+The Legend of Bagger Vance	2000	PG-13	126 min	43	$30.4M
+Red Planet	2000	PG-13	106 min	14	$17.1M
+Little Nicky	2000	PG-13	90 min	22	$38.5M
+Men of Honor	2000	R	129 min	41	$46.2M
+The 6th Day	2000	PG-13	123 min	41	$33.8M
+How the Grinch Stole Christmas	2000	PG	104 min	53	$259.0M
+102 Dalmatians	2000	G	100 min	31	$65.4M
+What's Cooking?	2000	PG-13	109 min	52	$0.7M
+Dungeons & Dragons	2000	PG-13	107 min	10	$14.8M
+Proof of Life	2000	R	135 min	40	$31.2M
+Vertical Limit	2000	PG-13	124 min	48	$67.8M
+What Women Want	2000	PG-13	127 min	54	$181.5M
+Requiem for a Dream	2000	R	102 min	78	$2.5M
+The Emperor's New Groove	2000	G	78 min	85	$87.3M
+"Dude, Where's My Car?"	2000	PG-13	83 min	18	$45.0M
+The Family Man	2000	PG-13	125 min	53	$73.7M
+You Can Count on Me	2000	R	111 min	95	$8.4M
+Miss Congeniality	2000	PG-13	109 min	42	$105.5M
+Quills	2000	R	124 min	75	$4.3M
+All the Pretty Horses	2000	PG-13	116 min	32	$14.7M
+Traffic	2000	R	147 min	92	$123.8M
+State and Main	2000	R	105 min	86	$5.8M
+"Crouching Tiger, Hidden Dragon"	2000	PG-13	120 min	97	$127.7M
+Thirteen Days	2000	PG-13	145 min	83	$33.1M
+Finding Forrester	2000	PG-13	136 min	74	$51.4M
+The Gift	2000	R	111 min	57	$11.2M
+Chocolat	2000	PG-13	121 min	63	$71.3M
+Snatch.	2000	R	102 min	73	$30.1M
+Shadow of the Vampire	2000	R	92 min	81	$7.5M
+"O Brother, Where Art Thou?"	2000	PG-13	106 min	77	$45.2M
+Before Night Falls	2000	R	133 min	73	$2.8M
+An Everlasting Piece	2000	R	103 min	48	$9.1k
+Pollock	2000	R	122 min	81	$7.3M
+Memento	2000	R	113 min	92	$23.8M
+The Golden Bowl	2000	R	130 min	54	$2.2M
+Songcatcher	2000	PG-13	109 min	74	$1.6M
+The Endurance	2000	G	97 min	95	$2.1M
+Tadpole	2000	PG-13	78 min	78	$2.9M
+The Debut	2000	R	88 min	74	$1.5M
+Antitrust	2001	PG-13	109 min	24	$11.0M
+Double Take	2001	PG-13	88 min	12	$28.5M
+The Pledge	2001	R	124 min	78	$18.9M
+"Scotland, Pa."	2001	R	104 min	59	$0.2M
+Sugar & Spice	2001	PG-13	81 min	28	$12.4M
+Head Over Heels	2001	PG-13	86 min	10	$9.9M
+Valentine	2001	R	96 min	8	$19.8M
+Hannibal	2001	R	131 min	39	$163.9M
+Saving Silverman	2001	PG-13	90 min	18	$19.0M
+Recess: School's Out	2001	G	82 min	61	$34.8M
+Sweet November	2001	PG-13	119 min	16	$24.4M
+Down to Earth	2001	PG-13	87 min	20	$63.1M
+Haunted Castle	2001	PG	38 min	25	$12.4M
+Monkeybone	2001	PG-13	93 min	20	$4.9M
+3000 Miles to Graceland	2001	R	125 min	14	$15.3M
+See Spot Run	2001	PG	94 min	23	$32.5M
+The Mexican	2001	R	123 min	56	$66.6M
+Carman: The Champion	2001	PG-13	82 min	11	$1.3M
+Get Over It	2001	PG-13	87 min	44	$11.3M
+15 Minutes	2001	R	120 min	33	$24.2M
+Bartleby	2001	PG-13	83 min	35	$60.3k
+Never Again	2001	R	98 min	31	$0.2M
+Enemy at the Gates	2001	R	131 min	54	$50.5M
+Exit Wounds	2001	R	101 min	32	$51.4M
+Heartbreakers	2001	PG-13	123 min	53	$39.9M
+The Brothers	2001	R	106 min	63	$26.6M
+Say It Isn't So	2001	R	95 min	9	$4.8M
+Spy Kids	2001	PG	88 min	93	$110.8M
+Someone Like You...	2001	PG-13	97 min	43	$26.7M
+Along Came a Spider	2001	R	104 min	32	$73.6M
+Blow	2001	R	124 min	55	$52.8M
+Joe Dirt	2001	PG-13	91 min	11	$27.1M
+Kingdom Come	2001	PG	94 min	28	$22.6M
+Josie and the Pussycats	2001	PG-13	98 min	53	$14.1M
+Crocodile Dundee in Los Angeles	2001	PG	92 min	11	$25.3M
+Freddy Got Fingered	2001	R	87 min	11	$13.7M
+Driven	2001	PG-13	116 min	14	$32.4M
+One Night at McCool's	2001	R	93 min	33	$5.7M
+The Forsaken	2001	R	90 min	7	$6.3M
+Town & Country	2001	R	104 min	13	$6.3M
+The Mummy Returns	2001	PG-13	130 min	47	$200.7M
+The Tailor of Panama	2001	R	109 min	77	$13.1M
+A Knight's Tale	2001	PG-13	132 min	58	$55.0M
+Shrek	2001	PG	90 min	88	$267.0M
+Pearl Harbor	2001	PG-13	183 min	25	$197.8M
+Startup.com	2001	R	107 min	92	$0.5M
+What's the Worst That Could Happen?	2001	PG-13	94 min	10	$31.1M
+Moulin Rouge!	2001	PG-13	127 min	76	$55.1M
+The Animal	2001	PG-13	84 min	30	$54.4M
+Swordfish	2001	R	99 min	26	$68.8M
+Evolution	2001	PG-13	101 min	43	$37.6M
+Lara Croft: Tomb Raider	2001	PG-13	100 min	19	$129.5M
+Atlantis: The Lost Empire	2001	PG	95 min	49	$83.6M
+The Fast and the Furious	2001	PG-13	106 min	53	$142.5M
+Dr. Dolittle 2	2001	PG	87 min	42	$111.5M
+Baby Boy	2001	R	130 min	71	$27.8M
+Pootie Tang	2001	PG-13	81 min	29	$2.8M
+The Anniversary Party	2001	R	115 min	60	$3.0M
+Crazy/Beautiful	2001	PG-13	99 min	63	$16.2M
+A.I. Artificial Intelligence	2001	PG-13	146 min	73	$77.6M
+Cats & Dogs	2001	PG	87 min	54	$90.9M
+Kiss of the Dragon	2001	R	98 min	51	$34.7M
+Final Fantasy: The Spirits Within	2001	PG-13	106 min	44	$31.5M
+The Score	2001	R	124 min	73	$70.3M
+Jurassic Park III	2001	PG-13	92 min	50	$180.1M
+America's Sweethearts	2001	PG-13	102 min	31	$93.0M
+Planet of the Apes	2001	PG-13	119 min	45	$178.1M
+Original Sin	2001	R	116 min	12	$15.1M
+The Princess Diaries	2001	G	115 min	47	$107.8M
+Rush Hour 2	2001	PG-13	90 min	52	$226.0M
+The Others	2001	PG-13	104 min	83	$96.1M
+Osmosis Jones	2001	PG	95 min	55	$12.3M
+American Pie 2	2001	R	108 min	52	$144.0M
+Captain Corelli's Mandolin	2001	R	131 min	29	$25.3M
+American Outlaws	2001	PG-13	94 min	14	$11.9M
+Rat Race	2001	PG-13	112 min	44	$55.8M
+The Believer	2001	R	102 min	82	$0.2M
+Jay and Silent Bob Strike Back	2001	R	104 min	53	$29.9M
+Bubble Boy	2001	PG-13	84 min	29	$4.2M
+Ghosts of Mars	2001	R	98 min	21	$7.3M
+Summer Catch	2001	PG-13	108 min	8	$19.0M
+The Curse of the Jade Scorpion	2001	PG-13	103 min	45	$6.8M
+The Deep End	2001	R	101 min	82	$8.3M
+O	2001	R	95 min	64	$15.5M
+Tortilla Soup	2001	PG-13	102 min	74	$2.9M
+Made	2001	R	95 min	71	$3.7M
+Hedwig and the Angry Inch	2001	R	95 min	92	$1.5M
+Jeepers Creepers	2001	R	90 min	45	$37.5M
+Soul Survivors	2001	PG-13	84 min	4	$2.0M
+The Musketeer	2001	PG-13	104 min	11	$26.6M
+Two Can Play That Game	2001	R	90 min	43	$22.0M
+The Glass House	2001	PG-13	106 min	21	$17.4M
+Megiddo: The Omega Code 2	2001	PG-13	104 min	10	$5.6M
+Ghost World	2001	R	111 min	92	$4.7M
+Glitter	2001	PG-13	104 min	7	$3.9M
+Hearts in Atlantis	2001	PG-13	101 min	50	$23.6M
+Zoolander	2001	PG-13	89 min	64	$44.7M
+Don't Say a Word	2001	R	113 min	24	$54.2M
+Extremedays	2001	PG	93 min	43	$0.5M
+Big Bad Love	2001	R	111 min	41	$0.1M
+Joy Ride	2001	R	97 min	73	$21.3M
+Serendipity	2001	PG-13	90 min	59	$50.0M
+Training Day	2001	R	122 min	72	$76.1M
+Max Keeble's Big Move	2001	PG	86 min	29	$16.5M
+Corky Romano	2001	PG-13	86 min	6	$23.0M
+Bandits	2001	PG-13	123 min	65	$41.2M
+Riding in Cars with Boys	2001	PG-13	132 min	49	$29.6M
+The Last Castle	2001	R	131 min	52	$17.9M
+From Hell	2001	R	122 min	57	$30.7M
+Mulholland Drive	2001	R	147 min	81	$7.1M
+Bones	2001	R	96 min	21	$6.8M
+Thir13en Ghosts	2001	R	91 min	14	$41.6M
+K-PAX	2001	PG-13	120 min	41	$50.0M
+Domestic Disturbance	2001	PG-13	89 min	24	$44.4M
+The One	2001	PG-13	87 min	14	$43.9M
+"Monsters, Inc."	2001	G	92 min	96	$34.0M
+Storytelling	2001	R	87 min	53	$0.9M
+Life as a House	2001	R	125 min	47	$15.4M
+Shallow Hal	2001	PG-13	114 min	51	$70.7M
+Heist	2001	R	109 min	65	$23.3M
+The Wash	2001	R	93 min	8	$9.8M
+Harry Potter and the Sorcerer's Stone	2001	PG	152 min	80	$317.6M
+The Man Who Wasn't There	2001	R	116 min	81	$7.4M
+Waking Life	2001	R	99 min	80	$2.1M
+Spy Game	2001	R	126 min	66	$62.3M
+Out Cold	2001	PG-13	89 min	8	$13.9M
+Black Knight	2001	PG-13	95 min	14	$33.3M
+Behind Enemy Lines	2001	PG-13	106 min	37	$58.8M
+Sidewalks of New York	2001	R	108 min	57	$2.1M
+Ocean's Eleven	2001	PG-13	116 min	82	$183.3M
+Vanilla Sky	2001	R	136 min	41	$100.5M
+Novocaine	2001	R	95 min	38	$1.5M
+Not Another Teen Movie	2001	R	89 min	28	$37.9M
+The Lord of the Rings: The Fellowship of the Ring	2001	PG-13	178 min	91	$313.8M
+The Majestic	2001	PG	152 min	42	$27.7M
+The Business of Strangers	2001	R	84 min	80	$0.5M
+Jimmy Neutron: Boy Genius	2001	G	82 min	75	$80.9M
+How High	2001	R	93 min	27	$31.2M
+Who Is Cletis Tout?	2001	R	92 min	23	$64.9k
+Kate & Leopold	2001	PG-13	118 min	50	$47.1M
+Ali	2001	R	157 min	67	$58.2M
+The Royal Tenenbaums	2001	R	110 min	80	$52.3M
+A Beautiful Mind	2001	PG-13	135 min	75	$170.7M
+Impostor	2001	R	95 min	22	$5.3M
+American Adobo	2001	R	104 min	30	$0.2M
+The Shipping News	2001	R	111 min	55	$11.4M
+Gosford Park	2001	R	137 min	85	$41.3M
+Black Hawk Down	2001	R	144 min	76	$108.6M
+I Am Sam	2001	PG-13	132 min	34	$40.3M
+Birthday Girl	2001	R	93 min	58	$4.9M
+In the Bedroom	2001	R	130 min	93	$35.7M
+Super Troopers	2001	R	100 min	35	$18.4M
+Monster's Ball	2001	R	111 min	85	$31.3M
+The Mystic Masseur	2001	PG	117 min	52	$0.3M
+Iris	2001	R	91 min	79	$5.4M
+Kissing Jessica Stein	2001	R	97 min	84	$7.0M
+Human Nature	2001	R	96 min	49	$0.7M
+The Other Side of Heaven	2001	PG	113 min	29	$4.4M
+Frailty	2001	R	100 min	73	$13.1M
+Piñero	2001	R	103 min	43	$0.2M
+Monsoon Wedding	2001	R	114 min	95	$13.7M
+Jason X	2001	R	91 min	19	$12.6M
+The Cat's Meow	2001	PG-13	114 min	75	$3.2M
+Dogtown and Z-Boys	2001	PG-13	91 min	92	$1.2M
+CQ	2001	R	88 min	67	$0.3M
+Enigma	2001	R	119 min	72	$3.8M
+Thirteen Conversations About One Thing	2001	R	104 min	83	$3.0M
+Festival in Cannes	2001	PG-13	100 min	65	$41.0k
+Lovely & Amazing	2001	R	91 min	86	$4.2M
+Little Secrets	2001	PG	96 min	60	$0.4M
+Knockaround Guys	2001	R	92 min	20	$11.5M
+Pokémon 4: The Movie	2001	G	75 min	14	$1.6M
+The Man from Elysian Fields	2001	R	106 min	51	$1.3M
+Cowboy Bebop: The Movie	2001	R	115 min	64	$0.9M
+The Safety of Objects	2001	R	121 min	49	$86.2k
+On_Line	2002	R	97 min	38	$25.7k
+Orange County	2002	PG-13	82 min	46	$41.0M
+State Property	2002	R	88 min	0	$2.1M
+Snow Dogs	2002	PG	99 min	24	$81.1M
+A Walk to Remember	2002	PG	101 min	27	$41.1M
+Kung Pow: Enter the Fist	2002	PG-13	81 min	11	$15.9M
+The Count of Monte Cristo	2002	PG-13	131 min	73	$54.1M
+The Mothman Prophecies	2002	PG-13	119 min	52	$35.2M
+The Singles Ward	2002	PG	102 min	50	$1.1M
+Slackers	2002	R	86 min	10	$4.8M
+Big Fat Liar	2002	PG	88 min	42	$47.8M
+Collateral Damage	2002	R	108 min	19	$40.0M
+Rollerball	2002	R	98 min	3	$18.9M
+Crossroads	2002	PG-13	93 min	14	$37.1M
+John Q	2002	PG-13	116 min	23	$71.0M
+Hart's War	2002	R	125 min	60	$19.0M
+Return to Never Land	2002	G	72 min	45	$48.3M
+Heaven	2002	R	97 min	74	$0.6M
+Dragonfly	2002	PG-13	104 min	7	$30.1M
+Queen of the Damned	2002	R	101 min	17	$30.3M
+We Were Soldiers	2002	R	138 min	63	$78.1M
+The Time Machine	2002	PG-13	96 min	29	$56.7M
+All About the Benjamins	2002	R	95 min	30	$25.5M
+Showtime	2002	PG-13	95 min	25	$37.9M
+Ice Age	2002	PG	81 min	77	$176.2M
+Resident Evil	2002	R	100 min	33	$39.5M
+Sorority Boys	2002	R	93 min	13	$10.2M
+Blade II	2002	R	117 min	59	$81.6M
+Clockstoppers	2002	PG	94 min	29	$36.9M
+Panic Room	2002	R	112 min	76	$95.3M
+Death to Smoochy	2002	R	109 min	42	$8.3M
+The Rookie	2002	G	127 min	83	$75.5M
+Van Wilder: Party Liaison	2002	R	92 min	18	$21.0M
+Big Trouble	2002	PG-13	85 min	48	$7.3M
+Changing Lanes	2002	R	98 min	77	$66.7M
+The Sweetest Thing	2002	R	88 min	26	$24.4M
+The Scorpion King	2002	PG-13	92 min	41	$90.3M
+Life or Something Like It	2002	PG-13	103 min	28	$14.4M
+Deuces Wild	2002	R	96 min	3	$6.0M
+Hollywood Ending	2002	PG-13	112 min	47	$4.8M
+The New Guy	2002	PG-13	88 min	7	$29.0M
+Unfaithful	2002	R	124 min	49	$52.7M
+Star Wars: Episode II - Attack of the Clones	2002	PG	142 min	67	$310.3M
+The Salton Sea	2002	R	103 min	62	$0.6M
+About a Boy	2002	PG-13	101 min	93	$40.6M
+Spirit: Stallion of the Cimarron	2002	G	83 min	69	$73.2M
+Enough	2002	PG-13	115 min	22	$39.2M
+Insomnia	2002	R	118 min	92	$67.2M
+Civil Brand	2002	R	95 min	16	$0.1M
+Undercover Brother	2002	PG-13	86 min	77	$38.2M
+The Sum of All Fears	2002	PG-13	124 min	59	$118.5M
+Divine Secrets of the Ya-Ya Sisterhood	2002	PG-13	116 min	44	$69.5M
+Bad Company	2002	PG-13	116 min	10	$30.1M
+The Bourne Identity	2002	PG-13	119 min	83	$121.5M
+Scooby-Doo	2002	PG	86 min	30	$153.2M
+Windtalkers	2002	R	134 min	32	$40.5M
+Passionada	2002	PG-13	108 min	58	$0.5M
+Minority Report	2002	PG-13	145 min	90	$131.9M
+Juwanna Mann	2002	PG-13	91 min	10	$13.4M
+Lilo & Stitch	2002	PG	85 min	86	$145.8M
+Mr. Deeds	2002	PG-13	96 min	22	$126.2M
+Hey Arnold! The Movie	2002	PG	76 min	29	$13.6M
+Like Mike	2002	PG	99 min	57	$51.4M
+Men in Black II	2002	PG-13	88 min	39	$190.4M
+The Powerpuff Girls Movie	2002	PG	73 min	63	$11.3M
+Sunshine State	2002	PG-13	141 min	80	$2.8M
+Halloween: Resurrection	2002	R	94 min	12	$30.3M
+Reign of Fire	2002	PG-13	101 min	40	$42.9M
+Road to Perdition	2002	R	117 min	81	$104.1M
+The Crocodile Hunter: Collision Course	2002	PG	90 min	53	$28.3M
+Eight Legged Freaks	2002	PG-13	99 min	48	$17.2M
+K-19: The Widowmaker	2002	PG-13	138 min	60	$35.1M
+Stuart Little 2	2002	PG	77 min	81	$64.7M
+Austin Powers in Goldmember	2002	PG-13	94 min	54	$213.1M
+The Country Bears	2002	G	88 min	30	$16.9M
+The Master of Disguise	2002	PG	80 min	1	$40.3M
+Signs	2002	PG-13	106 min	74	$227.9M
+Martin Lawrence Live: Runteldat	2002	R	113 min	39	$19.1M
+My Big Fat Greek Wedding	2002	PG	95 min	76	$241.3M
+Spy Kids 2: Island of Lost Dreams	2002	PG	100 min	74	$85.6M
+xXx	2002	PG-13	124 min	48	$141.1M
+Blood Work	2002	R	110 min	53	$26.1M
+Blue Crush	2002	PG-13	104 min	36	$1.0M
+The Adventures of Pluto Nash	2002	PG-13	95 min	5	$4.4M
+S1m0ne	2002	PG-13	117 min	51	$9.5M
+Serving Sara	2002	PG-13	99 min	4	$16.9M
+Possession	2002	PG-13	102 min	65	$10.1M
+Feardotcom	2002	R	101 min	3	$13.1M
+City by the Sea	2002	R	108 min	48	$22.4M
+Swimfan	2002	PG-13	85 min	14	$28.3M
+Stealing Harvard	2002	PG-13	85 min	9	$13.9M
+Barbershop	2002	PG-13	102 min	82	$75.1M
+Manna from Heaven	2002	PG	119 min	22	$0.1M
+Ballistic: Ecks vs. Sever	2002	R	91 min	0	$14.2M
+Charly	2002	PG	103 min	20	$0.7M
+The Banger Sisters	2002	R	98 min	47	$30.2M
+The Four Feathers	2002	PG-13	132 min	41	$18.2M
+Trapped	2002	R	106 min	18	$6.9M
+Pandora's Box	2002	R	103 min	0	$0.8M
+Sweet Home Alabama	2002	PG-13	108 min	38	$127.2M
+The Tuxedo	2002	PG-13	98 min	22	$50.2M
+Jonah: A VeggieTales Movie	2002	G	82 min	65	$25.4M
+Igby Goes Down	2002	R	98 min	76	$4.6M
+Red Dragon	2002	R	124 min	69	$92.9M
+Moonlight Mile	2002	PG-13	117 min	63	$6.7M
+Anything But Love	2002	PG-13	102 min	37	$58.7k
+Secretary	2002	R	104 min	75	$3.8M
+The Transporter	2002	PG-13	92 min	53	$25.2M
+The Rules of Attraction	2002	R	110 min	43	$6.5M
+White Oleander	2002	PG-13	109 min	70	$16.3M
+Brown Sugar	2002	PG-13	109 min	66	$27.2M
+Tuck Everlasting	2002	PG	90 min	61	$19.0M
+The Ring	2002	PG-13	115 min	72	$128.6M
+Welcome to Collinwood	2002	R	86 min	54	$75.2k
+Abandon	2002	PG-13	99 min	16	$10.7M
+Hansel & Gretel	2002	PG	89 min	0	$0.1M
+Paid in Full	2002	R	97 min	51	$3.0M
+Jackass: The Movie	2002	R	87 min	48	$64.2M
+The Truth About Charlie	2002	PG-13	104 min	33	$5.3M
+Ghost Ship	2002	R	91 min	14	$30.1M
+Auto Focus	2002	R	105 min	72	$1.8M
+Comedian	2002	R	82 min	76	$2.7M
+Punch-Drunk Love	2002	R	95 min	79	$17.8M
+The Santa Clause 2	2002	G	104 min	55	$139.2M
+8 Mile	2002	R	110 min	76	$116.6M
+Real Women Have Curves	2002	PG-13	90 min	83	$5.7M
+Bowling for Columbine	2002	R	120 min	96	$21.2M
+Harry Potter and the Chamber of Secrets	2002	PG	161 min	82	$261.8M
+Half Past Dead	2002	PG-13	98 min	3	$15.4M
+Frida	2002	R	123 min	76	$25.7M
+Friday After Next	2002	R	85 min	25	$33.0M
+The Emperor's Club	2002	PG-13	109 min	50	$14.0M
+Roger Dodger	2002	R	106 min	88	$1.2M
+Die Another Day	2002	PG-13	133 min	57	$160.2M
+Eight Crazy Nights	2002	PG-13	76 min	12	$23.3M
+Solaris	2002	PG-13	99 min	66	$14.8M
+Treasure Planet	2002	PG	95 min	68	$38.1M
+They	2002	PG-13	89 min	38	$12.6M
+Standing in the Shadows of Motown	2002	PG	108 min	92	$1.2M
+Analyze That	2002	R	96 min	27	$32.1M
+Empire	2002	R	90 min	21	$17.5M
+Drumline	2002	PG-13	118 min	82	$56.2M
+Maid in Manhattan	2002	PG-13	105 min	39	$93.8M
+Star Trek: Nemesis	2002	PG-13	116 min	37	$43.1M
+The Hot Chick	2002	PG-13	104 min	21	$34.9M
+The Lord of the Rings: The Two Towers	2002	PG-13	179 min	96	$340.5M
+The Wild Thornberrys Movie	2002	PG	85 min	80	$39.8M
+Gangs of New York	2002	R	167 min	75	$77.6M
+Two Weeks Notice	2002	PG-13	101 min	42	$93.2M
+Catch Me If You Can	2002	PG-13	141 min	96	$164.4M
+Pinocchio	2002	G	108 min	0	$3.6M
+Evelyn	2002	PG	94 min	64	$1.3M
+About Schmidt	2002	R	125 min	85	$65.0M
+25th Hour	2002	R	135 min	78	$12.8M
+Narc	2002	R	105 min	83	$10.2M
+Antwone Fisher	2002	PG-13	120 min	79	$20.8M
+Far from Heaven	2002	PG-13	107 min	87	$15.8M
+Cherish	2002	R	99 min	51	$0.2M
+Chicago	2002	PG-13	113 min	86	$170.6M
+Confessions of a Dangerous Mind	2002	R	113 min	79	$15.9M
+Spun	2002	R	101 min	37	$0.2M
+Adaptation.	2002	R	114 min	91	$22.2M
+The Hours	2002	PG-13	114 min	81	$41.5M
+The Guru	2002	R	94 min	57	$2.9M
+Dark Blue	2002	R	118 min	58	$9.1M
+Poolhall Junkies	2002	R	99 min	34	$0.5M
+Boat Trip	2002	R	94 min	7	$8.5M
+City of Ghosts	2002	R	116 min	47	$0.3M
+Personal Velocity: Three Portraits	2002	R	86 min	69	$0.6M
+Laurel Canyon	2002	R	103 min	68	$3.6M
+Phone Booth	2002	R	81 min	71	$46.5M
+Better Luck Tomorrow	2002	R	101 min	81	$3.7M
+Raising Victor Vargas	2002	R	88 min	96	$2.0M
+The Dancer Upstairs	2002	R	132 min	64	$2.3M
+Spellbound	2002	G	97 min	98	$5.5M
+Nicholas Nickleby	2002	PG	132 min	77	$1.3M
+Stolen Summer	2002	PG	91 min	36	$0.1M
+Bend It Like Beckham	2002	PG-13	112 min	85	$32.4M
+The Secret Lives of Dentists	2002	R	104 min	85	$3.6M
+Assassination Tango	2002	R	114 min	48	$0.9M
+Cabin Fever	2002	R	93 min	63	$21.1M
+Pumpkin	2002	R	113 min	36	$0.1M
+Darkness	2002	PG-13	88 min	4	$22.0M
+G	2002	R	97 min	24	$3.0M
+National Security	2003	PG-13	88 min	11	$35.8M
+A Guy Thing	2003	PG-13	101 min	24	$15.4M
+Darkness Falls	2003	PG-13	86 min	9	$32.0M
+The R.M.	2003	PG	101 min	64	$0.4M
+Final Destination 2	2003	R	90 min	48	$46.5M
+Biker Boyz	2003	PG-13	110 min	23	$21.7M
+The Recruit	2003	PG-13	115 min	43	$52.7M
+Deliver Us from Eva	2003	R	105 min	44	$17.3M
+Shanghai Knights	2003	PG-13	114 min	66	$60.4M
+How to Lose a Guy in 10 Days	2003	PG-13	116 min	42	$105.8M
+Daredevil	2003	PG-13	103 min	45	$102.5M
+The Jungle Book 2	2003	G	72 min	19	$47.8M
+Gods and Generals	2003	PG-13	219 min	8	$12.9M
+Old School	2003	R	88 min	60	$74.6M
+The Life of David Gale	2003	R	130 min	19	$19.6M
+Cradle 2 the Grave	2003	R	101 min	26	$34.5M
+Tears of the Sun	2003	R	121 min	33	$43.4M
+Bringing Down the House	2003	PG-13	105 min	34	$132.5M
+The Hunted	2003	R	94 min	29	$34.2M
+Agent Cody Banks	2003	PG	102 min	39	$47.3M
+Willard	2003	PG-13	100 min	64	$6.8M
+Dreamcatcher	2003	R	134 min	30	$33.6M
+View from the Top	2003	PG-13	87 min	14	$15.5M
+Piglet's Big Movie	2003	G	75 min	71	$23.1M
+The Core	2003	PG-13	135 min	41	$31.0M
+Head of State	2003	PG-13	95 min	31	$37.8M
+Basic	2003	R	98 min	21	$26.5M
+DysFunktional Family	2003	R	89 min	43	$2.2M
+What a Girl Wants	2003	PG	105 min	35	$36.0M
+A Man Apart	2003	R	109 min	11	$26.2M
+House of 1000 Corpses	2003	R	89 min	19	$12.6M
+Anger Management	2003	PG-13	106 min	43	$133.8M
+Bulletproof Monk	2003	PG-13	104 min	23	$23.0M
+Chasing Papi	2003	PG	80 min	14	$6.1M
+Ghosts of the Abyss	2003	PG	59 min	80	$16.3M
+Malibu's Most Wanted	2003	PG-13	86 min	31	$34.3M
+Holes	2003	PG	117 min	77	$67.3M
+It Runs in the Family	2003	PG-13	109 min	28	$7.4M
+Confidence	2003	R	97 min	70	$12.1M
+The Real Cancun	2003	R	96 min	35	$3.7M
+Identity	2003	R	90 min	62	$51.5M
+The Lizzie McGuire Movie	2003	PG	94 min	40	$42.7M
+X-Men 2	2003	PG-13	134 min	87	$214.8M
+A Mighty Wind	2003	PG-13	91 min	88	$17.5M
+Daddy Day Care	2003	PG	92 min	28	$104.1M
+The Matrix Reloaded	2003	R	138 min	73	$281.5M
+The Shape of Things	2003	R	96 min	64	$0.7M
+The In-Laws	2003	PG-13	98 min	34	$20.4M
+Bruce Almighty	2003	PG-13	101 min	48	$242.6M
+Wrong Turn	2003	R	84 min	41	$15.2M
+Finding Nemo	2003	G	100 min	99	$41.1M
+The Italian Job	2003	PG-13	111 min	73	$106.0M
+2 Fast 2 Furious	2003	PG-13	107 min	36	$127.1M
+Hollywood Homicide	2003	PG-13	116 min	30	$30.0M
+Dumb and Dumberer: When Harry Met Lloyd	2003	PG-13	85 min	10	$26.1M
+Rugrats Go Wild	2003	PG	80 min	41	$39.4M
+From Justin to Kelly	2003	PG	81 min	10	$4.6M
+Hulk	2003	PG-13	138 min	62	$132.1M
+Alex & Emma	2003	PG-13	96 min	11	$14.1M
+Charlie's Angels: Full Throttle	2003	PG-13	106 min	43	$100.7M
+"Legally Blonde 2: Red, White & Blonde"	2003	PG-13	95 min	38	$89.8M
+Sinbad: Legend of the Seven Seas	2003	PG	86 min	46	$26.3M
+Terminator 3: Rise of the Machines	2003	R	109 min	70	$150.3M
+Pirates of the Caribbean: The Curse of the Black Pearl	2003	PG-13	143 min	79	$305.3M
+The League of Extraordinary Gentlemen	2003	PG-13	110 min	17	$66.3M
+Johnny English	2003	PG	87 min	33	$28.0M
+How to Deal	2003	PG-13	101 min	28	$14.1M
+Bad Boys II	2003	R	147 min	23	$138.4M
+Lara Croft Tomb Raider: The Cradle of Life	2003	PG-13	117 min	24	$65.7M
+Seabiscuit	2003	PG-13	140 min	77	$120.1M
+Spy Kids 3-D: Game Over	2003	PG	84 min	45	$111.7M
+American Wedding	2003	R	96 min	55	$104.4M
+Northfork	2003	PG-13	103 min	56	$1.3M
+All the Real Girls	2003	R	108 min	71	$0.1M
+Freaky Friday	2003	PG	97 min	88	$110.2M
+Masked and Anonymous	2003	PG-13	112 min	24	$0.1M
+S.W.A.T.	2003	PG-13	117 min	48	$116.6M
+Uptown Girls	2003	PG-13	92 min	14	$36.9M
+Freddy vs. Jason	2003	R	97 min	40	$82.2M
+Open Range	2003	R	139 min	79	$58.3M
+Grind	2003	PG-13	105 min	8	$5.1M
+The Medallion	2003	PG-13	88 min	18	$22.0M
+Marci X	2003	R	84 min	9	$1.5M
+Camp	2003	PG-13	114 min	63	$1.6M
+Le divorce	2003	PG-13	117 min	37	$8.9M
+Step Into Liquid	2003	PG	88 min	82	$3.6M
+Jeepers Creepers II	2003	R	104 min	23	$35.1M
+The Order	2003	R	102 min	8	$7.5M
+Dickie Roberts: Former Child Star	2003	PG-13	98 min	23	$22.7M
+American Splendor	2003	R	101 min	94	$6.0M
+Matchstick Men	2003	PG-13	116 min	82	$36.9M
+Once Upon a Time in Mexico	2003	R	102 min	68	$55.8M
+Anything Else	2003	R	108 min	40	$3.1M
+Underworld	2003	R	121 min	31	$51.5M
+Thirteen	2003	R	100 min	81	$4.5M
+Cold Creek Manor	2003	R	118 min	12	$21.3M
+Secondhand Lions	2003	PG	109 min	59	$41.4M
+The Fighting Temptations	2003	PG-13	123 min	42	$30.2M
+Luther	2003	PG-13	123 min	44	$5.7M
+Under the Tuscan Sun	2003	PG-13	113 min	62	$43.5M
+The Rundown	2003	PG-13	104 min	71	$47.6M
+School of Rock	2003	PG-13	108 min	92	$81.2M
+Lost in Translation	2003	R	101 min	95	$44.6M
+House of the Dead	2003	R	90 min	4	$10.2M
+Good Boy!	2003	PG	87 min	45	$37.6M
+Intolerable Cruelty	2003	PG-13	100 min	75	$35.1M
+Mystic River	2003	R	138 min	87	$90.1M
+Party Monster	2003	R	98 min	29	$0.3M
+The Texas Chainsaw Massacre	2003	R	98 min	36	$80.1M
+Runaway Jury	2003	PG-13	127 min	72	$49.2M
+Scary Movie 3	2003	PG-13	84 min	36	$109.8M
+Wonderland	2003	R	104 min	34	$1.0M
+Beyond Borders	2003	R	127 min	14	$4.4M
+Radio	2003	PG	109 min	36	$52.3M
+In the Cut	2003	R	119 min	34	$4.7M
+Brother Bear	2003	G	85 min	38	$85.1M
+The Matrix Revolutions	2003	R	129 min	36	$139.1M
+Elf	2003	PG	97 min	84	$173.4M
+Master and Commander: The Far Side of the World	2003	PG-13	138 min	85	$93.9M
+Love Actually	2003	R	135 min	63	$59.4M
+The Singing Detective	2003	R	109 min	39	$0.3M
+Elephant	2003	R	81 min	72	$1.2M
+Looney Tunes: Back in Action	2003	PG	91 min	57	$20.9M
+Tupac: Resurrection	2003	R	112 min	78	$7.6M
+Dr. Seuss' The Cat in the Hat	2003	PG	82 min	10	$100.4M
+Gothika	2003	R	98 min	14	$59.5M
+The Missing	2003	R	137 min	58	$26.8M
+Timeline	2003	PG-13	116 min	12	$19.4M
+Shattered Glass	2003	PG-13	94 min	91	$2.1M
+The Haunted Mansion	2003	PG	88 min	13	$75.8M
+Pieces of April	2003	PG-13	80 min	84	$2.4M
+Honey	2003	PG-13	94 min	21	$30.2M
+Pride and Prejudice	2003	PG	104 min	66	$81.4k
+The Last Samurai	2003	R	154 min	65	$111.1M
+Love Don't Cost a Thing	2003	PG-13	100 min	13	$21.7M
+Something's Gotta Give	2003	PG-13	128 min	71	$124.6M
+The Lord of the Rings: The Return of the King	2003	PG-13	201 min	95	$377.0M
+Mona Lisa Smile	2003	PG-13	117 min	35	$63.7M
+Paycheck	2003	PG-13	119 min	27	$53.7M
+Peter Pan	2003	PG	113 min	77	$48.4M
+Cheaper by the Dozen	2003	PG	98 min	24	$138.5M
+The Young Black Stallion	2003	G	45 min	45	$6.1M
+Calendar Girls	2003	PG-13	108 min	74	$30.9M
+Casa de los babys	2003	R	95 min	58	$0.3M
+Big Fish	2003	PG-13	125 min	77	$66.3M
+House of Sand and Fog	2003	R	126 min	75	$12.9M
+"The Book of Mormon Movie, Volume 1: The Journey"	2003	PG-13	120 min	17	$1.1M
+21 Grams	2003	R	124 min	80	$16.2M
+The Cooler	2003	R	101 min	77	$8.2M
+Monster	2003	R	109 min	82	$34.2M
+Concert for George	2003	PG-13	146 min	94	$70.0k
+The Fog of War: Eleven Lessons from the Life of Robert S. McNamara	2003	PG-13	95 min	98	$4.1M
+Touching the Void	2003	R	106 min	93	$4.5M
+Billabong Odyssey	2003	PG	88 min	36	$54.0k
+Easy	2003	R	99 min	59	$14.8k
+Bukowski: Born into This	2003	R	130 min	83	$81.7k
+I'll Sleep When I'm Dead	2003	R	103 min	43	$0.2M
+The Company	2003	R	112 min	71	$2.2M
+Where's the Party Yaar?	2003	PG-13	110 min	69	$48.8k
+Coffee and Cigarettes	2003	R	95 min	65	$2.0M
+Latter Days	2003	R	107 min	43	$0.6M
+Open Water	2003	R	79 min	72	$30.5M
+I Am David	2003	PG	90 min	38	$0.3M
+The Yes Men	2003	R	83 min	84	$0.2M
+Baadasssss!	2003	R	109 min	91	$0.3M
+Saints and Soldiers	2003	PG-13	90 min	66	$1.0M
+The United States of Leland	2003	R	108 min	34	$0.3M
+The Wild Parrots of Telegraph Hill	2003	G	83 min	95	$2.7M
+Off the Map	2003	PG-13	105 min	70	$1.3M
+The Woodsman	2004	R	87 min	88	$1.5M
+Torque	2004	PG-13	84 min	23	$21.1M
+Along Came Polly	2004	PG-13	90 min	26	$87.9M
+Teacher's Pet	2004	PG	74 min	76	$6.3M
+Win a Date with Tad Hamilton!	2004	PG-13	95 min	53	$16.9M
+The Butterfly Effect	2004	R	113 min	33	$57.7M
+The Big Bounce	2004	PG-13	88 min	16	$6.3M
+The Perfect Score	2004	PG-13	93 min	17	$10.3M
+Catch That Kid	2004	PG	91 min	12	$16.5M
+Miracle	2004	PG	135 min	80	$64.3M
+Barbershop 2: Back in Business	2004	PG-13	106 min	68	$65.0M
+50 First Dates	2004	PG-13	99 min	44	$120.8M
+Highwaymen	2004	R	80 min	13	$0.3M
+Against the Ropes	2004	PG-13	111 min	12	$5.7M
+The Best Two Years	2004	PG	112 min	73	$0.2M
+Welcome to Mooseport	2004	PG-13	110 min	13	$14.2M
+Confessions of a Teenage Drama Queen	2004	PG	89 min	13	$29.2M
+The Passion of the Christ	2004	R	127 min	49	$370.2M
+Club Dread	2004	R	104 min	29	$4.6M
+Twisted	2004	R	97 min	1	$25.0M
+Stateside	2004	R	97 min	24	$0.1M
+Dirty Dancing: Havana Nights	2004	PG-13	86 min	22	$14.1M
+Starsky & Hutch	2004	PG-13	101 min	63	$88.2M
+Hidalgo	2004	PG-13	136 min	47	$67.2M
+Spartan	2004	R	106 min	64	$4.3M
+Agent Cody Banks 2: Destination London	2004	PG	100 min	13	$23.2M
+Secret Window	2004	PG-13	96 min	46	$47.8M
+NASCAR: The IMAX Experience	2004	PG	40 min	61	$19.9M
+Taking Lives	2004	R	103 min	22	$32.6M
+Eternal Sunshine of the Spotless Mind	2004	R	108 min	93	$34.1M
+Dawn of the Dead	2004	R	101 min	75	$58.9M
+Never Die Alone	2004	R	88 min	25	$5.5M
+Scooby-Doo 2: Monsters Unleashed	2004	PG	93 min	21	$84.0M
+Hellboy	2004	PG-13	122 min	81	$59.0M
+The Prince and Me	2004	PG	111 min	28	$28.1M
+Walking Tall	2004	PG-13	86 min	25	$45.9M
+Home on the Range	2004	PG	76 min	54	$49.9M
+Johnson Family Vacation	2004	PG-13	97 min	6	$31.0M
+The Girl Next Door	2004	R	108 min	55	$14.5M
+The Whole Ten Yards	2004	PG-13	98 min	4	$16.2M
+Ella Enchanted	2004	PG	96 min	50	$22.8M
+Connie and Carla	2004	PG-13	98 min	44	$8.0M
+The Punisher	2004	R	124 min	29	$33.7M
+Clifford's Really Big Movie	2004	G	73 min	53	$2.8M
+Man on Fire	2004	R	146 min	39	$77.7M
+13 Going on 30	2004	PG-13	98 min	64	$56.0M
+Envy	2004	PG-13	99 min	7	$12.2M
+Bobby Jones: Stroke of Genius	2004	PG	120 min	26	$2.5M
+Godsend	2004	PG-13	102 min	4	$14.3M
+Mean Girls	2004	PG-13	97 min	83	$86.0M
+New York Minute	2004	PG	91 min	11	$14.0M
+Troy	2004	R	163 min	54	$133.1M
+Breakin' All the Rules	2004	PG-13	85 min	31	$11.8M
+Shrek 2	2004	PG	93 min	88	$436.5M
+A Day Without a Mexican	2004	R	100 min	27	$4.0M
+Raising Helen	2004	PG-13	119 min	23	$37.4M
+The Day After Tomorrow	2004	PG-13	124 min	45	$186.6M
+Soul Plane	2004	R	86 min	18	$13.9M
+Harry Potter and the Prisoner of Azkaban	2004	PG	142 min	91	$249.4M
+Garfield	2004	PG	80 min	15	$75.3M
+Saved!	2004	PG-13	92 min	61	$8.8M
+The Chronicles of Riddick	2004	PG-13	119 min	29	$56.8M
+The Stepford Wives	2004	PG-13	93 min	26	$59.3M
+Around the World in 80 Days	2004	PG	120 min	31	$23.9M
+Dodgeball: A True Underdog Story	2004	PG-13	92 min	70	$114.2M
+The Terminal	2004	PG-13	128 min	61	$77.0M
+White Chicks	2004	PG-13	109 min	15	$69.1M
+Fahrenheit 9/11	2004	R	122 min	83	$119.1M
+Spider-Man 2	2004	PG-13	127 min	94	$373.4M
+King Arthur	2004	R	126 min	31	$51.7M
+Sleepover	2004	PG	89 min	15	$8.1M
+Anchorman: The Legend of Ron Burgundy	2004	PG-13	94 min	66	$84.1M
+A Cinderella Story	2004	PG	95 min	11	$51.4M
+The Clearing	2004	R	95 min	43	$5.6M
+The Bourne Supremacy	2004	PG-13	108 min	81	$176.0M
+Catwoman	2004	PG-13	104 min	9	$40.2M
+She Hate Me	2004	R	138 min	19	$81.4k
+Thunderbirds	2004	PG	95 min	19	$6.8M
+The Manchurian Candidate	2004	R	129 min	81	$65.7M
+The Village	2004	PG-13	108 min	43	$114.2M
+Harold & Kumar Go to White Castle	2004	R	88 min	74	$18.2M
+Before Sunset	2004	R	80 min	95	$5.6M
+Lightning in a Bottle	2004	PG-13	103 min	87	$78.0k
+De-Lovely	2004	PG-13	125 min	48	$13.1M
+The Door in the Floor	2004	R	111 min	67	$3.6M
+Maria Full of Grace	2004	R	101 min	97	$6.5M
+Little Black Book	2004	PG-13	111 min	21	$20.4M
+Collateral	2004	R	120 min	86	$100.0M
+The Princess Diaries 2: Royal Engagement	2004	G	113 min	25	$95.1M
+Yu-Gi-Oh!: The Movie	2004	PG	89 min	5	$19.7M
+Riding Giants	2004	PG-13	105 min	93	$2.1M
+AVP: Alien vs. Predator	2004	PG-13	101 min	21	$80.2M
+Without a Paddle	2004	PG-13	95 min	14	$58.2M
+Garden State	2004	R	102 min	86	$26.7M
+Benji: Off the Leash!	2004	PG	97 min	33	$3.6M
+Exorcist: The Beginning	2004	R	114 min	11	$41.8M
+Napoleon Dynamite	2004	PG	96 min	71	$44.5M
+Suspect Zero	2004	R	99 min	18	$8.6M
+Anacondas: The Hunt for the Blood Orchid	2004	PG-13	97 min	26	$31.5M
+Superbabies: Baby Geniuses 2	2004	PG	88 min	0	$9.0M
+Vanity Fair	2004	PG-13	141 min	51	$16.1M
+Paparazzi	2004	PG-13	84 min	18	$15.6M
+Wicker Park	2004	PG-13	114 min	25	$12.8M
+The Cookout	2004	PG-13	97 min	5	$11.5M
+We Don't Live Here Anymore	2004	R	101 min	65	$1.9M
+Gunner Palace	2004	PG-13	85 min	85	$63.5k
+Cellular	2004	PG-13	94 min	55	$32.0M
+Resident Evil: Apocalypse	2004	R	94 min	21	$50.7M
+Mr 3000	2004	PG-13	104 min	54	$21.8M
+Wimbledon	2004	PG-13	98 min	60	$16.8M
+Sky Captain and the World of Tomorrow	2004	PG	106 min	72	$37.6M
+First Daughter	2004	PG	106 min	8	$9.0M
+The Forgotten	2004	PG-13	91 min	31	$66.6M
+Shaun of the Dead	2004	R	99 min	92	$13.5M
+Criminal	2004	R	87 min	69	$0.7M
+Mean Creek	2004	R	90 min	90	$0.3M
+Shark Tale	2004	PG	90 min	35	$160.8M
+Going Upriver: The Long War of John Kerry	2004	PG-13	87 min	89	$0.5M
+Taxi	2004	PG-13	97 min	10	$36.5M
+Friday Night Lights	2004	PG-13	118 min	81	$60.6M
+Raise Your Voice	2004	PG	103 min	15	$10.4M
+A Home at the End of the World	2004	R	97 min	49	$0.9M
+Shall We Dance	2004	PG-13	106 min	46	$57.8M
+Team America: World Police	2004	R	98 min	77	$32.7M
+The Motorcycle Diaries	2004	R	126 min	84	$16.7M
+Hair Show	2004	PG-13	105 min	17	$0.2M
+The Final Cut	2004	PG-13	95 min	37	$0.5M
+Surviving Christmas	2004	PG-13	91 min	7	$11.2M
+Woman Thou Art Loosed	2004	R	94 min	50	$6.8M
+The Assassination of Richard Nixon	2004	R	95 min	68	$0.6M
+I Heart Huckabees	2004	R	107 min	62	$12.7M
+The Grudge	2004	PG-13	92 min	39	$110.2M
+Birth	2004	R	100 min	38	$5.0M
+Thérèse: The Story of Saint Thérèse of Lisieux	2004	PG	96 min	11	$0.6M
+Saw	2004	R	103 min	48	$0.7M
+Ray	2004	PG-13	152 min	81	$75.2M
+Alfie	2004	R	103 min	49	$13.4M
+The Last Shot	2004	R	93 min	61	$0.4M
+Fade to Black	2004	R	109 min	58	$1.0M
+The Polar Express	2004	G	100 min	55	$0.5M
+Seed of Chucky	2004	R	87 min	32	$17.0M
+After the Sunset	2004	PG-13	97 min	18	$28.3M
+The SpongeBob SquarePants Movie	2004	PG	87 min	68	$85.4M
+Bridget Jones: The Edge of Reason	2004	R	108 min	27	$40.2M
+National Treasure	2004	PG	131 min	44	$173.0M
+Alexander	2004	R	175 min	16	$34.3M
+Christmas with the Kranks	2004	PG	99 min	5	$73.7M
+Eros	2004	R	104 min	34	$53.7k
+The Machinist	2004	R	101 min	77	$0.9M
+Blade: Trinity	2004	R	113 min	26	$52.4M
+Ocean's Twelve	2004	PG-13	125 min	55	$125.4M
+Closer	2004	R	104 min	68	$34.0M
+Spanglish	2004	PG-13	131 min	53	$42.0M
+Flight of the Phoenix	2004	PG-13	113 min	30	$20.9M
+Lemony Snicket's A Series of Unfortunate Events	2004	PG	108 min	72	$118.5M
+Meet the Fockers	2004	PG-13	115 min	38	$279.2M
+The Phantom of the Opera	2004	PG-13	143 min	32	$51.2M
+Fat Albert	2004	PG	93 min	25	$48.0M
+The Aviator	2004	PG-13	170 min	87	$102.6M
+Beyond the Sea	2004	PG-13	118 min	42	$6.1M
+Kinsey	2004	R	118 min	90	$10.2M
+Duck Season	2004	R	90 min	90	$0.1M
+A Very Long Engagement	2004	R	133 min	78	$6.2M
+In Good Company	2004	PG-13	109 min	83	$45.5M
+Around the Bend	2004	R	85 min	28	$0.1M
+Sideways	2004	R	126 min	96	$71.4M
+A Love Song for Bobby Long	2004	R	119 min	43	$0.1M
+The Work and the Glory	2004	PG	118 min	17	$3.0M
+Million Dollar Baby	2004	PG-13	132 min	91	$100.4M
+Riding the Bullet	2004	R	98 min	27	$0.1M
+Hotel Rwanda	2004	PG-13	121 min	90	$23.5M
+P.S.	2004	R	97 min	55	$0.1M
+Being Julia	2004	R	104 min	76	$7.7M
+The Merchant of Venice	2004	R	138 min	72	$3.8M
+Eulogy	2004	R	91 min	32	$41.8k
+Born Into Brothels: Calcutta's Red Light Kids	2004	R	85 min	96	$3.4M
+Bride & Prejudice	2004	PG-13	122 min	64	$6.5M
+Melinda and Melinda	2004	PG-13	99 min	53	$3.7M
+House of D	2004	PG-13	97 min	10	$0.4M
+Jiminy Glick in Lalawood	2004	R	90 min	22	$25.7k
+Crash	2004	R	112 min	75	$55.4M
+A Good Woman	2004	PG	93 min	37	$97.1k
+Primer	2004	PG-13	77 min	72	$0.4M
+Saving Face	2004	R	91 min	87	$1.0M
+Yes	2004	R	100 min	52	$0.2M
+My Date with Drew	2004	PG	90 min	71	$85.2k
+Innocent Voices	2004	R	120 min	71	$0.2M
+Winter Solstice	2004	R	90 min	60	$0.2M
+Paper Clips	2004	G	82 min	72	$1.0M
+Haven	2004	R	115 min	13	$0.1M
+Romance & Cigarettes	2005	R	105 min	54	$0.4M
+The Dying Gaul	2005	R	101 min	49	$0.3M
+The Salon	2005	PG-13	90 min	12	$92.4k
+Why We Fight	2005	PG-13	98 min	78	$1.9M
+White Noise	2005	PG-13	101 min	8	$55.9M
+Elektra	2005	PG-13	97 min	10	$24.3M
+Racing Stripes	2005	PG	102 min	35	$49.2M
+Coach Carter	2005	PG-13	136 min	65	$67.2M
+Assault on Precinct 13	2005	R	109 min	60	$20.0M
+Are We There Yet?	2005	PG	95 min	11	$82.3M
+Hide and Seek	2005	R	101 min	13	$51.0M
+Alone in the Dark	2005	R	96 min	1	$5.1M
+Boogeyman	2005	PG-13	89 min	13	$46.4M
+The Wedding Date	2005	PG-13	90 min	10	$32.0M
+Hitch	2005	PG-13	118 min	69	$177.6M
+Pooh's Heffalump Movie	2005	G	68 min	79	$18.0M
+Constellation	2005	PG-13	96 min	0	$0.2M
+Constantine	2005	R	121 min	46	$75.5M
+Because of Winn-Dixie	2005	PG	106 min	54	$32.6M
+Son of the Mask	2005	PG	94 min	6	$17.0M
+Diary of a Mad Black Woman	2005	PG-13	116 min	16	$50.4M
+Man of the House	2005	PG-13	100 min	9	$19.1M
+The Jacket	2005	R	103 min	44	$6.3M
+The Pacifier	2005	PG	95 min	20	$113.0M
+Be Cool	2005	PG-13	118 min	30	$55.6M
+Hostage	2005	R	113 min	35	$34.6M
+Robots	2005	PG	91 min	64	$128.1M
+The Ring Two	2005	PG-13	110 min	20	$75.9M
+Ice Princess	2005	G	98 min	52	$24.4M
+Miss Congeniality 2: Armed and Fabulous	2005	PG-13	115 min	15	$48.4M
+Guess Who	2005	PG-13	105 min	43	$68.0M
+Beauty Shop	2005	PG-13	105 min	37	$36.3M
+The Upside of Anger	2005	R	118 min	74	$18.7M
+The Ballad of Jack and Rose	2005	R	112 min	47	$0.6M
+Fever Pitch	2005	PG-13	104 min	65	$42.0M
+Sahara	2005	PG-13	124 min	39	$68.6M
+State Property 2	2005	R	94 min	14	$1.7M
+Down and Derby	2005	PG	90 min	22	$43.9k
+The Amityville Horror	2005	R	90 min	23	$64.3M
+The Great New Wonderful	2005	R	87 min	73	$39.7k
+The Interpreter	2005	PG-13	128 min	56	$72.5M
+A Lot Like Love	2005	PG-13	107 min	41	$21.8M
+Dust to Glory	2005	PG	97 min	60	$0.6M
+The Game of Their Lives	2005	PG	101 min	26	$0.4M
+King's Ransom	2005	PG-13	95 min	2	$4.0M
+Madison	2005	PG	99 min	29	$0.5M
+Factotum	2005	R	94 min	76	$0.6M
+xXx: State of the Union	2005	PG-13	101 min	16	$26.1M
+House of Wax	2005	R	113 min	25	$32.0M
+Kingdom of Heaven	2005	R	144 min	39	$47.3M
+Last Days	2005	R	97 min	57	$0.4M
+Monster-in-Law	2005	PG-13	101 min	16	$82.8M
+Unleashed	2005	R	103 min	65	$24.4M
+Kicking & Screaming	2005	PG	95 min	41	$52.6M
+Star Wars: Episode III - Revenge of the Sith	2005	PG-13	140 min	80	$380.2M
+Dominion: Prequel to the Exorcist	2005	R	117 min	30	$0.2M
+The Longest Yard	2005	PG-13	113 min	31	$158.0M
+Madagascar	2005	PG	86 min	55	$193.1M
+Duma	2005	PG	100 min	93	$0.8M
+The Sisterhood of the Traveling Pants	2005	PG	119 min	77	$43.5M
+Cinderella Man	2005	PG-13	144 min	80	$61.6M
+Lords of Dogtown	2005	PG-13	107 min	55	$11.0M
+Mr. & Mrs. Smith	2005	PG-13	120 min	59	$186.1M
+The Honeymooners	2005	PG-13	90 min	14	$12.8M
+Batman Begins	2005	PG-13	140 min	85	$205.2M
+The Perfect Man	2005	PG	100 min	6	$16.2M
+Herbie Fully Loaded	2005	G	101 min	41	$65.9M
+Bewitched	2005	PG-13	102 min	25	$62.3M
+Land of the Dead	2005	R	93 min	74	$20.4M
+Rize	2005	PG-13	86 min	83	$3.3M
+War of the Worlds	2005	PG-13	116 min	74	$234.1M
+Mad Hot Ballroom	2005	PG	105 min	84	$7.9M
+Rebound	2005	PG	103 min	13	$16.7M
+Dark Water	2005	PG-13	105 min	46	$25.4M
+Fantastic Four	2005	PG-13	106 min	26	$154.5M
+Heights	2005	R	93 min	64	$1.0M
+Charlie and the Chocolate Factory	2005	PG	115 min	83	$206.4M
+Wedding Crashers	2005	R	119 min	75	$209.2M
+March of the Penguins	2005	G	80 min	94	$77.4M
+The Island	2005	PG-13	136 min	40	$35.8M
+Hustle & Flow	2005	R	116 min	82	$22.1M
+The Devil's Rejects	2005	R	107 min	53	$16.9M
+Stealth	2005	PG-13	121 min	13	$31.7M
+Sky High	2005	PG	100 min	73	$63.9M
+Must Love Dogs	2005	PG-13	98 min	35	$43.8M
+Happy Endings	2005	R	128 min	54	$1.2M
+The Wendell Baker Story	2005	PG-13	99 min	40	$48.1k
+The Dukes of Hazzard	2005	PG-13	104 min	13	$80.2M
+Murderball	2005	R	88 min	98	$1.3M
+Me and You and Everyone We Know	2005	R	91 min	81	$3.7M
+Deuce Bigalow: European Gigolo	2005	R	83 min	9	$22.3M
+The Skeleton Key	2005	PG-13	104 min	38	$47.7M
+The Great Raid	2005	R	132 min	37	$10.1M
+Supercross	2005	PG-13	80 min	6	$3.0M
+Valiant	2005	G	76 min	31	$19.4M
+The 40-Year-Old Virgin	2005	R	116 min	85	$109.2M
+Red Eye	2005	PG-13	85 min	79	$57.9M
+Don't Come Knocking	2005	R	122 min	42	$0.3M
+Aliens of the Deep	2005	G	100 min	84	$8.3M
+Broken Flowers	2005	R	106 min	88	$13.6M
+The Cave	2005	PG-13	97 min	11	$14.9M
+Undiscovered	2005	PG-13	97 min	8	$1.0M
+The Constant Gardener	2005	R	129 min	84	$33.6M
+Grizzly Man	2005	R	103 min	93	$2.9M
+A Sound of Thunder	2005	PG-13	101 min	6	$1.7M
+Underclassman	2005	PG-13	95 min	6	$5.6M
+Nine Lives	2005	R	115 min	75	$0.1M
+Mobsters and Mormons	2005	PG	90 min	75	$67.9k
+The Man	2005	PG-13	83 min	11	$8.3M
+Green Street Hooligans	2005	R	109 min	47	$0.1M
+Lord of War	2005	R	122 min	61	$24.0M
+An Unfinished Life	2005	PG-13	108 min	53	$8.5M
+Cry_Wolf	2005	PG-13	90 min	22	$10.0M
+Just Like Heaven	2005	PG-13	95 min	56	$48.3M
+Venom	2005	R	85 min	11	$0.8M
+Junebug	2005	R	106 min	86	$2.4M
+Corpse Bride	2005	PG	77 min	83	$53.3M
+Flightplan	2005	PG-13	98 min	38	$89.6M
+The Thing About My Folks	2005	PG-13	96 min	45	$0.7M
+A History of Violence	2005	R	96 min	87	$31.4M
+Serenity	2005	PG-13	119 min	82	$25.3M
+Into the Blue	2005	PG-13	110 min	21	$18.5M
+The Greatest Game Ever Played	2005	PG	120 min	63	$15.3M
+In Her Shoes	2005	PG-13	130 min	75	$32.8M
+Thumbsucker	2005	R	96 min	71	$1.1M
+Two for the Money	2005	R	122 min	22	$22.9M
+Waiting...	2005	R	94 min	31	$16.1M
+The Gospel	2005	PG	105 min	32	$15.8M
+Proof	2005	PG-13	100 min	62	$7.5M
+The Curse of the Were-Rabbit	2005	G	85 min	95	$56.1M
+Elizabethtown	2005	PG-13	123 min	28	$26.8M
+The Fog	2005	PG-13	100 min	4	$29.5M
+Everything Is Illuminated	2005	PG-13	106 min	66	$1.6M
+Stay	2005	R	99 min	27	$3.3M
+North Country	2005	R	126 min	68	$18.3M
+The Work and the Glory II: American Zion	2005	PG-13	100 min	45	$1.9M
+Doom	2005	R	105 min	19	$28.0M
+El vacilón: The Movie	2005	R	90 min	0	$1.7M
+Dreamer: Inspired by a True Story	2005	PG	106 min	64	$33.0M
+Prime	2005	PG-13	105 min	50	$22.7M
+The Weather Man	2005	R	102 min	58	$12.5M
+Saw II	2005	R	93 min	36	$87.0M
+The Legend of Zorro	2005	PG	129 min	26	$45.4M
+Shopgirl	2005	R	106 min	61	$10.1M
+Jarhead	2005	R	125 min	61	$62.6M
+Chicken Little	2005	G	81 min	36	$135.3M
+"Good Night, and Good Luck."	2005	PG	93 min	93	$31.5M
+Get Rich or Die Tryin'	2005	R	117 min	16	$30.9M
+Zathura: A Space Adventure	2005	PG	101 min	75	$28.0M
+Derailed	2005	R	108 min	20	$35.9M
+Harry Potter and the Goblet of Fire	2005	PG-13	157 min	88	$290.0M
+Kiss Kiss Bang Bang	2005	R	103 min	85	$4.2M
+Walk the Line	2005	PG-13	136 min	82	$119.3M
+In the Mix	2005	PG-13	95 min	14	$10.1M
+"Yours, Mine & Ours"	2005	PG	90 min	6	$53.4M
+Rent	2005	PG-13	135 min	46	$29.1M
+Pride & Prejudice	2005	PG	129 min	85	$38.3M
+Just Friends	2005	PG-13	96 min	41	$32.6M
+Bee Season	2005	PG-13	104 min	43	$1.1M
+First Descent	2005	PG-13	110 min	52	$0.7M
+Æon Flux	2005	PG-13	93 min	10	$25.9M
+Down in the Valley	2005	R	114 min	52	$0.4M
+Syriana	2005	R	128 min	72	$50.8M
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe"	2005	PG	143 min	76	$291.7M
+King Kong	2005	PG-13	187 min	84	$218.1M
+The Family Stone	2005	PG-13	103 min	51	$59.9M
+The Squid and the Whale	2005	R	81 min	93	$7.1M
+Fun with Dick and Jane	2005	PG-13	90 min	29	$110.3M
+Cheaper by the Dozen 2	2005	PG	94 min	6	$82.5M
+The Ringer	2005	PG-13	94 min	40	$35.0M
+Memoirs of a Geisha	2005	PG-13	145 min	35	$57.0M
+The Producers	2005	PG-13	134 min	51	$19.2M
+Rumor Has It...	2005	PG-13	97 min	20	$42.7M
+Little Manhattan	2005	PG	90 min	77	$0.4M
+BloodRayne	2005	R	95 min	4	$1.6M
+Casanova	2005	R	112 min	44	$11.2M
+Hostel	2005	R	94 min	61	$47.3M
+Munich	2005	R	164 min	78	$47.4M
+Marilyn Hotchkiss' Ballroom Dancing & Charm School	2005	PG-13	103 min	22	$0.2M
+Hoodwinked!	2005	PG	80 min	46	$50.8M
+Brokeback Mountain	2005	R	134 min	87	$83.0M
+End of the Spear	2005	PG-13	108 min	40	$11.7M
+Match Point	2005	R	124 min	76	$23.1M
+The New World	2005	PG-13	135 min	62	$12.5M
+Looking for Comedy in the Muslim World	2005	PG-13	98 min	42	$0.8M
+Nanny McPhee	2005	PG	97 min	73	$47.1M
+The Matador	2005	R	96 min	74	$12.4M
+Capote	2005	R	114 min	90	$28.3M
+Mrs Henderson Presents	2005	R	103 min	67	$11.0M
+The Three Burials of Melquiades Estrada	2005	R	121 min	85	$4.9M
+Transamerica	2005	R	103 min	76	$8.7M
+Block Party	2005	R	103 min	92	$11.7M
+Mirrormask	2005	PG	101 min	54	$0.8M
+V for Vendetta	2005	R	132 min	73	$70.5M
+The World's Fastest Indian	2005	PG-13	127 min	82	$5.0M
+The White Countess	2005	PG-13	135 min	50	$1.6M
+Wassup Rockers	2005	R	111 min	36	$0.1M
+When Do We Eat?	2005	R	86 min	42	$0.4M
+Brick	2005	R	110 min	80	$2.0M
+Preaching to the Choir	2005	PG-13	103 min	36	$0.3M
+Thank You for Smoking	2005	R	92 min	86	$24.6M
+La mujer de mi hermano	2005	R	89 min	20	$2.8M
+Hard Candy	2005	R	104 min	68	$1.0M
+The Promise	2005	PG-13	121 min	31	$0.6M
+The Notorious Bettie Page	2005	R	91 min	56	$1.4M
+An American Haunting	2005	PG-13	83 min	12	$16.2M
+Goal! The Dream Begins	2005	PG-13	118 min	44	$4.2M
+Pretty Persuasion	2005	R	104 min	32	$58.6k
+The Lost City	2005	R	144 min	25	$2.4M
+Kinky Boots	2005	PG-13	107 min	57	$1.7M
+The Heart of the Game	2005	PG-13	97 min	86	$0.4M
+Shadowboxer	2005	R	93 min	18	$0.3M
+Strangers with Candy	2005	R	97 min	52	$1.9M
+Leonard Cohen: I'm Your Man	2005	PG-13	105 min	69	$0.8M
+Boynton Beach Club	2005	R	105 min	60	$3.0M
+The Quiet	2005	R	96 min	21	$0.3M
+Trust the Man	2005	R	103 min	27	$1.5M
+Lassie	2005	PG	100 min	93	$0.5M
+The Protector	2005	R	81 min	54	$11.9M
+Harsh Times	2005	R	116 min	48	$3.3M
+Slow Burn	2005	R	93 min	12	$1.2M
+Adam & Steve	2005	R	99 min	55	$0.2M
+"The Prize Winner of Defiance, Ohio"	2005	PG-13	99 min	57	$0.4M
+How the Garcia Girls Spent Their Summer	2005	R	128 min	79	$91.4k
+Sweet Land	2005	PG	110 min	85	$1.3M
+Love's Abiding Joy	2006	PG	87 min	13	$0.2M
+Grandma's Boy	2006	R	94 min	18	$5.9M
+Last Holiday	2006	PG-13	112 min	55	$38.4M
+Tristan + Isolde	2006	PG-13	125 min	32	$14.6M
+Underworld: Evolution	2006	R	106 min	16	$62.3M
+Big Momma's House 2	2006	PG-13	99 min	6	$70.1M
+Roving Mars	2006	G	40 min	70	$10.0M
+Annapolis	2006	PG-13	108 min	10	$16.8M
+Something New	2006	PG-13	99 min	61	$11.4M
+When a Stranger Calls	2006	PG-13	87 min	9	$47.9M
+Believe in Me	2006	PG	131 min	60	$0.2M
+Final Destination 3	2006	R	93 min	43	$54.1M
+Curious George	2006	G	86 min	69	$58.3M
+The Pink Panther	2006	PG	93 min	22	$82.2M
+Firewall	2006	PG-13	105 min	19	$48.7M
+Freedomland	2006	R	113 min	23	$12.3M
+Eight Below	2006	PG	120 min	72	$81.6M
+The Second Chance	2006	PG-13	102 min	40	$0.4M
+Date Movie	2006	PG-13	83 min	7	$48.5M
+Madea's Family Reunion	2006	PG-13	107 min	25	$63.2M
+Running Scared	2006	R	122 min	40	$6.7M
+Doogal	2006	G	78 min	8	$7.3M
+Deep Sea	2006	G	41 min	91	$42.0M
+Aquamarine	2006	PG	104 min	51	$18.6M
+Ultraviolet	2006	PG-13	88 min	9	$18.3M
+16 Blocks	2006	PG-13	105 min	55	$36.9M
+Failure to Launch	2006	PG-13	97 min	24	$88.7M
+The Shaggy Dog	2006	PG	98 min	26	$61.0M
+The Hills Have Eyes	2006	R	107 min	49	$41.7M
+Don't Trip... He Ain't Through with Me Yet	2006	PG	90 min	45	$0.2M
+Church Ball	2006	PG	91 min	18	$0.3M
+Find Me Guilty	2006	R	125 min	61	$0.6M
+Inside Man	2006	R	129 min	86	$88.4M
+Larry the Cable Guy: Health Inspector	2006	PG-13	89 min	5	$15.7M
+Stay Alive	2006	PG-13	85 min	9	$23.0M
+Slither	2006	R	95 min	86	$7.8M
+ATL	2006	PG-13	105 min	62	$21.2M
+Basic Instinct 2	2006	R	114 min	7	$5.9M
+Ice Age: The Meltdown	2006	PG	91 min	57	$195.3M
+The Benchwarmers	2006	PG-13	80 min	11	$57.7M
+Phat Girlz	2006	PG-13	99 min	23	$6.9M
+Take the Lead	2006	PG-13	118 min	44	$34.7M
+Ask the Dust	2006	R	117 min	35	$0.6M
+Scary Movie 4	2006	PG-13	83 min	37	$90.7M
+The Wild	2006	G	94 min	20	$37.3M
+The Sentinel	2006	PG-13	108 min	33	$36.2M
+American Dreamz	2006	PG-13	107 min	41	$7.2M
+Journey from the Fall	2006	R	135 min	92	$0.5M
+Silent Hill	2006	R	125 min	29	$47.0M
+Akeelah and the Bee	2006	PG	112 min	84	$18.8M
+Stick It	2006	PG-13	103 min	31	$26.9M
+The TV Set	2006	R	88 min	64	$34.5k
+United 93	2006	R	111 min	91	$31.5M
+RV	2006	PG	99 min	23	$71.4M
+Hoot	2006	PG	91 min	26	$8.1M
+Mission: Impossible III	2006	PG-13	126 min	70	$133.4M
+Art School Confidential	2006	R	102 min	36	$3.2M
+Just My Luck	2006	PG-13	103 min	13	$17.2M
+Poseidon	2006	PG-13	98 min	33	$60.7M
+See No Evil	2006	R	84 min	8	$15.0M
+Over the Hedge	2006	PG	83 min	75	$155.0M
+The Da Vinci Code	2006	PG-13	149 min	25	$217.5M
+X-Men: The Last Stand	2006	PG-13	104 min	58	$234.2M
+The Break-Up	2006	PG-13	106 min	33	$118.7M
+Keeping Up with the Steins	2006	PG-13	90 min	37	$4.3M
+The Omen	2006	R	110 min	27	$54.6M
+A Prairie Home Companion	2006	PG-13	105 min	81	$20.2M
+Cars	2006	G	117 min	74	$244.1M
+Garfield 2	2006	PG	78 min	11	$28.3M
+The Fast and the Furious: Tokyo Drift	2006	PG-13	104 min	37	$62.5M
+The Lake House	2006	PG	99 min	35	$52.3M
+Nacho Libre	2006	PG	92 min	40	$80.2M
+Click	2006	PG-13	107 min	32	$137.3M
+Peaceful Warrior	2006	PG-13	120 min	25	$1.0M
+Romeo & Juliet: Sealed with a Kiss	2006	G	76 min	20	$80.9k
+Waist Deep	2006	R	97 min	27	$21.3M
+Superman Returns	2006	PG-13	154 min	76	$200.0M
+The Devil Wears Prada	2006	PG-13	109 min	75	$124.7M
+An Inconvenient Truth	2006	PG	100 min	93	$23.7M
+Quinceañera	2006	R	90 min	86	$1.5M
+Pirates of the Caribbean: Dead Man's Chest	2006	PG-13	151 min	54	$423.0M
+"You, Me and Dupree"	2006	PG-13	108 min	21	$75.6M
+Littleman	2006	PG-13	98 min	12	$58.3M
+The Celestine Prophecy	2006	PG	99 min	4	$1.0M
+Monster House	2006	PG	91 min	74	$73.7M
+Lady in the Water	2006	PG-13	110 min	24	$42.2M
+Wordplay	2006	PG	94 min	95	$2.9M
+Clerks II	2006	R	97 min	63	$24.0M
+My Super Ex-Girlfriend	2006	PG-13	95 min	40	$22.4M
+Miami Vice	2006	R	134 min	47	$63.4M
+John Tucker Must Die	2006	PG-13	89 min	26	$40.9M
+Scoop	2006	PG-13	96 min	39	$10.5M
+The Ant Bully	2006	PG	88 min	63	$28.1M
+A Scanner Darkly	2006	R	100 min	69	$5.3M
+Barnyard	2006	PG	90 min	22	$72.6M
+Talladega Nights: The Ballad of Ricky Bobby	2006	PG-13	108 min	72	$148.2M
+Who Killed the Electric Car?	2006	PG	92 min	88	$1.3M
+The Night Listener	2006	R	91 min	40	$7.8M
+World Trade Center	2006	PG-13	129 min	68	$70.2M
+The Butterfly Effect 2	2006	R	92 min	0	$57.0M
+Pulse	2006	PG-13	90 min	10	$20.2M
+Step Up	2006	PG-13	104 min	19	$65.3M
+Zoom	2006	PG	83 min	3	$11.6M
+Snakes on a Plane	2006	R	105 min	68	$33.9M
+Accepted	2006	PG-13	93 min	36	$36.3M
+Little Miss Sunshine	2006	R	101 min	91	$59.8M
+Material Girls	2006	PG	97 min	4	$11.3M
+Invincible	2006	PG	105 min	71	$57.8M
+How to Eat Fried Worms	2006	PG	98 min	59	$13.0M
+Idlewild	2006	R	121 min	48	$12.5M
+Beerfest	2006	R	110 min	41	$19.0M
+Crank	2006	R	88 min	61	$27.8M
+Crossover	2006	PG-13	95 min	2	$7.0M
+The Illusionist	2006	PG-13	110 min	74	$39.7M
+The Covenant	2006	PG-13	97 min	3	$23.3M
+Hollywoodland	2006	R	126 min	69	$14.3M
+Broken Bridges	2006	PG-13	105 min	5	$0.2M
+Everyone's Hero	2006	G	88 min	41	$14.5M
+The Last Kiss	2006	R	104 min	46	$11.5M
+Beer League	2006	R	86 min	27	$0.5M
+Gridiron Gang	2006	PG-13	125 min	42	$38.4M
+The Black Dahlia	2006	R	121 min	32	$22.5M
+Flyboys	2006	PG-13	140 min	33	$13.0M
+Jackass Number Two	2006	R	92 min	63	$72.8M
+Half Nelson	2006	R	106 min	90	$2.6M
+Open Season	2006	PG	83 min	48	$84.3M
+School for Scoundrels	2006	PG-13	100 min	25	$17.8M
+Facing the Giants	2006	PG	111 min	13	$10.1M
+The Guardian	2006	PG-13	139 min	37	$55.0M
+The Texas Chainsaw Massacre: The Beginning	2006	R	91 min	12	$39.4M
+The Departed	2006	R	151 min	91	$132.3M
+Employee of the Month	2006	PG-13	103 min	20	$28.4M
+Infamous	2006	R	110 min	73	$1.1M
+The Grudge 2	2006	PG-13	102 min	10	$39.1M
+One Night with the King	2006	PG	123 min	19	$13.4M
+A Guide to Recognizing Your Saints	2006	R	100 min	76	$0.4M
+Alex Rider: Operation Stormbreaker	2006	PG	93 min	34	$0.6M
+Man of the Year	2006	PG-13	115 min	21	$37.4M
+The Marine	2006	PG-13	92 min	20	$18.7M
+O Jerusalem	2006	R	100 min	35	$0.2M
+Fur: An Imaginary Portrait of Diane Arbus	2006	R	122 min	32	$0.1M
+Flags of Our Fathers	2006	R	135 min	73	$33.6M
+Marie Antoinette	2006	PG-13	123 min	55	$16.0M
+The Prestige	2006	PG-13	130 min	76	$53.0M
+Flicka	2006	PG	95 min	54	$20.9M
+Lonely Hearts	2006	R	108 min	48	$0.1M
+Running with Scissors	2006	R	116 min	31	$6.8M
+Saw III	2006	R	108 min	28	$80.2M
+Conversations with God	2006	PG	109 min	7	$0.3M
+Catch a Fire	2006	PG-13	101 min	76	$4.3M
+Little Children	2006	R	136 min	80	$5.3M
+The Santa Clause 3: The Escape Clause	2006	G	97 min	15	$84.4M
+Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan	2006	R	84 min	91	$128.4M
+Flushed Away	2006	PG	85 min	72	$64.5M
+Babel	2006	R	143 min	69	$34.2M
+Breaking and Entering	2006	R	120 min	34	$0.9M
+The Return	2006	PG-13	85 min	16	$7.7M
+A Good Year	2006	PG-13	117 min	25	$7.4M
+Goya's Ghosts	2006	R	113 min	30	$0.7M
+Stranger Than Fiction	2006	PG-13	113 min	72	$40.1M
+The Queen	2006	PG-13	103 min	97	$56.2M
+Happy Feet	2006	PG	108 min	75	$197.9M
+Fast Food Nation	2006	R	116 min	50	$0.9M
+Let's Go to Prison	2006	R	84 min	12	$5.5M
+Casino Royale	2006	PG-13	144 min	95	$167.0M
+The Fountain	2006	PG-13	96 min	51	$10.0M
+For Your Consideration	2006	PG-13	86 min	50	$5.5M
+Deck the Halls	2006	PG	93 min	6	$35.1M
+Tenacious D in The Pick of Destiny	2006	R	93 min	54	$8.2M
+Deja Vu	2006	PG-13	126 min	55	$63.9M
+Bobby	2006	R	120 min	46	$11.1M
+The Nativity Story	2006	PG	101 min	38	$37.6M
+Turistas	2006	R	93 min	16	$6.9M
+Van Wilder 2: The Rise of Taj	2006	R	97 min	7	$3.8M
+The U.S. vs. John Lennon	2006	PG-13	99 min	77	$1.0M
+The Holiday	2006	PG-13	138 min	47	$63.2M
+Apocalypto	2006	R	139 min	65	$50.8M
+Unaccompanied Minors	2006	PG	90 min	31	$16.6M
+Blood Diamond	2006	R	143 min	62	$57.3M
+Charlotte's Web	2006	G	97 min	78	$82.1M
+The Pursuit of Happyness	2006	PG-13	117 min	67	$162.6M
+Rocky Balboa	2006	PG	102 min	76	$70.1M
+We Are Marshall	2006	PG	131 min	49	$43.5M
+Night at the Museum	2006	PG	108 min	44	$250.8M
+The Good Shepherd	2006	R	167 min	54	$59.8M
+Dreamgirls	2006	PG-13	130 min	78	$103.3M
+Happily N'Ever After	2006	PG	87 min	4	$151.9M
+Thr3e	2006	PG-13	101 min	5	$1.0M
+Children of Men	2006	R	109 min	92	$35.3M
+Alpha Dog	2006	R	122 min	55	$15.1M
+God Grew Tired of Us	2006	PG	89 min	91	$0.1M
+Pan's Labyrinth	2006	R	118 min	95	$37.4M
+The Painted Veil	2006	PG-13	125 min	74	$7.9M
+The Good German	2006	R	105 min	33	$0.9M
+Idiocracy	2006	R	84 min	73	$0.3M
+Smokin' Aces	2006	R	108 min	29	$35.6M
+Catch and Release	2006	PG-13	124 min	21	$15.3M
+Letters from Iwo Jima	2006	R	141 min	91	$13.7M
+10 Items or Less	2006	R	82 min	63	$69.3k
+Factory Girl	2006	R	90 min	19	$1.6M
+The Bridge	2006	R	94 min	67	$49.3k
+The Astronaut Farmer	2006	PG	104 min	57	$11.0M
+Amazing Grace	2006	PG	118 min	70	$21.2M
+Black Snake Moan	2006	R	116 min	66	$9.3M
+Copying Beethoven	2006	PG-13	104 min	28	$0.2M
+300	2006	R	117 min	60	$210.6M
+Starter for 10	2006	PG-13	92 min	89	$0.2M
+Miss Potter	2006	PG	92 min	66	$2.9M
+The Ultimate Gift	2006	PG	114 min	32	$3.2M
+First Snow	2006	R	101 min	58	$0.1M
+The Namesake	2006	PG-13	122 min	87	$13.5M
+Seraphim Falls	2006	R	115 min	55	$0.3M
+Jesus Camp	2006	PG-13	87 min	87	$0.8M
+Blind Dating	2006	PG-13	95 min	25	$61.9k
+The Ex	2006	PG-13	89 min	19	$3.0M
+Away from Her	2006	PG-13	110 min	94	$15.8M
+Bug	2006	R	102 min	61	$7.0M
+Hollywood Dreams	2006	R	100 min	36	$89.2k
+DOA: Dead or Alive	2006	PG-13	87 min	34	$0.3M
+Rescue Dawn	2006	PG-13	120 min	91	$5.3M
+El cantante	2006	R	106 min	25	$7.5M
+Mini's First Time	2006	R	91 min	54	$21.8k
+Skinwalkers	2006	R	110 min	14	$1.0M
+Come Early Morning	2006	R	97 min	83	$50.2k
+Fay Grim	2006	R	118 min	44	$61.8k
+Bella	2006	PG-13	91 min	44	$7.9M
+Southland Tales	2006	R	145 min	36	$0.2M
+Wild West Comedy Show: 30 Days & 30 Nights - Hollywood to the Heartland	2006	R	100 min	57	$0.5M
+Penelope	2006	PG	104 min	53	$9.8M
+Bonneville	2006	PG	93 min	40	$0.3M
+Little Chenier	2006	R	120 min	60	$44.4k
+The Fall	2006	R	117 min	59	$2.1M
+Civic Duty	2006	R	98 min	56	$54.9k
+The Foot Fist Way	2006	R	85 min	54	$0.2M
+The Heart Specialist	2006	R	99 min	0	$1.1M
+Starting Out in the Evening	2007	PG-13	111 min	87	$0.6M
+Music Within	2007	R	94 min	33	$0.1M
+Code Name: The Cleaner	2007	PG-13	84 min	4	$8.1M
+Freedom Writers	2007	PG-13	123 min	69	$36.5M
+Primeval	2007	R	93 min	19	$10.4M
+Stomp the Yard	2007	PG-13	109 min	26	$61.4M
+The Hitcher	2007	R	84 min	21	$16.2M
+Blood and Chocolate	2007	PG-13	98 min	11	$3.4M
+Epic Movie	2007	PG-13	86 min	2	$39.7M
+Because I Said So	2007	PG-13	102 min	5	$42.6M
+The Messengers	2007	PG-13	90 min	12	$35.4M
+The Last Sin Eater	2007	PG-13	117 min	19	$0.2M
+Norbit	2007	PG-13	102 min	9	$95.3M
+Daddy's Little Girls	2007	PG-13	100 min	26	$31.3M
+Music and Lyrics	2007	PG-13	96 min	62	$50.5M
+Bridge to Terabithia	2007	PG	96 min	85	$82.2M
+Breach	2007	PG-13	110 min	84	$33.0M
+Ghost Rider	2007	PG-13	114 min	26	$115.8M
+The Number 23	2007	R	101 min	8	$35.1M
+Reno 911!: Miami	2007	R	84 min	35	$20.3M
+Wild Hogs	2007	PG-13	100 min	14	$168.2M
+Zodiac	2007	R	157 min	89	$33.0M
+Shoot Down	2007	PG-13	85 min	80	$51.4k
+Dead Silence	2007	R	89 min	21	$16.5M
+Premonition	2007	PG-13	96 min	8	$47.9M
+Reign Over Me	2007	R	124 min	64	$19.7M
+Shooter	2007	R	124 min	48	$47.0M
+The Hills Have Eyes II	2007	R	89 min	11	$20.8M
+TMNT	2007	PG	87 min	34	$54.1M
+Pride	2007	PG	104 min	45	$7.0M
+The Last Mimzy	2007	PG	90 min	53	$21.4M
+Blades of Glory	2007	PG-13	93 min	69	$118.2M
+Meet the Robinsons	2007	G	95 min	66	$97.7M
+The Lookout	2007	R	99 min	87	$4.5M
+Are We Done Yet?	2007	PG	92 min	8	$50.0M
+Firehouse Dog	2007	PG	111 min	38	$13.9M
+The Reaping	2007	R	99 min	8	$25.1M
+Grindhouse	2007	R	191 min	83	$24.9M
+Redline	2007	PG-13	95 min	0	$6.8M
+Disturbia	2007	PG-13	105 min	68	$80.1M
+Aqua Teen Hunger Force Colon Movie Film for Theaters	2007	R	86 min	48	$5.4M
+My Name Is Bruce	2007	R	86 min	40	$0.1M
+Perfect Stranger	2007	R	109 min	11	$23.7M
+Pathfinder	2007	R	99 min	11	$10.2M
+Hot Fuzz	2007	R	121 min	91	$23.6M
+Fracture	2007	R	113 min	71	$39.0M
+Vacancy	2007	R	85 min	56	$19.0M
+In the Land of Women	2007	PG-13	97 min	43	$11.0M
+The Hammer	2007	R	88 min	80	$0.3M
+The Condemned	2007	R	113 min	15	$7.3M
+The Invisible	2007	PG-13	102 min	20	$20.5M
+Next	2007	PG-13	96 min	28	$18.0M
+Spider-Man 3	2007	PG-13	139 min	63	$336.5M
+Lucky You	2007	PG-13	124 min	29	$5.7M
+Interview	2007	R	84 min	57	$0.3M
+Delta Farce	2007	PG-13	90 min	5	$8.1M
+Georgia Rule	2007	R	113 min	17	$18.9M
+Year of the Dog	2007	PG-13	97 min	69	$1.5M
+Shrek the Third	2007	PG	93 min	40	$320.7M
+Pirates of the Caribbean: At World's End	2007	PG-13	169 min	45	$309.4M
+Waitress	2007	PG-13	108 min	89	$18.7M
+Mr. Brooks	2007	R	120 min	55	$28.4M
+Crazy Love	2007	PG-13	92 min	78	$0.2M
+Gracie	2007	PG-13	95 min	60	$2.9M
+Hostel: Part II	2007	R	94 min	44	$17.5M
+Ocean's Thirteen	2007	PG-13	122 min	70	$117.1M
+Surf's Up	2007	PG	85 min	78	$58.9M
+The Living Wake	2007	PG-13	91 min	50	$12.1k
+Fantastic 4: Rise of the Silver Surfer	2007	PG	92 min	37	$131.8M
+Nancy Drew	2007	PG	99 min	49	$25.5M
+1408	2007	PG-13	104 min	79	$71.9M
+A Mighty Heart	2007	R	108 min	79	$9.1M
+Evan Almighty	2007	PG	96 min	23	$100.3M
+Live Free or Die Hard	2007	PG-13	128 min	82	$134.5M
+Ratatouille	2007	G	111 min	96	$206.4M
+Evening	2007	PG-13	117 min	27	$12.4M
+License to Wed	2007	PG-13	91 min	7	$43.7M
+Nanking	2007	R	88 min	96	$45.5k
+Sicko	2007	PG-13	123 min	92	$24.3M
+Rise: Blood Hunter	2007	R	97 min	33	$59.4k
+Harry Potter and the Order of the Phoenix	2007	PG-13	138 min	79	$292.0M
+You Kill Me	2007	R	93 min	78	$2.3M
+Captivity	2007	R	96 min	9	$2.6M
+Joshua	2007	R	106 min	62	$0.4M
+I Now Pronounce You Chuck & Larry	2007	PG-13	115 min	14	$119.7M
+Hairspray	2007	PG	117 min	91	$118.8M
+Who's Your Caddy?	2007	PG-13	93 min	6	$5.5M
+I Know Who Killed Me	2007	R	105 min	7	$7.2M
+The Simpsons Movie	2007	PG-13	87 min	90	$183.0M
+No Reservations	2007	PG	104 min	42	$43.1M
+Bratz	2007	PG	110 min	9	$9.9M
+Underdog	2007	PG	84 min	14	$43.7M
+Hot Rod	2007	PG-13	88 min	40	$13.9M
+Talk to Me	2007	R	118 min	82	$4.4M
+The Bourne Ultimatum	2007	PG-13	115 min	93	$227.4M
+Daddy Day Camp	2007	PG	93 min	1	$13.2M
+The Walker	2007	R	108 min	54	$43.2k
+Rush Hour 3	2007	PG-13	91 min	18	$140.1M
+Stardust	2007	PG-13	127 min	76	$38.2M
+Superbad	2007	R	113 min	88	$121.5M
+Arctic Tale	2007	G	96 min	61	$0.6M
+The Invasion	2007	PG-13	99 min	19	$15.0M
+September Dawn	2007	R	111 min	13	$1.1M
+Resurrecting the Champ	2007	PG-13	112 min	60	$2.9M
+Illegal Tender	2007	R	108 min	15	$3.1M
+The Legend of God's Gun	2007	R	78 min	0	$77.2k
+Balls of Fury	2007	PG-13	90 min	23	$32.8M
+Halloween	2007	R	109 min	25	$58.2M
+Death Sentence	2007	R	105 min	20	$9.5M
+Ladrón que roba a ladrón	2007	PG-13	98 min	66	$4.0M
+The Brothers Solomon	2007	R	93 min	15	$0.9M
+Shoot 'Em Up	2007	R	86 min	67	$12.7M
+3:10 to Yuma	2007	R	122 min	89	$53.6M
+Greetings from the Shore	2007	R	116 min	70	$40.5k
+Mr. Woodcock	2007	PG-13	87 min	13	$25.8M
+The Brave One	2007	R	122 min	43	$36.8M
+The Hunting Party	2007	R	101 min	53	$0.8M
+Eastern Promises	2007	R	100 min	89	$17.1M
+Sydney White	2007	PG-13	108 min	37	$11.7M
+Resident Evil: Extinction	2007	R	94 min	22	$50.6M
+Good Luck Chuck	2007	R	96 min	5	$35.0M
+Feast of Love	2007	R	101 min	39	$3.4M
+In the Valley of Elah	2007	R	121 min	73	$6.6M
+Rocket Science	2007	R	101 min	84	$0.6M
+The Kingdom	2007	R	110 min	51	$47.5M
+The Game Plan	2007	PG	110 min	29	$90.5M
+Feel the Noise	2007	PG-13	86 min	12	$5.9M
+The Heartbreak Kid	2007	R	116 min	29	$36.8M
+Control	2007	R	122 min	87	$0.8M
+The Jane Austen Book Club	2007	PG-13	106 min	65	$3.3M
+The 11th Hour	2007	PG	95 min	67	$0.6M
+Elizabeth: The Golden Age	2007	PG-13	114 min	35	$16.3M
+The Final Season	2007	PG	119 min	26	$1.0M
+Michael Clayton	2007	R	119 min	90	$49.0M
+We Own the Night	2007	R	117 min	57	$28.6M
+Across the Universe	2007	PG-13	133 min	53	$24.3M
+Trade	2007	R	120 min	29	$0.1M
+Rendition	2007	R	122 min	47	$9.7M
+Sarah Landon and the Paranormal Hour	2007	PG	81 min	0	$0.8M
+Into the Wild	2007	R	148 min	82	$18.2M
+The Ten Commandments	2007	PG	88 min	14	$0.8M
+30 Days of Night	2007	R	113 min	51	$39.6M
+Gone Baby Gone	2007	R	114 min	94	$20.3M
+Things We Lost in the Fire	2007	R	118 min	65	$3.2M
+The Assassination of Jesse James by the Coward Robert Ford	2007	R	160 min	76	$3.8M
+The Comebacks	2007	PG-13	84 min	9	$13.3M
+Paranoid Park	2007	R	85 min	76	$0.2M
+The Darjeeling Limited	2007	R	91 min	68	$11.7M
+Dan in Real Life	2007	PG-13	98 min	64	$47.6M
+Saw IV	2007	R	93 min	17	$63.3M
+Youth Without Youth	2007	R	124 min	30	$0.1M
+Darfur Now	2007	PG	98 min	73	$63.9k
+Lars and the Real Girl	2007	PG-13	106 min	81	$5.8M
+Bee Movie	2007	PG	91 min	51	$126.6M
+In the Shadow of the Moon	2007	PG	100 min	95	$0.9M
+Martian Child	2007	PG	106 min	33	$7.5M
+American Gangster	2007	R	157 min	80	$130.1M
+Lions for Lambs	2007	R	92 min	27	$15.0M
+P2	2007	R	98 min	35	$4.0M
+Fred Claus	2007	PG	116 min	21	$72.0M
+Mr. Magorium's Wonder Emporium	2007	G	93 min	37	$31.9M
+What Would Jesus Buy?	2007	PG	91 min	57	$0.1M
+Love in the Time of Cholera	2007	R	139 min	26	$4.6M
+Beowulf	2007	PG-13	115 min	71	$82.2M
+Redacted	2007	R	90 min	45	$25.6k
+Enchanted	2007	PG	107 min	93	$127.7M
+No Country for Old Men	2007	R	122 min	93	$74.2M
+August Rush	2007	PG	114 min	37	$31.5M
+The Mist	2007	R	126 min	73	$25.5M
+This Christmas	2007	PG-13	117 min	56	$49.1M
+Sleuth	2007	R	86 min	36	$0.2M
+Awake	2007	R	84 min	23	$14.3M
+The Golden Compass	2007	PG-13	113 min	42	$70.1M
+I'm Not There.	2007	R	135 min	76	$3.7M
+Before the Devil Knows You're Dead	2007	R	117 min	88	$7.0M
+Noëlle	2007	PG	90 min	57	$0.2M
+The Perfect Holiday	2007	PG	96 min	16	$5.8M
+I Am Legend	2007	PG-13	101 min	70	$256.3M
+Alvin and the Chipmunks	2007	PG	92 min	27	$217.2M
+Margot at the Wedding	2007	R	91 min	52	$1.9M
+Charlie Wilson's War	2007	R	102 min	82	$66.6M
+Walk Hard: The Dewey Cox Story	2007	R	96 min	74	$18.3M
+National Treasure: Book of Secrets	2007	PG	124 min	35	$219.9M
+Sweeney Todd: The Demon Barber of Fleet Street	2007	R	116 min	86	$52.8M
+Juno	2007	PG-13	96 min	94	$143.4M
+Aliens vs. Predator: Requiem	2007	R	94 min	12	$41.7M
+In the Name of the King: A Dungeon Siege Tale	2007	PG-13	127 min	4	$4.5M
+The Kite Runner	2007	PG-13	128 min	66	$15.7M
+The Bucket List	2007	PG-13	97 min	41	$93.5M
+Atonement	2007	R	123 min	83	$50.8M
+Cassandra's Dream	2007	PG-13	108 min	46	$0.9M
+How She Move	2007	PG-13	94 min	66	$7.0M
+There Will Be Blood	2007	R	158 min	91	$40.1M
+The Savages	2007	R	113 min	89	$6.4M
+The Diving Bell and the Butterfly	2007	PG-13	112 min	94	$5.9M
+Diary of the Dead	2007	R	95 min	62	$0.7M
+Charlie Bartlett	2007	R	97 min	56	$3.7M
+Persepolis	2007	PG-13	96 min	96	$4.3M
+U2 3D	2007	G	85 min	93	$10.4M
+The King of Kong: A Fistful of Quarters	2007	PG-13	79 min	97	$0.5M
+The Band's Visit	2007	PG-13	87 min	98	$3.0M
+"Run, Fatboy, Run"	2007	PG-13	100 min	48	$5.9M
+Married Life	2007	PG-13	91 min	55	$1.2M
+Teeth	2007	R	94 min	79	$0.2M
+Funny Games	2007	R	111 min	52	$1.0M
+Under the Same Moon	2007	PG-13	106 min	73	$12.5M
+88 Minutes	2007	R	108 min	5	$16.9M
+Then She Found Me	2007	R	100 min	50	$3.7M
+Surfwise	2007	R	93 min	98	$0.2M
+The Visitor	2007	PG-13	104 min	89	$9.2M
+Trumbo	2007	PG-13	96 min	82	$28.1k
+Broken English	2007	PG-13	93 min	64	$0.8M
+Encounters at the End of the World	2007	G	99 min	94	$0.7M
+The Ten	2007	R	96 min	37	$0.5M
+The Life Before Her Eyes	2007	R	90 min	24	$0.2M
+Snow Angels	2007	R	107 min	68	$0.3M
+Towelhead	2007	R	124 min	49	$0.3M
+Tortilla Heaven	2007	PG-13	98 min	25	$73.5k
+Nobel Son	2007	R	110 min	25	$0.3M
+Everybody Wants to Be Italian	2007	R	105 min	9	$0.3M
+Earth	2007	G	90 min	87	$32.0M
+Battle for Terra	2007	PG	85 min	48	$1.6M
+Brooklyn Rules	2007	R	99 min	45	$0.2M
+Paranormal Activity	2007	R	86 min	83	$107.9M
+One Missed Call	2008	PG-13	87 min	0	$26.8M
+The Pirates Who Don't Do Anything: A VeggieTales Movie	2008	G	85 min	39	$12.7M
+Mad Money	2008	PG-13	104 min	22	$20.5M
+27 Dresses	2008	PG-13	111 min	41	$76.8M
+Cloverfield	2008	PG-13	85 min	77	$80.0M
+Bigger Stronger Faster*	2008	PG-13	105 min	96	$0.2M
+The Mysteries of Pittsburgh	2008	R	95 min	12	$32.8k
+Untraceable	2008	R	101 min	16	$28.7M
+Meet the Spartans	2008	PG-13	86 min	2	$38.2M
+Rambo	2008	R	92 min	37	$42.7M
+Over Her Dead Body	2008	PG-13	95 min	15	$7.5M
+Hannah Montana & Miley Cyrus: Best of Both Worlds Concert	2008	G	74 min	72	$65.1M
+The Eye	2008	PG-13	98 min	22	$31.4M
+Strange Wilderness	2008	R	87 min	2	$6.5M
+Fool's Gold	2008	PG-13	112 min	11	$70.2M
+"Welcome Home, Roscoe Jenkins"	2008	PG-13	114 min	22	$42.2M
+Jumper	2008	PG-13	88 min	16	$80.1M
+Step Up 2: The Streets	2008	PG-13	98 min	27	$58.0M
+The Spiderwick Chronicles	2008	PG	96 min	80	$71.1M
+"Definitely, Maybe"	2008	PG-13	112 min	71	$32.0M
+Witless Protection	2008	PG-13	97 min	4	$4.1M
+Be Kind Rewind	2008	PG-13	102 min	66	$11.0M
+Vantage Point	2008	PG-13	90 min	35	$72.3M
+Semi-Pro	2008	R	91 min	21	$33.4M
+In Bruges	2008	R	107 min	84	$7.6M
+The Other Boleyn Girl	2008	PG-13	115 min	42	$26.8M
+"10,000 BC"	2008	PG-13	109 min	8	$94.8M
+Miss Pettigrew Lives for a Day	2008	PG-13	92 min	77	$12.3M
+College Road Trip	2008	G	83 min	13	$45.6M
+The Bank Job	2008	R	111 min	79	$30.0M
+Never Back Down	2008	PG-13	110 min	22	$24.8M
+Doomsday	2008	R	105 min	50	$11.0M
+Horton Hears a Who!	2008	G	86 min	79	$154.4M
+Meet the Browns	2008	PG-13	100 min	32	$41.9M
+Shutter	2008	PG-13	85 min	7	$25.9M
+Drillbit Taylor	2008	PG-13	110 min	25	$32.9M
+Stop-Loss	2008	R	112 min	65	$10.8M
+21	2008	PG-13	123 min	36	$81.2M
+Superhero Movie	2008	PG-13	75 min	16	$25.8M
+Nim's Island	2008	PG	96 min	51	$47.9M
+Shine a Light	2008	PG-13	122 min	87	$5.4M
+Leatherheads	2008	PG-13	114 min	52	$31.2M
+The Ruins	2008	R	90 min	48	$17.4M
+Street Kings	2008	R	109 min	36	$26.4M
+Prom Night	2008	PG-13	88 min	8	$43.8M
+Smart People	2008	R	95 min	49	$9.5M
+Forgetting Sarah Marshall	2008	R	111 min	85	$62.9M
+Expelled: No Intelligence Allowed	2008	PG	90 min	11	$7.5M
+The Forbidden Kingdom	2008	PG-13	104 min	64	$51.9M
+Deception	2008	R	107 min	14	$4.6M
+Harold & Kumar Escape from Guantanamo Bay	2008	R	104 min	53	$38.1M
+Baby Mama	2008	PG-13	99 min	64	$60.3M
+Iron Man	2008	PG-13	126 min	94	$318.3M
+Made of Honor	2008	PG-13	101 min	14	$46.0M
+Speed Racer	2008	PG	135 min	39	$43.9M
+What Happens in Vegas	2008	PG-13	99 min	27	$80.2M
+Where in the World Is Osama Bin Laden?	2008	PG-13	90 min	38	$0.3M
+Redbelt	2008	R	99 min	68	$2.3M
+The Chronicles of Narnia: Prince Caspian	2008	PG	150 min	67	$141.6M
+Indiana Jones and the Kingdom of the Crystal Skull	2008	PG-13	122 min	78	$317.0M
+Sex and the City	2008	R	145 min	49	$152.6M
+The Strangers	2008	R	86 min	45	$52.5M
+Kung Fu Panda	2008	PG	92 min	87	$215.4M
+You Don't Mess with the Zohan	2008	PG-13	113 min	38	$100.0M
+Waltz with Bashir	2008	R	90 min	96	$2.1M
+The Children of Huang Shi	2008	R	125 min	30	$0.7M
+The Promotion	2008	R	86 min	53	$0.4M
+The Happening	2008	R	91 min	17	$64.5M
+The Incredible Hulk	2008	PG-13	112 min	67	$134.5M
+"War, Inc."	2008	R	107 min	30	$0.5M
+The Love Guru	2008	PG-13	87 min	14	$32.2M
+Get Smart	2008	PG-13	110 min	51	$130.2M
+Wanted	2008	R	110 min	72	$134.3M
+WALL·E	2008	G	98 min	96	$223.7M
+Kit Kittredge: An American Girl	2008	G	101 min	79	$17.5M
+Hancock	2008	PG-13	92 min	41	$227.9M
+CSNY/Déjà Vu	2008	R	96 min	68	$32.9k
+Journey to the Center of the Earth	2008	PG	93 min	61	$101.7M
+Hellboy II: The Golden Army	2008	PG-13	120 min	86	$75.8M
+Meet Dave	2008	PG	90 min	20	$11.6M
+Outlander	2008	R	115 min	37	$59.6k
+Fireflies in the Garden	2008	R	120 min	20	$36.9k
+Gonzo: The Life and Work of Dr. Hunter S. Thompson	2008	R	120 min	86	$1.0M
+The Dark Knight	2008	PG-13	152 min	94	$533.3M
+Mamma Mia!	2008	PG-13	108 min	54	$143.7M
+Space Chimps	2008	G	81 min	34	$29.9M
+Step Brothers	2008	R	98 min	55	$100.5M
+The X Files: I Want to Believe	2008	PG-13	104 min	31	$20.8M
+The Wackness	2008	R	99 min	69	$2.0M
+Swing Vote	2008	PG-13	120 min	38	$16.2M
+The Mummy: Tomb of the Dragon Emperor	2008	PG-13	112 min	13	$101.6M
+The Sisterhood of the Traveling Pants 2	2008	PG-13	117 min	65	$44.0M
+The Midnight Meat Train	2008	R	100 min	71	$34.4k
+Beer for My Horses	2008	PG-13	86 min	0	$0.6M
+Tropic Thunder	2008	R	107 min	83	$110.4M
+Star Wars: The Clone Wars	2008	PG	98 min	18	$35.1M
+Mirrors	2008	R	110 min	14	$30.6M
+Vicky Cristina Barcelona	2008	PG-13	96 min	81	$23.2M
+American Teen	2008	PG-13	95 min	69	$0.8M
+Henry Poole Is Here	2008	PG	99 min	39	$1.7M
+The Rocker	2008	PG-13	102 min	41	$6.3M
+The Longshots	2008	PG	94 min	41	$11.4M
+Death Race	2008	R	105 min	43	$36.1M
+The House Bunny	2008	PG-13	97 min	42	$48.2M
+Traitor	2008	PG-13	114 min	64	$23.5M
+Hamlet 2	2008	R	92 min	62	$4.8M
+College	2008	R	94 min	5	$4.6M
+Elegy	2008	R	112 min	75	$3.5M
+Man on Wire	2008	PG-13	94 min	100	$2.6M
+Fly Me to the Moon 3D	2008	G	84 min	19	$13.6M
+Disaster Movie	2008	PG-13	87 min	1	$14.2M
+Bottle Shock	2008	PG-13	110 min	48	$3.9M
+Frozen River	2008	R	97 min	88	$2.1M
+Bangkok Dangerous	2008	R	99 min	9	$15.2M
+The Women	2008	PG-13	114 min	13	$26.8M
+The Family That Preys	2008	PG-13	111 min	51	$37.0M
+Righteous Kill	2008	R	101 min	19	$40.0M
+Burn After Reading	2008	R	96 min	78	$60.3M
+Igor	2008	PG	87 min	36	$19.4M
+My Best Friend's Girl	2008	R	101 min	14	$19.2M
+Ghost Town	2008	PG-13	102 min	85	$13.2M
+Lakeview Terrace	2008	PG-13	110 min	45	$39.3M
+Eagle Eye	2008	PG-13	118 min	26	$101.1M
+Fireproof	2008	PG	122 min	40	$33.5M
+Nights in Rodanthe	2008	PG-13	97 min	30	$41.8M
+Choke	2008	R	92 min	54	$2.8M
+Forever Strong	2008	PG-13	112 min	29	$0.5M
+Miracle at St. Anna	2008	R	160 min	34	$7.8M
+The Lucky Ones	2008	R	115 min	37	$0.2M
+Appaloosa	2008	R	115 min	77	$20.2M
+Flash of Genius	2008	PG-13	119 min	59	$4.2M
+Beverly Hills Chihuahua	2008	PG	91 min	41	$94.5M
+Religulous	2008	R	101 min	70	$13.0M
+An American Carol	2008	PG-13	83 min	11	$7.0M
+Nick and Norah's Infinite Playlist	2008	PG-13	90 min	74	$31.5M
+The Duchess	2008	PG-13	110 min	61	$13.8M
+Quarantine	2008	R	89 min	58	$31.7M
+The Express	2008	PG	130 min	61	$9.6M
+Body of Lies	2008	R	128 min	54	$39.4M
+City of Ember	2008	PG	90 min	53	$7.8M
+Billy: The Early Years	2008	PG	98 min	0	$0.3M
+The Secret Life of Bees	2008	PG-13	114 min	58	$37.7M
+W.	2008	PG-13	129 min	59	$25.5M
+Sex Drive	2008	R	109 min	45	$8.4M
+Max Payne	2008	PG-13	100 min	16	$40.6M
+Passengers	2008	PG-13	93 min	20	$0.3M
+Noah's Arc: Jumping the Broom	2008	R	101 min	50	$0.4M
+Pride and Glory	2008	R	130 min	35	$15.7M
+Roadside Romeo	2008	PG	93 min	0	$41.8k
+Saw V	2008	R	92 min	12	$56.7M
+High School Musical 3: Senior Year	2008	G	112 min	65	$90.5M
+Changeling	2008	R	141 min	62	$35.7M
+RocknRolla	2008	R	114 min	59	$5.7M
+What Just Happened	2008	R	104 min	51	$1.0M
+The Haunting of Molly Hartley	2008	PG-13	82 min	3	$13.4M
+Zack and Miri Make a Porno	2008	R	101 min	65	$31.4M
+Role Models	2008	R	99 min	78	$67.3M
+House	2008	R	88 min	0	$0.5M
+Rachel Getting Married	2008	R	113 min	85	$12.7M
+Soul Men	2008	R	100 min	45	$12.0M
+Madagascar: Escape 2 Africa	2008	PG	89 min	64	$180.0M
+Quantum of Solace	2008	PG-13	106 min	65	$168.4M
+I.O.U.S.A.	2008	PG	85 min	88	$0.6M
+"Synecdoche, New York"	2008	R	124 min	68	$3.0M
+Twilight	2008	PG-13	122 min	48	$191.4M
+Bolt	2008	PG	96 min	89	$114.1M
+Four Christmases	2008	PG-13	88 min	25	$120.1M
+The Boy in the Striped Pajamas	2008	PG-13	94 min	63	$9.0M
+Transporter 3	2008	PG-13	104 min	37	$31.3M
+Australia	2008	PG-13	165 min	55	$49.4M
+Punisher: War Zone	2008	R	103 min	27	$7.9M
+Cadillac Records	2008	R	109 min	67	$8.1M
+Sleep Dealer	2008	PG-13	90 min	69	$35.0k
+The Day the Earth Stood Still	2008	PG-13	104 min	21	$79.1M
+Nothing Like the Holidays	2008	PG-13	98 min	52	$7.5M
+Delgo	2008	PG	94 min	12	$0.5M
+Seven Pounds	2008	PG-13	123 min	27	$70.0M
+The Tale of Despereaux	2008	G	93 min	56	$50.8M
+Yes Man	2008	PG-13	104 min	46	$97.6M
+Free Style	2008	PG	94 min	29	$97.8k
+Bedtime Stories	2008	PG	99 min	25	$110.0M
+The Curious Case of Benjamin Button	2008	PG-13	166 min	73	$127.5M
+Slumdog Millionaire	2008	R	120 min	92	$141.2M
+The Spirit	2008	PG-13	103 min	14	$19.8M
+Valkyrie	2008	PG-13	121 min	62	$83.0M
+Doubt	2008	PG-13	104 min	78	$33.4M
+Marley & Me	2008	PG	115 min	63	$143.1M
+Gran Torino	2008	R	116 min	79	$148.1M
+Last Chance Harvey	2008	PG-13	93 min	70	$14.8M
+Defiance	2008	R	137 min	57	$28.6M
+Hell Ride	2008	R	84 min	10	$0.2M
+Frost/Nixon	2008	R	122 min	92	$18.6M
+Inkheart	2008	PG	106 min	38	$17.3M
+Revolutionary Road	2008	R	119 min	67	$22.9M
+The Reader	2008	R	124 min	61	$34.1M
+Milk	2008	R	128 min	94	$31.7M
+The Wrestler	2008	R	109 min	98	$26.1M
+The Other End of the Line	2008	PG-13	106 min	37	$59.1k
+Wendy and Lucy	2008	R	80 min	85	$0.7M
+Morning Light	2008	PG	97 min	33	$0.1M
+Two Lovers	2008	R	110 min	82	$3.0M
+The Great Buck Howard	2008	PG	90 min	72	$0.6M
+Sunshine Cleaning	2008	R	91 min	72	$12.0M
+American Violet	2008	PG-13	103 min	74	$0.5M
+Sugar	2008	R	114 min	92	$1.0M
+Valentino: The Last Emperor	2008	PG-13	96 min	77	$1.6M
+Management	2008	R	94 min	46	$0.8M
+Rudo y Cursi	2008	R	103 min	73	$1.7M
+Tyson	2008	R	90 min	85	$0.8M
+Soul Power	2008	PG-13	92 min	85	$23.9k
+Every Little Step	2008	PG-13	96 min	92	$1.5M
+The Brothers Bloom	2008	PG-13	114 min	66	$3.5M
+The Hurt Locker	2008	R	131 min	98	$15.7M
+"Food, Inc."	2008	PG	94 min	96	$4.2M
+Goodbye Solo	2008	R	91 min	94	$0.8M
+It Might Get Loud	2008	PG	98 min	80	$1.2M
+The Secrets of Jonathan Sperry	2008	PG	96 min	0	$1.1M
+The Stoning of Soraya M.	2008	R	114 min	57	$0.5M
+The Loss of a Teardrop Diamond	2008	PG-13	102 min	26	$94.5k
+More Than a Game	2008	PG	105 min	71	$0.9M
+"New York, I Love You"	2008	R	103 min	36	$1.6M
+The Burning Plain	2008	R	107 min	35	$58.7k
+The Yellow Handkerchief	2008	PG-13	102 min	67	$0.2M
+The Merry Gentleman	2008	R	110 min	63	$0.3M
+Me and Orson Welles	2008	PG-13	114 min	85	$1.1M
+"Lovely, Still"	2008	PG	92 min	71	$0.1M
+Youssou Ndour: I Bring What I Love	2008	PG	102 min	83	$32.6k
+Finding Amanda	2008	R	96 min	40	$31.3k
+The Wrecking Crew	2008	PG	101 min	92	$0.8M
+Street Dreams	2009	R	88 min	0	$84.9k
+Alien Trespass	2009	PG	90 min	35	$43.4k
+The Unborn	2009	PG-13	88 min	10	$42.6M
+Bride Wars	2009	PG	89 min	10	$58.6M
+Not Easily Broken	2009	PG-13	99 min	33	$10.6M
+My Bloody Valentine	2009	R	101 min	57	$51.5M
+Paul Blart: Mall Cop	2009	PG	91 min	33	$146.3M
+Chandni Chowk to China	2009	PG-13	154 min	44	$0.9M
+Hotel for Dogs	2009	PG	100 min	45	$73.0M
+Notorious	2009	R	122 min	51	$36.7M
+The Slammin' Salmon	2009	R	90 min	35	$26.2k
+La mission	2009	R	117 min	48	$1.1M
+Underworld: Rise of the Lycans	2009	R	92 min	29	$45.8M
+The Uninvited	2009	PG-13	87 min	32	$28.6M
+New in Town	2009	PG	97 min	29	$16.7M
+Push	2009	PG-13	111 min	23	$31.7M
+Coraline	2009	PG	100 min	90	$75.2M
+He's Just Not That Into You	2009	PG-13	129 min	40	$93.9M
+The Pink Panther 2	2009	PG	92 min	12	$35.9M
+Friday the 13th	2009	R	97 min	25	$65.0M
+The International	2009	R	118 min	59	$25.5M
+Confessions of a Shopaholic	2009	PG	104 min	25	$44.2M
+Under the Sea 3D	2009	G	40 min	94	$34.6M
+Fanboys	2009	PG-13	90 min	32	$0.5M
+Fired Up!	2009	PG-13	90 min	24	$16.8M
+Madea Goes to Jail	2009	PG-13	103 min	29	$90.5M
+Crossing Over	2009	R	113 min	16	$0.4M
+Echelon Conspiracy	2009	PG-13	105 min	0	$0.5M
+Street Fighter: The Legend of Chun-Li	2009	PG-13	96 min	18	$8.6M
+Jonas Brothers: The 3D Concert Experience	2009	G	76 min	24	$19.0M
+Watchmen	2009	R	162 min	65	$107.5M
+Race to Witch Mountain	2009	PG	98 min	43	$67.1M
+The Last House on the Left	2009	R	110 min	41	$32.7M
+Miss March	2009	R	90 min	5	$4.5M
+Brothers at War	2009	R	110 min	68	$33.1k
+That Evening Sun	2009	PG-13	109 min	81	$83.8k
+"I Love You, Man"	2009	R	105 min	84	$71.3M
+Duplicity	2009	PG-13	125 min	64	$40.6M
+Knowing	2009	PG-13	121 min	33	$79.9M
+The Cross	2009	PG	90 min	18	$0.6M
+12 Rounds	2009	PG-13	108 min	29	$12.2M
+Monsters vs. Aliens	2009	PG	94 min	72	$198.3M
+The Haunting in Connecticut	2009	PG-13	92 min	17	$55.3M
+Fast & Furious	2009	PG-13	107 min	28	$155.0M
+Adventureland	2009	R	107 min	88	$16.0M
+Dragonball: Evolution	2009	PG	85 min	14	$9.4M
+Observe and Report	2009	R	86 min	51	$24.0M
+Hannah Montana: The Movie	2009	G	102 min	44	$79.5M
+17 Again	2009	PG-13	102 min	55	$64.1M
+State of Play	2009	PG-13	127 min	84	$37.0M
+Crank: High Voltage	2009	R	96 min	63	$13.6M
+Sin Nombre	2009	R	96 min	89	$2.4M
+Fighting	2009	PG-13	105 min	39	$23.0M
+Obsessed	2009	PG-13	108 min	19	$68.3M
+Outrage	2009	R	90 min	78	$0.2M
+The Soloist	2009	PG-13	117 min	56	$31.7M
+X-Men Origins: Wolverine	2009	PG-13	107 min	38	$179.7M
+Ghosts of Girlfriends Past	2009	PG-13	100 min	27	$55.2M
+Star Trek	2009	PG-13	127 min	95	$257.7M
+Next Day Air	2009	R	84 min	21	$10.0M
+Angels & Demons	2009	PG-13	138 min	37	$133.4M
+Terminator Salvation	2009	PG-13	115 min	33	$125.3M
+Dance Flick	2009	PG-13	83 min	18	$25.6M
+Night at the Museum: Battle of the Smithsonian	2009	PG	105 min	44	$177.1M
+Drag Me to Hell	2009	PG-13	99 min	92	$42.1M
+Up	2009	PG	96 min	98	$293.0M
+Land of the Lost	2009	PG-13	102 min	26	$49.4M
+My Life in Ruins	2009	PG-13	95 min	9	$8.5M
+The Hangover	2009	R	100 min	79	$277.3M
+Saint John of Las Vegas	2009	R	85 min	24	$72.2k
+Imagine That	2009	PG	107 min	40	$16.1M
+The Taking of Pelham 1 2 3	2009	R	106 min	51	$65.5M
+Amreeka	2009	PG-13	96 min	87	$0.4M
+Year One	2009	PG-13	97 min	15	$43.3M
+The Proposal	2009	PG-13	108 min	44	$163.9M
+Transformers: Revenge of the Fallen	2009	PG-13	150 min	19	$402.1M
+Tetro	2009	R	127 min	71	$0.3M
+Away We Go	2009	R	98 min	67	$9.4M
+My Sister's Keeper	2009	PG-13	109 min	48	$49.1M
+Ice Age: Dawn of the Dinosaurs	2009	PG	94 min	45	$196.6M
+Public Enemies	2009	R	140 min	68	$97.0M
+Whatever Works	2009	PG-13	92 min	49	$5.2M
+Spread	2009	R	97 min	21	$0.1M
+The Girlfriend Experience	2009	R	77 min	66	$0.6M
+"I Love You, Beth Cooper"	2009	PG-13	102 min	14	$141.2M
+Brüno	2009	R	81 min	68	$60.0M
+Harry Potter and the Half-Blood Prince	2009	PG	153 min	84	$301.9M
+G-Force	2009	PG	88 min	22	$119.4M
+The Ugly Truth	2009	R	96 min	13	$88.9M
+Orphan	2009	R	123 min	55	$41.5M
+Funny People	2009	R	146 min	68	$51.8M
+Aliens in the Attic	2009	PG	86 min	31	$25.0M
+The Collector	2009	R	90 min	30	$7.7M
+Shrink	2009	R	104 min	29	$93.2k
+Julie & Julia	2009	PG-13	123 min	75	$94.1M
+(500) Days of Summer	2009	PG-13	95 min	86	$32.1M
+A Perfect Getaway	2009	R	98 min	61	$15.5M
+G.I. Joe: The Rise of Cobra	2009	PG-13	118 min	35	$150.2M
+The Cove	2009	PG-13	92 min	94	$0.6M
+District 9	2009	R	112 min	90	$115.6M
+"The Goods: Live Hard, Sell Hard"	2009	R	89 min	27	$15.0M
+Bandslam	2009	PG	111 min	81	$5.2M
+The Time Traveler's Wife	2009	PG-13	107 min	38	$63.4M
+X Games 3D: The Movie	2009	PG	92 min	40	$0.8M
+Shorts	2009	PG	89 min	45	$20.9M
+Inglourious Basterds	2009	R	153 min	89	$120.5M
+Post Grad	2009	PG-13	88 min	8	$6.3M
+Halloween II	2009	R	105 min	19	$33.3M
+Paper Heart	2009	PG-13	88 min	58	$1.1M
+Play the Game	2009	PG-13	105 min	27	$0.5M
+The Final Destination	2009	R	82 min	29	$66.4M
+Motherhood	2009	PG-13	90 min	20	$50.1k
+Taking Woodstock	2009	R	120 min	47	$7.4M
+Adam	2009	PG-13	99 min	64	$2.1M
+Carriers	2009	PG-13	84 min	63	$90.8k
+Extract	2009	R	92 min	63	$10.6M
+All About Steve	2009	PG-13	99 min	7	$33.8M
+Gamer	2009	R	95 min	28	$20.5M
+9	2009	PG-13	79 min	56	$31.7M
+I Can Do Bad All by Myself	2009	PG-13	113 min	63	$51.7M
+Sorority Row	2009	R	101 min	22	$11.9M
+Whiteout	2009	R	101 min	7	$10.2M
+Humpday	2009	R	94 min	79	$0.3M
+Love Happens	2009	PG-13	109 min	16	$22.9M
+Jennifer's Body	2009	R	102 min	42	$16.0M
+Cloudy with a Chance of Meatballs	2009	PG	90 min	87	$124.9M
+The Informant!	2009	R	108 min	79	$33.3M
+The Limits of Control	2009	R	116 min	44	$0.4M
+I Hope They Serve Beer in Hell	2009	R	105 min	20	$1.4M
+Fame	2009	PG	107 min	25	$22.4M
+Surrogates	2009	PG-13	89 min	39	$38.5M
+The September Issue	2009	PG-13	90 min	83	$3.7M
+My One and Only	2009	PG-13	108 min	68	$2.3M
+Capitalism: A Love Story	2009	R	127 min	75	$14.3M
+The Invention of Lying	2009	PG-13	100 min	58	$18.4M
+Whip It	2009	PG-13	111 min	84	$13.0M
+Zombieland	2009	R	88 min	90	$75.6M
+Couples Retreat	2009	PG-13	113 min	11	$109.2M
+From Mexico with Love	2009	PG-13	96 min	0	$0.5M
+Law Abiding Citizen	2009	R	109 min	25	$73.3M
+The Stepfather	2009	PG-13	101 min	11	$29.1M
+Where the Wild Things Are	2009	PG	101 min	73	$77.2M
+Astro Boy	2009	PG	94 min	49	$19.5M
+Amelia	2009	PG	111 min	20	$14.2M
+Cirque du Freak: The Vampire's Assistant	2009	PG-13	109 min	38	$13.8M
+Good Hair	2009	PG-13	96 min	95	$4.1M
+Saw VI	2009	R	90 min	36	$27.7M
+This Is It	2009	PG	111 min	81	$71.8M
+A Christmas Carol	2009	PG	96 min	54	$137.8M
+A Serious Man	2009	R	106 min	89	$9.2M
+The Men Who Stare at Goats	2009	R	94 min	52	$32.4M
+The Fourth Kind	2009	PG-13	98 min	19	$25.5M
+The Box	2009	PG-13	115 min	45	$114.9M
+Today's Special	2009	R	99 min	81	$0.3M
+2012	2009	PG-13	158 min	39	$166.1M
+Planet 51	2009	PG	91 min	21	$42.2M
+The Blind Side	2009	PG-13	129 min	66	$255.5M
+Precious	2009	R	110 min	91	$47.5M
+The Twilight Saga: New Moon	2009	PG-13	130 min	28	$296.6M
+Old Dogs	2009	PG	88 min	5	$49.5M
+Fantastic Mr. Fox	2009	PG	87 min	92	$20.9M
+Ninja Assassin	2009	R	99 min	26	$38.1M
+Armored	2009	PG-13	88 min	40	$16.0M
+Everybody's Fine	2009	PG-13	99 min	46	$8.9M
+The Messenger	2009	R	113 min	90	$1.0M
+Brothers	2009	R	105 min	63	$28.5M
+The Boondock Saints II: All Saints Day	2009	R	118 min	23	$10.2M
+Invictus	2009	PG-13	134 min	76	$37.4M
+Bad Lieutenant: Port of Call New Orleans	2009	R	122 min	87	$1.6M
+The Princess and the Frog	2009	G	97 min	85	$104.4M
+Did You Hear About the Morgans?	2009	PG-13	103 min	12	$29.6M
+Avatar	2009	PG-13	162 min	83	$760.5M
+The Road	2009	R	111 min	75	$8.0M
+Alvin and the Chipmunks: The Squeakquel	2009	PG	88 min	21	$219.3M
+Up in the Air	2009	R	109 min	91	$83.8M
+Nine	2009	PG-13	118 min	37	$19.6M
+It's Complicated	2009	R	120 min	57	$112.7M
+Sherlock Holmes	2009	PG-13	128 min	70	$208.7M
+The Young Victoria	2009	PG	105 min	76	$10.9M
+Daybreakers	2009	R	98 min	67	$30.0M
+Youth in Revolt	2009	R	90 min	66	$15.2M
+Black Dynamite	2009	R	84 min	85	$0.1M
+The Lovely Bones	2009	PG-13	135 min	31	$44.0M
+To Save a Life	2009	PG-13	120 min	33	$3.7M
+An Education	2009	PG-13	100 min	94	$12.5M
+Crazy Heart	2009	R	112 min	91	$38.3M
+A Single Man	2009	R	99 min	85	$9.1M
+The Good Guy	2009	R	90 min	35	$34.7k
+Brooklyn's Finest	2009	R	132 min	43	$26.7M
+Ondine	2009	PG-13	111 min	70	$0.5M
+Chloe	2009	R	96 min	51	$1.8M
+Life During Wartime	2009	R	98 min	69	$0.3M
+The Perfect Game	2009	PG	118 min	57	$1.0M
+Oceans	2009	G	84 min	81	$19.0M
+The Joneses	2009	R	96 min	62	$1.0M
+City Island	2009	PG-13	104 min	81	$6.7M
+Cold Souls	2009	PG-13	101 min	74	$0.7M
+Princess Kaiulani	2009	PG	97 min	18	$0.9M
+Splice	2009	R	104 min	74	$17.0M
+The City of Your Final Destination	2009	PG-13	117 min	38	$0.5M
+Solitary Man	2009	R	90 min	81	$4.4M
+Mother and Child	2009	R	125 min	79	$1.1M
+The Maiden Heist	2009	PG-13	90 min	0	$0.5M
+Middle Men	2009	R	105 min	40	$0.7M
+Get Low	2009	PG-13	103 min	84	$9.2M
+Leaves of Grass	2009	R	105 min	59	$68.0k
+Like Dandelion Dust	2009	PG-13	100 min	80	$0.4M
+World's Greatest Dad	2009	R	99 min	89	$0.2M
+Case 39	2009	R	109 min	22	$13.2M
+Waking Sleeping Beauty	2009	PG	86 min	71	$33.1k
+The Other Woman	2009	R	102 min	39	$20.6k
+Chain Letter	2009	R	96 min	23	$0.1M
+Oy Vey! My Son Is Gay!!	2009	PG-13	90 min	0	$87.2k
+I Love You Phillip Morris	2009	R	98 min	72	$2.0M
+Down for Life	2009	R	92 min	0	$39.6k
+(Untitled)	2009	R	96 min	65	$0.2M
+The Mighty Macs	2009	G	99 min	46	$1.9M
+Tanner Hall	2009	R	96 min	12	$5.0k
+I'm Not Jesus Mommy	2010	R	89 min	0	$5.3k
+Immigration Tango	2010	R	92 min	7	$23.8k
+Leonie	2010	PG-13	102 min	42	$53.7k
+Passion Play	2010	R	94 min	3	$2.1k
+Smash His Camera	2010	PG-13	87 min	80	$2.4k
+Dumbstruck	2010	PG	85 min	71	$15.0k
+Crazy on the Outside	2010	PG-13	96 min	8	$64.4k
+Leap Year	2010	PG	100 min	21	$25.9M
+The Book of Eli	2010	R	118 min	48	$94.3M
+The Spy Next Door	2010	PG	94 min	12	$24.3M
+Tooth Fairy	2010	PG	101 min	18	$58.6M
+Extraordinary Measures	2010	PG	106 min	28	$11.9M
+Legion	2010	R	100 min	19	$40.2M
+The Tillman Story	2010	R	94 min	93	$0.8M
+The Dry Land	2010	R	92 min	61	$7.4k
+8: The Mormon Proposition	2010	R	80 min	63	$99.9k
+Edge of Darkness	2010	R	117 min	56	$43.3M
+Preacher's Kid	2010	PG-13	110 min	50	$0.4M
+When in Rome	2010	PG-13	91 min	17	$32.6M
+Dear John	2010	PG-13	108 min	29	$79.6M
+From Paris with Love	2010	R	92 min	37	$24.0M
+Percy Jackson & the Olympians: The Lightning Thief	2010	PG	118 min	49	$86.7M
+Valentine's Day	2010	PG-13	125 min	18	$110.0M
+The Wolfman	2010	R	103 min	34	$61.9M
+Shutter Island	2010	R	138 min	68	$125.0M
+Blood Done Sign My Name	2010	PG-13	128 min	50	$82.7k
+Cop Out	2010	R	107 min	19	$44.0M
+The Crazies	2010	R	101 min	71	$38.2M
+"Lebanon, Pa."	2010	PG-13	100 min	50	$44.7k
+Alice in Wonderland	2010	PG	108 min	51	$319.3M
+She's Out of My League	2010	R	104 min	58	$28.7M
+Remember Me	2010	PG-13	113 min	27	$18.2M
+Our Family Wedding	2010	PG-13	103 min	13	$18.6M
+Green Zone	2010	R	115 min	53	$33.1M
+Elektra Luxx	2010	R	100 min	28	$10.8k
+The Runaways	2010	R	106 min	68	$2.0M
+The Bounty Hunter	2010	PG-13	110 min	13	$56.0M
+Diary of a Wimpy Kid	2010	PG	94 min	53	$64.0M
+Repo Men	2010	R	111 min	22	$13.2M
+Frozen	2010	R	93 min	62	$0.1M
+Hot Tub Time Machine	2010	R	101 min	63	$48.9M
+How to Train Your Dragon	2010	PG	98 min	98	$217.4M
+Greenberg	2010	R	107 min	75	$2.3M
+The Last Song	2010	PG	107 min	20	$42.4M
+Meet Monica Velour	2010	R	98 min	48	$31.6k
+Why Did I Get Married Too?	2010	PG-13	121 min	26	$48.5M
+Clash of the Titans	2010	PG-13	106 min	28	$163.2M
+Date Night	2010	PG-13	88 min	67	$98.7M
+Letters to God	2010	PG	110 min	25	$1.1M
+The Extraordinary Adventures of Adèle Blanc-Sec	2010	PG	107 min	83	$0.1M
+Death at a Funeral	2010	R	92 min	41	$16.0M
+Kick-Ass	2010	R	117 min	76	$20.0M
+Redemption Road	2010	PG-13	95 min	57	$25.8k
+The Losers	2010	PG-13	97 min	49	$23.0M
+The Back-up Plan	2010	PG-13	106 min	18	$37.5M
+Every Day	2010	R	93 min	33	$9.9k
+Furry Vengeance	2010	PG	92 min	8	$16.0M
+A Nightmare on Elm Street	2010	R	95 min	15	$62.0M
+Iron Man 2	2010	PG-13	124 min	72	$312.1M
+Just Wright	2010	PG	100 min	45	$21.5M
+Letters to Juliet	2010	PG	105 min	40	$53.0M
+Robin Hood	2010	PG-13	140 min	43	$105.2M
+MacGruber	2010	R	90 min	47	$8.0M
+Shrek Forever After	2010	PG	93 min	58	$238.3M
+The Romantics	2010	PG-13	95 min	15	$0.1M
+Sex and the City 2	2010	R	146 min	15	$95.3M
+Prince of Persia: The Sands of Time	2010	PG-13	116 min	36	$90.8M
+Get Him to the Greek	2010	R	109 min	73	$60.9M
+Marmaduke	2010	PG	87 min	9	$33.6M
+Killers	2010	PG-13	100 min	11	$47.0M
+The Killer Inside Me	2010	R	109 min	55	$0.2M
+The A-Team	2010	PG-13	117 min	47	$77.2M
+The Karate Kid	2010	PG	140 min	66	$176.6M
+Please Give	2010	R	90 min	86	$4.0M
+Toy Story 3	2010	G	103 min	99	$415.0M
+Jonah Hex	2010	PG-13	81 min	12	$10.5M
+Knight and Day	2010	PG-13	109 min	52	$76.4M
+Grown Ups	2010	PG-13	102 min	10	$162.0M
+The Twilight Saga: Eclipse	2010	PG-13	124 min	49	$300.5M
+The Last Airbender	2010	PG	103 min	6	$131.6M
+Joan Rivers: A Piece of Work	2010	R	84 min	91	$2.9M
+Despicable Me	2010	PG	95 min	81	$251.5M
+Predators	2010	R	107 min	64	$52.0M
+The Sorcerer's Apprentice	2010	PG	109 min	41	$63.1M
+Cyrus	2010	R	91 min	80	$7.5M
+Inception	2010	PG-13	148 min	86	$292.6M
+Winter's Bone	2010	R	100 min	94	$6.5M
+Standing Ovation	2010	PG	105 min	6	$0.5M
+Salt	2010	PG-13	100 min	62	$118.3M
+Ramona and Beezus	2010	G	103 min	70	$26.2M
+Cats & Dogs: The Revenge of Kitty Galore	2010	PG	82 min	14	$43.6M
+Dinner for Schmucks	2010	PG-13	114 min	42	$73.0M
+Charlie St. Cloud	2010	PG-13	99 min	27	$31.1M
+The Kids Are All Right	2010	R	106 min	93	$20.8M
+Step Up 3D	2010	PG-13	107 min	46	$42.4M
+Restrepo	2010	R	93 min	96	$1.3M
+The Other Guys	2010	PG-13	107 min	79	$119.2M
+The Wildest Dream	2010	PG	94 min	76	$0.9M
+Twelve	2010	R	93 min	3	$0.2M
+Scott Pilgrim vs. the World	2010	PG-13	112 min	82	$31.5M
+The Expendables	2010	R	103 min	41	$103.0M
+Eat Pray Love	2010	PG-13	133 min	36	$80.6M
+Vampires Suck	2010	PG-13	82 min	5	$36.7M
+Piranha 3D	2010	R	88 min	73	$25.0M
+The Switch	2010	PG-13	101 min	51	$27.8M
+Lottery Ticket	2010	PG-13	99 min	34	$24.7M
+Nanny McPhee Returns	2010	PG	109 min	76	$29.0M
+The Last Exorcism	2010	PG-13	87 min	72	$41.0M
+Takers	2010	PG-13	107 min	28	$57.7M
+Howl	2010	R	84 min	63	$0.6M
+The American	2010	R	105 min	66	$35.6M
+Freakonomics	2010	PG-13	85 min	65	$0.1M
+Machete	2010	R	105 min	72	$26.6M
+Going the Distance	2010	R	102 min	53	$17.8M
+Legendary	2010	PG-13	107 min	17	$0.2M
+Flipped	2010	PG	90 min	55	$1.8M
+Resident Evil: Afterlife	2010	R	97 min	23	$60.1M
+I'm Still Here	2010	R	108 min	53	$0.4M
+Easy A	2010	PG-13	92 min	85	$58.4M
+Alpha and Omega	2010	PG	88 min	16	$25.1M
+The Town	2010	R	125 min	93	$92.2M
+Legend of the Guardians: The Owls of Ga'Hoole	2010	PG	97 min	50	$55.7M
+Wall Street: Money Never Sleeps	2010	PG-13	133 min	55	$52.5M
+You Again	2010	PG	105 min	17	$25.7M
+The Virginity Hit	2010	R	86 min	29	$0.5M
+The Social Network	2010	PG-13	120 min	96	$96.9M
+Catfish	2010	PG-13	87 min	80	$3.2M
+Let Me In	2010	R	116 min	88	$12.1M
+Life as We Know It	2010	PG-13	114 min	28	$53.4M
+As Good as Dead	2010	R	100 min	0	$1.5k
+Secretariat	2010	PG	123 min	64	$59.7M
+It's Kind of a Funny Story	2010	PG-13	101 min	58	$6.4M
+My Soul to Take	2010	R	107 min	9	$14.6M
+Ghetto Physics	2010	R	94 min	42	$10.1k
+RED	2010	PG-13	111 min	71	$90.4M
+Jackass 3D	2010	R	94 min	65	$117.2M
+Buried	2010	R	95 min	87	$1.0M
+Never Let Me Go	2010	R	103 min	71	$2.4M
+Under the Boardwalk: The Monopoly Story	2010	G	88 min	85	$5.1k
+I Want Your Money	2010	PG	92 min	0	$0.4M
+Exporting Raymond	2010	PG	86 min	71	$83.9k
+Paranormal Activity 2	2010	R	91 min	58	$84.7M
+Hereafter	2010	PG-13	129 min	46	$32.7M
+Stone	2010	R	105 min	50	$1.8M
+You Will Meet a Tall Dark Stranger	2010	R	98 min	46	$3.2M
+Waiting for 'Superman'	2010	PG	111 min	89	$6.4M
+Saw 3D: The Final Chapter	2010	R	90 min	9	$45.7M
+Hatchet II	2010	R	85 min	36	$52.6k
+For Colored Girls	2010	R	133 min	32	$37.7M
+Conviction	2010	R	107 min	67	$6.8M
+Due Date	2010	R	95 min	40	$100.4M
+Megamind	2010	PG	95 min	72	$148.2M
+Morning Glory	2010	PG-13	107 min	56	$31.0M
+Skyline	2010	PG-13	97 min	15	$12.0M
+Unstoppable	2010	PG-13	98 min	86	$81.6M
+Inside Job	2010	PG-13	105 min	98	$4.3M
+Senna	2010	PG-13	106 min	92	$1.6M
+Brotherhood	2010	R	76 min	54	$19.5k
+Harry Potter and the Deathly Hallows: Part 1	2010	PG-13	146 min	78	$295.0M
+Queen of the Lot	2010	R	120 min	29	$0.2M
+The Next Three Days	2010	PG-13	133 min	52	$21.1M
+The Way	2010	PG-13	123 min	82	$4.4M
+Tangled	2010	PG	100 min	90	$200.8M
+Love & Other Drugs	2010	R	112 min	49	$32.4M
+Burlesque	2010	PG-13	119 min	36	$39.4M
+Faster	2010	R	98 min	43	$23.2M
+London Boulevard	2010	R	103 min	33	$10.5k
+Fair Game	2010	PG-13	108 min	79	$9.5M
+Night Catches Us	2010	R	90 min	81	$75.3k
+All Good Things	2010	R	101 min	33	$0.6M
+Tucker and Dale vs. Evil	2010	R	89 min	84	$0.2M
+The Chronicles of Narnia: The Voyage of the Dawn Treader	2010	PG	113 min	49	$104.4M
+The Tourist	2010	PG-13	103 min	20	$67.6M
+Black Swan	2010	R	108 min	87	$107.0M
+TRON: Legacy	2010	PG	125 min	51	$172.1M
+How Do You Know	2010	PG-13	121 min	32	$30.2M
+Yogi Bear	2010	PG	80 min	13	$100.2M
+The Fighter	2010	R	116 min	91	$93.6M
+Little Fockers	2010	PG-13	98 min	10	$148.4M
+True Grit	2010	PG-13	110 min	96	$171.0M
+Holy Rollers	2010	R	89 min	51	$0.3M
+Gulliver's Travels	2010	PG	85 min	21	$42.8M
+The King's Speech	2010	R	118 min	94	$138.8M
+The Last Godfather	2010	PG-13	100 min	0	$0.2M
+Jack Goes Boating	2010	R	89 min	68	$0.5M
+Love Ranch	2010	R	117 min	12	$0.1M
+The Tempest	2010	PG-13	110 min	30	$0.3M
+Country Strong	2010	PG-13	117 min	22	$20.2M
+Henry's Crime	2010	R	108 min	40	$0.1M
+I Spit on Your Grave	2010	R	108 min	34	$92.4k
+Somewhere	2010	R	97 min	71	$1.8M
+The Way Back	2010	PG-13	133 min	74	$2.7M
+The Extra Man	2010	R	108 min	42	$0.5M
+Rabbit Hole	2010	PG-13	91 min	86	$2.2M
+127 Hours	2010	R	94 min	93	$18.3M
+Waiting for Forever	2010	PG-13	95 min	6	$21.0k
+Vanishing on 7th Street	2010	R	92 min	50	$22.2k
+The Company Men	2010	R	104 min	67	$4.4M
+Last Night	2010	R	93 min	50	$0.1M
+The Grace Card	2010	PG-13	101 min	35	$2.4M
+Happythankyoumoreplease	2010	R	100 min	40	$0.2M
+Client 9: The Rise and Fall of Eliot Spitzer	2010	R	117 min	91	$0.2M
+Submarine	2010	R	97 min	86	$0.5M
+Peep World	2010	R	79 min	23	$10.9k
+The 5th Quarter	2010	PG	90 min	50	$0.4M
+Insidious	2010	PG-13	103 min	66	$54.0M
+Road to Nowhere	2010	R	121 min	80	$40.3k
+The Conspirator	2010	PG-13	122 min	55	$11.5M
+Meek's Cutoff	2010	PG	104 min	85	$1.0M
+Trust	2010	R	106 min	78	$0.1M
+Dylan Dog: Dead of Night	2010	PG-13	107 min	8	$1.2M
+Sympathy for Delicious	2010	R	96 min	29	$13.1k
+Harvest	2010	R	102 min	73	$24.1k
+The Perfect Host	2010	R	93 min	44	$48.3k
+Skateland	2010	PG-13	96 min	38	$11.1k
+Bloodworth	2010	R	105 min	50	$9.6k
+Cost of a Soul	2010	R	107 min	27	$25.4k
+Cool It	2010	PG	87 min	51	$62.7k
+Rejoice and Shout	2010	PG	115 min	76	$0.1M
+Beginners	2010	R	105 min	84	$5.8M
+Super	2010	R	96 min	48	$0.3M
+Wrecked	2010	R	91 min	46	$4.8k
+Ceremony	2010	R	89 min	40	$21.7k
+Stake Land	2010	R	98 min	75	$18.5k
+Cherry	2010	R	99 min	60	$11.1k
+The First Grader	2010	PG-13	103 min	59	$0.3M
+Countdown to Zero	2010	PG	91 min	81	$0.3M
+Hesher	2010	R	106 min	54	$0.4M
+Amigo	2010	R	124 min	62	$0.2M
+Dirty Girl	2010	R	90 min	27	$53.6k
+A Little Help	2010	R	109 min	41	$85.8k
+Don't Be Afraid of the Dark	2010	R	99 min	58	$24.0M
+The Debt	2010	R	113 min	77	$31.1M
+Cave of Forgotten Dreams	2010	G	90 min	96	$5.2M
+Everything Must Go	2010	R	97 min	75	$2.7M
+The Whistleblower	2010	R	112 min	74	$1.1M
+Beautiful Boy	2010	R	100 min	69	$77.2k
+Tabloid	2010	R	87 min	91	$0.7M
+Welcome to the Rileys	2010	R	110 min	55	$0.2M
+Vidal Sassoon: The Movie	2010	PG	90 min	59	$85.2k
+I Kissed a Vampire	2010	PG	91 min	0	$1.4k
+Virginia	2010	R	111 min	4	$11.1k
+Main Street	2010	PG	92 min	13	$1.6k
+High School	2010	R	99 min	27	$82.7k
+Morning	2010	R	95 min	45	$2.9k
+Radio Free Albemuth	2010	R	111 min	36	$0.2M
+Bringing Up Bobby	2011	PG-13	93 min	17	$5.0k
+Restless City	2011	R	80 min	45	$8.1k
+The Last Mountain	2011	PG	95 min	80	$0.1M
+Gun Hill Road	2011	R	86 min	62	$0.1M
+The Details	2011	R	91 min	46	$63.6k
+Down the Shore	2011	R	93 min	50	$4.8k
+Season of the Witch	2011	PG-13	95 min	9	$24.8M
+The Dilemma	2011	PG-13	111 min	24	$48.4M
+The Green Hornet	2011	PG-13	119 min	43	$98.8M
+Pariah	2011	R	86 min	93	$0.8M
+"Connected: An Autoblogography About Love, Death & Technology"	2011	PG	82 min	36	$13.3k
+No Strings Attached	2011	R	108 min	48	$70.6M
+Little Birds	2011	R	94 min	53	$16.6k
+Thin Ice	2011	R	93 min	69	$0.8M
+Life in a Day	2011	PG-13	95 min	80	$0.2M
+The Mechanic	2011	R	93 min	53	$29.1M
+From Prada to Nada	2011	PG-13	107 min	21	$3.0M
+The Rite	2011	PG-13	114 min	21	$33.0M
+Sanctum	2011	R	108 min	30	$23.1M
+The Roommate	2011	PG-13	91 min	4	$37.3M
+Gnomeo & Juliet	2011	G	84 min	55	$99.8M
+Justin Bieber: Never Say Never	2011	G	105 min	64	$73.0M
+The Eagle	2011	PG-13	114 min	39	$19.5M
+Just Go with It	2011	PG-13	117 min	19	$103.0M
+The Last Lions	2011	PG	88 min	87	$0.6M
+"Big Mommas: Like Father, Like Son"	2011	PG-13	107 min	5	$37.9M
+I Am Number Four	2011	PG-13	109 min	33	$55.1M
+Drive Angry	2011	R	104 min	45	$10.7M
+Hall Pass	2011	R	105 min	34	$45.0M
+Elevate	2011	PG	81 min	73	$3.5k
+Take Me Home Tonight	2011	R	97 min	28	$6.9M
+Rango	2011	PG	107 min	87	$123.2M
+Beastly	2011	PG-13	86 min	21	$27.9M
+The Adjustment Bureau	2011	PG-13	106 min	72	$62.5M
+Battle Los Angeles	2011	PG-13	116 min	35	$83.5M
+Red Riding Hood	2011	PG-13	100 min	10	$37.7M
+Mars Needs Moms	2011	PG	88 min	37	$21.4M
+The FP	2011	R	82 min	48	$40.6k
+American Animal	2011	R	95 min	59	$5.9k
+Paul	2011	R	104 min	71	$37.4M
+The Lincoln Lawyer	2011	R	118 min	83	$58.0M
+Cedar Rapids	2011	R	87 min	86	$6.9M
+Limitless	2011	PG-13	105 min	70	$79.2M
+Sucker Punch	2011	PG-13	110 min	23	$36.4M
+There Be Dragons	2011	PG-13	122 min	11	$1.1M
+Diary of a Wimpy Kid: Rodrick Rules	2011	PG	99 min	48	$52.7M
+Hop	2011	PG	95 min	25	$108.0M
+Source Code	2011	PG-13	93 min	92	$54.7M
+Restless	2011	PG-13	91 min	36	$0.2M
+Hanna	2011	PG-13	111 min	71	$40.2M
+Your Highness	2011	R	102 min	27	$21.6M
+Arthur	2011	PG-13	110 min	26	$33.0M
+Soul Surfer	2011	PG	106 min	46	$43.9M
+Born to Be Wild	2011	G	40 min	98	$24.2M
+Rio	2011	G	96 min	72	$143.6M
+Atlas Shrugged: Part I	2011	PG-13	97 min	11	$4.6M
+Scream 4	2011	R	111 min	59	$38.2M
+Win Win	2011	R	106 min	94	$10.2M
+New York Says Thank You	2011	G	86 min	0	$0.5M
+African Cats	2011	G	89 min	71	$15.4M
+Jane Eyre	2011	PG-13	120 min	84	$11.2M
+Madea's Big Happy Family	2011	PG-13	106 min	38	$53.3M
+Water for Elephants	2011	PG-13	120 min	60	$58.7M
+The Perfect Family	2011	PG-13	84 min	48	$0.1M
+Prom	2011	PG	104 min	36	$10.1M
+Fast Five	2011	PG-13	131 min	78	$209.8M
+Hoodwinked Too! Hood vs. Evil	2011	PG	86 min	11	$10.1M
+Balls to the Wall	2011	R	85 min	0	$3.1k
+InSight	2011	R	92 min	0	$17.0k
+"Wild Horse, Wild Ride"	2011	PG	106 min	93	$94.6k
+Jumping the Broom	2011	PG-13	112 min	56	$37.3M
+Thor	2011	PG-13	115 min	77	$181.0M
+Priest	2011	PG-13	87 min	16	$29.1M
+Bridesmaids	2011	R	125 min	90	$169.1M
+The Tree of Life	2011	PG-13	139 min	84	$13.3M
+The Beaver	2011	PG-13	91 min	61	$1.0M
+35 and Ticking	2011	R	104 min	0	$0.1M
+Pirates of the Caribbean: On Stranger Tides	2011	PG-13	136 min	33	$241.1M
+Kung Fu Panda 2	2011	PG	91 min	81	$165.2M
+The Hangover Part II	2011	R	102 min	34	$254.5M
+The Ledge	2011	R	101 min	14	$5.2k
+X-Men: First Class	2011	PG-13	132 min	87	$146.4M
+5 Days of War	2011	R	113 min	33	$17.2k
+Judy Moody and the Not Bummer Summer	2011	PG	91 min	19	$15.0M
+Super 8	2011	PG-13	112 min	82	$127.0M
+Midnight in Paris	2011	PG-13	94 min	93	$56.8M
+Green Lantern	2011	PG-13	114 min	26	$116.6M
+The Art of Getting By	2011	PG-13	83 min	18	$1.4M
+Mr. Popper's Penguins	2011	PG	94 min	48	$68.2M
+Snow Flower and the Secret Fan	2011	PG-13	120 min	21	$1.3M
+Cars 2	2011	G	106 min	39	$191.5M
+"Love, Wedding, Marriage"	2011	PG-13	90 min	0	$1.4k
+Bad Teacher	2011	R	92 min	44	$100.3M
+Transformers: Dark of the Moon	2011	PG-13	154 min	35	$352.4M
+Larry Crowne	2011	PG-13	98 min	36	$35.6M
+Monte Carlo	2011	PG	109 min	38	$23.2M
+Zookeeper	2011	PG	102 min	14	$80.4M
+Horrible Bosses	2011	R	98 min	69	$117.5M
+The Son of No One	2011	R	90 min	16	$28.9k
+Salvation Boulevard	2011	R	96 min	21	$27.4k
+Harry Potter and the Deathly Hallows: Part 2	2011	PG-13	130 min	96	$381.0M
+Winnie the Pooh	2011	G	63 min	90	$26.7M
+Captain America: The First Avenger	2011	PG-13	124 min	79	$176.6M
+Friends with Benefits	2011	R	109 min	70	$55.8M
+A Better Life	2011	PG-13	98 min	85	$1.8M
+"Crazy, Stupid, Love."	2011	PG-13	118 min	78	$84.3M
+Cowboys & Aliens	2011	PG-13	119 min	44	$100.2M
+The Smurfs	2011	PG	103 min	22	$142.6M
+Rise of the Planet of the Apes	2011	PG-13	105 min	82	$176.7M
+Magic Trip	2011	R	107 min	69	$0.2M
+The Change-Up	2011	R	112 min	25	$37.0M
+The Help	2011	PG-13	146 min	76	$169.7M
+30 Minutes or Less	2011	R	83 min	44	$37.1M
+Final Destination 5	2011	R	92 min	61	$42.6M
+Glee: The 3D Concert Movie	2011	PG	84 min	60	$11.9M
+Project Nim	2011	PG-13	93 min	98	$0.4M
+The Future	2011	R	91 min	71	$0.6M
+Conan O'Brien Can't Stop	2011	R	89 min	80	$0.3M
+Fright Night	2011	R	106 min	72	$18.3M
+Spy Kids: All the Time in the World in 4D	2011	PG	89 min	22	$38.5M
+One Day	2011	PG-13	107 min	36	$13.8M
+Conan the Barbarian	2011	R	113 min	24	$21.3M
+The Greatest Movie Ever Sold	2011	PG-13	90 min	73	$0.6M
+Higher Ground	2011	R	109 min	81	$0.8M
+Colombiana	2011	PG-13	108 min	27	$36.7M
+The Family Tree	2011	R	87 min	10	$3.7k
+Our Idiot Brother	2011	R	90 min	67	$24.8M
+Seven Days in Utopia	2011	G	100 min	14	$4.4M
+Shark Night 3D	2011	PG-13	90 min	17	$18.9M
+Apollo 18	2011	PG-13	86 min	24	$17.7M
+Seeking Justice	2011	R	105 min	27	$0.4M
+Creature	2011	R	93 min	11	$0.3M
+Bucky Larson: Born to Be a Star	2011	R	97 min	0	$2.3M
+Warrior	2011	PG-13	140 min	83	$13.7M
+Contagion	2011	PG-13	106 min	84	$75.6M
+Drive	2011	R	100 min	93	$35.1M
+Straw Dogs	2011	R	110 min	41	$10.3M
+I Don't Know How She Does It	2011	PG-13	89 min	17	$9.7M
+Answers to Nothing	2011	R	124 min	9	$22.0k
+Abduction	2011	PG-13	106 min	4	$28.1M
+A Bird of the Air	2011	PG-13	108 min	30	$10.2k
+Dolphin Tale	2011	PG	113 min	82	$72.3M
+Moneyball	2011	PG-13	133 min	95	$75.6M
+Musical Chairs	2011	PG-13	102 min	37	$29.9k
+Page One: Inside the New York Times	2011	R	92 min	79	$1.1M
+Margin Call	2011	R	107 min	88	$5.4M
+Dream House	2011	PG-13	92 min	6	$21.3M
+Red State	2011	R	88 min	58	$1.0M
+Courageous	2011	PG-13	129 min	30	$34.5M
+What's Your Number?	2011	R	106 min	23	$14.0M
+50/50	2011	R	100 min	94	$35.0M
+Munger Road	2011	PG-13	86 min	0	$0.3M
+Intruders	2011	R	100 min	31	$64.7k
+Real Steel	2011	PG-13	127 min	60	$85.5M
+The Ides of March	2011	R	101 min	85	$41.0M
+Another Earth	2011	PG-13	92 min	63	$1.3M
+Footloose	2011	PG-13	113 min	70	$51.8M
+Texas Killing Fields	2011	R	105 min	33	$45.3k
+The Big Year	2011	PG	100 min	40	$7.2M
+Addiction Incorporated	2011	PG-13	100 min	75	$40.0k
+The Thing	2011	R	103 min	35	$16.9M
+Johnny English Reborn	2011	PG	101 min	39	$8.3M
+We Need to Talk About Kevin	2011	R	112 min	76	$1.7M
+Trespass	2011	R	91 min	10	$16.8k
+Paranormal Activity 3	2011	R	83 min	68	$104.0M
+The Three Musketeers	2011	PG-13	110 min	24	$20.4M
+The Music Never Stopped	2011	PG	105 min	65	$0.3M
+A Good Old Fashioned Orgy	2011	R	95 min	32	$0.1M
+Puss in Boots	2011	PG	90 min	84	$149.2M
+The Rum Diary	2011	R	120 min	50	$13.1M
+Anonymous	2011	PG-13	130 min	46	$4.5M
+The Double	2011	PG-13	98 min	20	$0.1M
+In Time	2011	PG-13	109 min	36	$37.6M
+Hide Away	2011	PG-13	88 min	42	$29.6k
+Machine Gun Preacher	2011	R	129 min	29	$0.5M
+Tower Heist	2011	PG-13	104 min	68	$78.0M
+A Very Harold & Kumar 3D Christmas	2011	R	90 min	68	$35.0M
+Loosies	2011	PG-13	89 min	19	$3.3k
+Take Shelter	2011	R	120 min	91	$1.7M
+Jack and Jill	2011	PG	91 min	3	$74.2M
+Immortals	2011	R	110 min	35	$83.5M
+J. Edgar	2011	R	137 min	43	$37.3M
+The Twilight Saga: Breaking Dawn - Part 1	2011	PG-13	117 min	24	$281.3M
+Arthur Christmas	2011	PG	97 min	92	$46.4M
+The Muppets	2011	PG	103 min	96	$88.6M
+Hugo	2011	PG	126 min	94	$73.8M
+The Deep Blue Sea	2011	R	98 min	79	$1.1M
+Another Happy Day	2011	R	119 min	45	$8.5k
+The Sitter	2011	R	81 min	21	$30.2M
+The Descendants	2011	R	115 min	89	$82.6M
+New Year's Eve	2011	PG-13	113 min	7	$54.5M
+On the Ice	2011	R	96 min	67	$70.5k
+Alvin and the Chipmunks: Chipwrecked	2011	G	87 min	12	$133.1M
+Sherlock Holmes: A Game of Shadows	2011	PG-13	129 min	59	$186.8M
+Young Adult	2011	R	94 min	80	$16.3M
+Martha Marcy May Marlene	2011	R	102 min	90	$3.0M
+Mission: Impossible - Ghost Protocol	2011	PG-13	133 min	93	$209.4M
+The Girl with the Dragon Tattoo	2011	R	158 min	86	$102.5M
+The Adventures of Tintin	2011	PG	107 min	75	$77.6M
+My Week with Marilyn	2011	R	99 min	83	$14.6M
+We Bought a Zoo	2011	PG	124 min	66	$75.6M
+The Darkest Hour	2011	PG-13	89 min	12	$21.4M
+War Horse	2011	PG-13	146 min	77	$79.9M
+Roadie	2011	R	95 min	72	$7.6k
+Haywire	2011	R	93 min	80	$18.9M
+Extremely Loud & Incredibly Close	2011	PG-13	129 min	46	$31.8M
+The Artist	2011	PG-13	100 min	97	$44.7M
+The Grey	2011	R	117 min	79	$51.5M
+Like Crazy	2011	PG-13	90 min	72	$3.4M
+Circumstance	2011	R	107 min	86	$0.5M
+In the Land of Blood and Honey	2011	R	127 min	55	$0.3M
+Buck	2011	PG	88 min	89	$4.0M
+Ghost Rider: Spirit of Vengeance	2011	PG-13	96 min	17	$51.8M
+Corman's World: Exploits of a Hollywood Rebel	2011	R	95 min	92	$7.0k
+Albert Nobbs	2011	R	113 min	56	$3.0M
+Rampart	2011	R	108 min	74	$1.0M
+Goon	2011	R	92 min	82	$4.2M
+Silent House	2011	R	86 min	41	$12.6M
+Puncture	2011	R	100 min	51	$67.1k
+Jiro Dreams of Sushi	2011	PG	81 min	99	$2.6M
+Friends with Kids	2011	R	107 min	66	$7.3M
+Natural Selection	2011	R	90 min	71	$48.2k
+Bellflower	2011	R	106 min	74	$0.2M
+The Trouble with Bliss	2011	PG-13	97 min	29	$10.9k
+The Innkeepers	2011	R	101 min	79	$77.5k
+Into the Abyss	2011	PG-13	107 min	91	$0.2M
+The Island President	2011	PG	101 min	98	$75.2k
+Paul Williams Still Alive	2011	PG-13	87 min	97	$37.6k
+The Raid: Redemption	2011	R	101 min	85	$4.1M
+Touchback	2011	PG-13	118 min	38	$0.2M
+The Divide	2011	R	112 min	25	$18.0k
+Damsels in Distress	2011	PG-13	99 min	75	$1.0M
+Being Elmo: A Puppeteer's Journey	2011	PG	80 min	95	$0.3M
+Laugh at My Pain	2011	R	89 min	71	$7.7M
+Bully	2011	PG-13	98 min	84	$44.7M
+A Little Bit of Heaven	2011	PG-13	106 min	4	$10.0k
+Last Call at the Oasis	2011	PG-13	105 min	83	$40.8k
+Kill the Irishman	2011	R	106 min	63	$1.2M
+"Jeff, Who Lives at Home"	2011	R	83 min	78	$4.2M
+The Best Exotic Marigold Hotel	2011	PG-13	124 min	78	$46.4M
+God Bless America	2011	R	105 min	67	$0.1M
+Margaret	2011	R	150 min	74	$46.5k
+Bernie	2011	PG-13	104 min	90	$9.2M
+Lovely Molly	2011	R	99 min	41	$18.0k
+Neil Young Journeys	2011	PG	87 min	88	$0.2M
+Your Sister's Sister	2011	R	90 min	83	$1.6M
+Killer Joe	2011	R	102 min	78	$0.9M
+Revenge of the Electric Car	2011	PG-13	90 min	70	$0.2M
+I Melt with You	2011	R	129 min	12	$6.0k
+Undefeated	2011	PG-13	113 min	96	$0.6M
+Sound of My Voice	2011	R	85 min	75	$0.4M
+Terri	2011	R	105 min	86	$0.7M
+"Peace, Love, & Misunderstanding"	2011	R	96 min	29	$0.5M
+Samsara	2011	PG-13	102 min	77	$2.6M
+The Good Doctor	2011	PG-13	93 min	66	$3.2k
+The Day	2011	R	87 min	23	$20.5k
+Diana Vreeland: The Eye Has to Travel	2011	PG-13	86 min	94	$1.0M
+10 Years	2011	PG-13	100 min	60	$0.2M
+The Oranges	2011	R	90 min	34	$0.4M
+Butter	2011	R	90 min	33	$70.9k
+Comic-Con Episode IV: A Fan's Hope	2011	PG-13	88 min	83	$34.7k
+4:44 Last Day on Earth	2011	R	82 min	48	$15.7k
+Dorfman in Love	2011	R	92 min	15	$13.7k
+October Baby	2011	PG-13	107 min	22	$5.4M
+Violet & Daisy	2011	R	88 min	22	$10.0k
+You're Next	2011	R	95 min	75	$18.5M
+Take Me Home	2011	PG-13	97 min	0	$15.4k
+Cassadaga	2011	R	108 min	10	$1.7k
+Forks Over Knives	2011	PG	90 min	61	$1.0M
+Fort McCoy	2011	R	100 min	50	$78.2k
+The Devil Inside	2012	R	83 min	6	$53.2M
+Joyful Noise	2012	PG-13	118 min	33	$30.9M
+Contraband	2012	R	109 min	51	$66.5M
+Runaway Slave	2012	PG	108 min	0	$47.8k
+Red Tails	2012	PG-13	125 min	40	$49.5M
+Carol Channing: Larger Than Life	2012	PG	87 min	89	$15.5k
+Underworld: Awakening	2012	R	88 min	26	$62.3M
+LUV	2012	R	94 min	36	$0.2M
+One for the Money	2012	PG-13	91 min	2	$26.4M
+Tim and Eric's Billion Dollar Movie	2012	R	93 min	38	$0.2M
+Man on a Ledge	2012	PG-13	102 min	31	$18.6M
+An Inconsistent Truth	2012	PG	89 min	0	$52.8k
+Chronicle	2012	PG-13	84 min	85	$64.6M
+Big Miracle	2012	PG	107 min	73	$20.1M
+The Vow	2012	PG-13	104 min	29	$125.0M
+Journey 2: The Mysterious Island	2012	PG	94 min	42	$103.8M
+Safe House	2012	R	115 min	53	$126.1M
+This Means War	2012	PG-13	103 min	26	$54.8M
+Act of Valor	2012	R	110 min	25	$70.0M
+Gone	2012	PG-13	94 min	11	$11.7M
+Good Deeds	2012	PG-13	110 min	31	$35.0M
+Wanderlust	2012	R	98 min	59	$17.3M
+Red Lights	2012	R	114 min	29	$49.3k
+The Lorax	2012	PG	86 min	54	$213.9M
+Project X	2012	R	88 min	28	$54.7M
+ATM	2012	R	90 min	9	$2.0k
+John Carter	2012	PG-13	132 min	51	$73.1M
+A Thousand Words	2012	PG-13	91 min	0	$18.4M
+Brooklyn Castle	2012	PG	101 min	96	$0.2M
+The Do-Deca-Pentathlon	2012	R	76 min	74	$10.0k
+Big Star: Nothing Can Hurt Me	2012	PG-13	113 min	92	$0.1M
+21 Jump Street	2012	R	109 min	85	$138.4M
+The Hunger Games	2012	PG-13	142 min	84	$408.0M
+Mirror Mirror	2012	PG	106 min	49	$64.9M
+Meeting Evil	2012	R	89 min	13	$181 
+Wrath of the Titans	2012	PG-13	99 min	25	$83.6M
+American Reunion	2012	R	113 min	43	$56.7M
+The Cabin in the Woods	2012	R	95 min	91	$42.0M
+The Three Stooges	2012	PG	92 min	51	$44.3M
+Blue Like Jazz	2012	PG-13	108 min	38	$0.6M
+Woman Thou Art Loosed: On the 7th Day	2012	PG-13	101 min	20	$1.2M
+Being Flynn	2012	R	102 min	51	$0.5M
+Think Like a Man	2012	PG-13	122 min	53	$91.5M
+Marley	2012	PG-13	144 min	95	$1.4M
+The Lucky One	2012	PG-13	101 min	20	$60.4M
+Jesus Henry Christ	2012	PG-13	92 min	24	$18.4k
+To the Arctic 3D	2012	G	40 min	67	$712 
+Jack & Diane	2012	R	110 min	13	$1.0k
+The Giant Mechanical Man	2012	PG-13	94 min	71	$5.4k
+Safe	2012	R	94 min	57	$17.1M
+The Raven	2012	R	110 min	22	$16.0M
+The Pirates! Band of Misfits	2012	PG	88 min	86	$31.1M
+The Five-Year Engagement	2012	R	124 min	63	$28.6M
+The Avengers	2012	PG-13	143 min	92	$623.3M
+Dark Shadows	2012	PG-13	113 min	37	$79.7M
+Otter 501	2012	G	85 min	60	$12.9k
+Casa de mi Padre	2012	R	84 min	42	$5.9M
+Piranha 3DD	2012	R	83 min	13	$0.4M
+The Dictator	2012	R	83 min	57	$59.6M
+Brake	2012	R	92 min	44	$4.3k
+What to Expect When You're Expecting	2012	PG-13	110 min	22	$41.1M
+Crooked Arrows	2012	PG-13	105 min	38	$1.7M
+Battleship	2012	PG-13	131 min	34	$65.2M
+On the Road	2012	R	124 min	43	$0.7M
+Darling Companion	2012	PG-13	103 min	22	$0.8M
+Men in Black 3	2012	PG-13	106 min	69	$179.0M
+Snow White and the Huntsman	2012	PG-13	127 min	48	$155.1M
+Lola Versus	2012	R	87 min	35	$0.3M
+Prometheus	2012	R	124 min	73	$126.5M
+Madagascar 3: Europe's Most Wanted	2012	PG	93 min	79	$216.4M
+Ai Weiwei: Never Sorry	2012	R	91 min	97	$0.5M
+That's My Boy	2012	R	116 min	20	$36.9M
+Rock of Ages	2012	PG-13	123 min	41	$38.5M
+Battlefield America	2012	PG-13	106 min	8	$0.2M
+Lay the Favorite	2012	R	94 min	19	$21.0k
+Brave	2012	PG	93 min	78	$237.3M
+Seeking a Friend for the End of the World	2012	R	101 min	55	$6.6M
+The Last Ride	2012	PG-13	102 min	44	$16.3k
+Abraham Lincoln: Vampire Hunter	2012	R	105 min	35	$37.5M
+People Like Us	2012	PG-13	114 min	55	$12.4M
+Magic Mike	2012	R	110 min	80	$113.7M
+Moonrise Kingdom	2012	PG-13	94 min	94	$45.5M
+Ted	2012	R	106 min	67	$218.6M
+Madea's Witness Protection	2012	PG-13	114 min	21	$65.6M
+The Amazing Spider-Man	2012	PG-13	136 min	72	$262.0M
+Katy Perry: Part of Me	2012	PG	93 min	77	$25.3M
+Beasts of the Southern Wild	2012	PG-13	93 min	86	$12.8M
+Cowgirls 'n Angels	2012	PG	92 min	0	$0.1M
+Savages	2012	R	131 min	51	$47.3M
+The Magic of Belle Isle	2012	PG	109 min	30	$0.1M
+To Rome with Love	2012	R	112 min	44	$16.7M
+The Obama Effect	2012	PG-13	85 min	0	$0.1M
+Ice Age: Continental Drift	2012	PG	88 min	37	$161.3M
+Soldiers of Fortune	2012	R	94 min	14	$38.8k
+The Dark Knight Rises	2012	PG-13	165 min	87	$448.1M
+Something from Nothing: The Art of Rap	2012	R	106 min	92	$0.3M
+The Watch	2012	R	102 min	17	$34.4M
+Step Up Revolution	2012	PG-13	99 min	42	$35.1M
+Total Recall	2012	PG-13	118 min	30	$58.9M
+Diary of a Wimpy Kid: Dog Days	2012	PG	94 min	51	$49.0M
+Nitro Circus: The Movie	2012	PG-13	92 min	6	$3.4M
+Hope Springs	2012	PG-13	100 min	74	$63.5M
+About Cherry	2012	R	98 min	10	$2.8k
+No	2012	R	118 min	93	$2.3M
+The Campaign	2012	R	85 min	64	$86.9M
+Girl in Progress	2012	PG-13	93 min	30	$2.6M
+The Bourne Legacy	2012	PG-13	135 min	55	$113.2M
+The Odd Life of Timothy Green	2012	PG	105 min	34	$51.9M
+ParaNorman	2012	PG	92 min	87	$56.0M
+Why Stop Now?	2012	R	85 min	24	$1.6k
+Sparkle	2012	PG-13	116 min	57	$24.4M
+The Expendables 2	2012	R	103 min	65	$85.0M
+Hit and Run	2012	R	100 min	49	$13.7M
+Celeste & Jesse Forever	2012	R	92 min	70	$3.1M
+Premium Rush	2012	PG-13	91 min	75	$20.3M
+The Apparition	2012	PG-13	82 min	3	$4.9M
+2016: Obama's America	2012	PG	87 min	26	$33.3M
+The Babymakers	2012	R	95 min	8	$5.2k
+The Oogieloves in the Big Balloon Adventure	2012	G	88 min	27	$1.1M
+Lawless	2012	R	116 min	67	$37.4M
+The Possession	2012	PG-13	92 min	40	$49.1M
+Bachelorette	2012	R	87 min	56	$0.4M
+Stolen	2012	R	96 min	16	$0.3M
+V/H/S	2012	R	116 min	55	$99.8k
+Nobody Walks	2012	R	83 min	38	$25.0k
+Ruby Sparks	2012	R	104 min	79	$2.5M
+Branded	2012	R	106 min	10	$0.4M
+The Cold Light of Day	2012	PG-13	93 min	5	$3.7M
+The Words	2012	PG-13	102 min	22	$11.4M
+Arbitrage	2012	R	107 min	87	$7.9M
+Last Ounce of Courage	2012	PG	101 min	0	$3.3M
+Resident Evil: Retribution	2012	R	96 min	31	$42.3M
+Robot & Frank	2012	PG-13	89 min	86	$3.3M
+Dredd	2012	R	95 min	78	$13.4M
+The Master	2012	R	144 min	85	$16.2M
+Trouble with the Curve	2012	PG-13	111 min	50	$35.8M
+Head Games	2012	PG-13	95 min	88	$14.1k
+House at the End of the Street	2012	PG-13	101 min	10	$31.6M
+My Uncle Rafael	2012	PG-13	102 min	20	$0.2M
+Backwards	2012	PG	89 min	28	$61.5k
+End of Watch	2012	R	109 min	85	$41.0M
+Compliance	2012	R	90 min	89	$0.3M
+Looper	2012	R	119 min	93	$66.3M
+Hotel Transylvania	2012	PG	91 min	44	$148.3M
+Trade of Innocents	2012	PG-13	88 min	0	$15.1k
+Won't Back Down	2012	PG	121 min	32	$5.3M
+Nature Calls	2012	R	79 min	5	$382 
+Escape Fire: The Fight to Rescue American Healthcare	2012	PG-13	95 min	81	$97.3k
+Pitch Perfect	2012	PG-13	112 min	81	$61.1M
+Frankenweenie	2012	PG	87 min	87	$35.3M
+Liberal Arts	2012	PG-13	97 min	70	$0.3M
+Argo	2012	R	120 min	96	$136.0M
+Atlas Shrugged II: The Strike	2012	PG-13	111 min	4	$3.3M
+The Perks of Being a Wallflower	2012	PG-13	102 min	85	$17.7M
+Here Comes the Boom	2012	PG	105 min	38	$45.3M
+Least Among Saints	2012	R	107 min	36	$28.0k
+Sinister	2012	R	110 min	62	$48.1M
+The Paperboy	2012	R	107 min	43	$0.7M
+Just 45 Minutes from Broadway	2012	R	110 min	10	$88.6k
+Safety Not Guaranteed	2012	R	86 min	90	$4.0M
+Paranormal Activity 4	2012	R	88 min	24	$53.9M
+Alex Cross	2012	PG-13	101 min	12	$25.9M
+Hating Breitbart	2012	PG-13	85 min	0	$81.4k
+Universal Soldier: Day of Reckoning	2012	R	114 min	51	$5.2k
+Chasing Mavericks	2012	PG	116 min	31	$6.0M
+Silent Hill: Revelation 3D	2012	R	95 min	5	$17.5M
+Fun Size	2012	PG-13	86 min	25	$9.4M
+Cloud Atlas	2012	R	172 min	66	$27.1M
+Long Shot: The Kevin Laue Story	2012	PG-13	93 min	67	$28.4k
+The Man with the Iron Fists	2012	R	95 min	49	$15.6M
+Flight	2012	R	138 min	77	$93.7M
+"For a Good Time, Call..."	2012	R	85 min	55	$1.2M
+Vamps	2012	PG-13	92 min	53	$3.0k
+Wreck-It Ralph	2012	PG	101 min	86	$189.4M
+Save the Date	2012	R	97 min	46	$3.8k
+Deadfall	2012	R	95 min	32	$65.8k
+Grassroots	2012	R	98 min	52	$6.5k
+Skyfall	2012	PG-13	143 min	92	$304.4M
+The Sessions	2012	R	95 min	93	$6.0M
+30 Beats	2012	R	88 min	5	$14.7k
+The Twilight Saga: Breaking Dawn - Part 2	2012	PG-13	115 min	48	$292.3M
+Lincoln	2012	PG-13	150 min	90	$182.2M
+Rise of the Guardians	2012	PG	97 min	74	$103.4M
+Life of Pi	2012	PG	127 min	87	$125.0M
+The Bay	2012	R	84 min	77	$30.5k
+Red Dawn	2012	PG-13	93 min	12	$44.8M
+West of Memphis	2012	R	147 min	95	$0.3M
+A Late Quartet	2012	R	105 min	78	$1.6M
+Mansome	2012	PG-13	82 min	25	$18.4k
+The Collection	2012	R	82 min	37	$6.8M
+Killing Them Softly	2012	R	97 min	75	$15.0M
+Silent Night	2012	R	94 min	64	$9.7k
+Playing for Keeps	2012	PG-13	105 min	3	$13.1M
+Waiting for Lightning	2012	PG-13	96 min	43	$19.5k
+Smashed	2012	R	81 min	84	$0.4M
+The Hobbit: An Unexpected Journey	2012	PG-13	169 min	64	$303.0M
+Chasing Ice	2012	PG-13	75 min	96	$1.3M
+Hitchcock	2012	PG-13	98 min	62	$6.0M
+The Guilt Trip	2012	PG-13	95 min	12	$25.9M
+Cirque du Soleil: Worlds Away	2012	PG	91 min	47	$12.5M
+Jack Reacher	2012	PG-13	130 min	62	$80.0M
+This Is 40	2012	R	134 min	51	$67.5M
+Parental Guidance	2012	PG	105 min	18	$77.3M
+Django Unchained	2012	R	165 min	88	$162.8M
+Silver Linings Playbook	2012	R	122 min	92	$132.1M
+Les Misérables	2012	PG-13	158 min	70	$148.8M
+Promised Land	2012	R	106 min	51	$7.5M
+The Impossible	2012	PG-13	114 min	81	$19.0M
+Zero Dark Thirty	2012	R	157 min	93	$95.7M
+John Dies at the End	2012	R	99 min	61	$0.1M
+Hello I Must Be Going	2012	R	95 min	74	$83.8k
+Girls Against Boys	2012	R	93 min	19	$6.1k
+Stand Up Guys	2012	R	95 min	38	$3.3M
+Bullet to the Head	2012	R	92 min	46	$9.5M
+The First Time	2012	PG-13	95 min	47	$17.1k
+The Package	2012	R	95 min	0	$1.1k
+To the Wonder	2012	R	112 min	45	$0.6M
+A Place at the Table	2012	PG	84 min	90	$0.2M
+Don't Stop Believin': Everyman's Journey	2012	R	105 min	62	$59.6k
+Greedy Lying Bastards	2012	PG-13	90 min	69	$45.0k
+A Glimpse Inside the Mind of Charles Swan III	2012	R	86 min	15	$35.6k
+Spring Breakers	2012	R	94 min	66	$14.1M
+Kiss of the Damned	2012	R	97 min	58	$14.3k
+Sleepwalk with Me	2012	PG-13	81 min	83	$2.3M
+The Brass Teapot	2012	R	101 min	33	$6.6k
+The Lords of Salem	2012	R	101 min	45	$1.2M
+The Place Beyond the Pines	2012	R	140 min	80	$21.4M
+Filly Brown	2012	R	80 min	45	$2.8M
+The Company You Keep	2012	R	125 min	55	$5.1M
+At Any Price	2012	R	105 min	51	$0.4M
+Stuck in Love	2012	R	97 min	58	$79.0k
+The Iceman	2012	R	106 min	66	$1.9M
+What Maisie Knew	2012	R	99 min	87	$1.1M
+The Reluctant Fundamentalist	2012	R	130 min	53	$0.5M
+No Place on Earth	2012	PG-13	83 min	79	$0.2M
+No One Lives	2012	R	86 min	49	$72.1k
+Mud	2012	PG-13	130 min	98	$21.6M
+Disconnect	2012	R	115 min	68	$1.4M
+Red Hook Summer	2012	R	121 min	58	$0.3M
+Byzantium	2012	R	118 min	63	$84.3k
+It's a Disaster	2012	R	88 min	77	$57.2k
+Tiger Eyes	2012	PG-13	92 min	66	$25.2k
+Évocateur: The Morton Downey Jr. Movie	2012	R	90 min	90	$21.5k
+Arthur Newman	2012	R	101 min	20	$0.2M
+Much Ado About Nothing	2012	PG-13	109 min	84	$4.3M
+Frances Ha	2012	R	86 min	93	$4.1M
+Venus and Serena	2012	PG-13	99 min	77	$51.0k
+Girl Most Likely	2012	PG-13	103 min	21	$1.4M
+Emperor	2012	PG-13	105 min	31	$3.3M
+Jayne Mansfield's Car	2012	R	122 min	34	$14.3k
+Any Day Now	2012	R	98 min	79	$0.2M
+Thanks for Sharing	2012	R	112 min	49	$1.1M
+The Citizen	2012	PG-13	99 min	0	$24.3k
+Best Man Down	2012	PG-13	89 min	33	$1.8k
+The Summit	2012	R	95 min	61	$0.2M
+Great Expectations	2012	PG-13	128 min	64	$0.3M
+Bettie Page Reveals All	2012	R	101 min	72	$0.1M
+The Girl	2012	PG-13	95 min	53	$34.2k
+For No Good Reason	2012	R	89 min	63	$67.1k
+Aftershock	2012	R	89 min	35	$40.2k
+War of the Worlds: Goliath	2012	PG-13	85 min	0	$1.0M
+The Queen of Versailles	2012	PG	100 min	94	$2.4M
+A Haunted House	2013	R	86 min	10	$40.0M
+Gangster Squad	2013	R	113 min	31	$46.0M
+The Last Stand	2013	R	107 min	60	$12.0M
+Mother of George	2013	R	107 min	93	$0.1M
+Broken City	2013	R	109 min	28	$19.7M
+Blue Caprice	2013	R	93 min	83	$91.1k
+C.O.G.	2013	R	88 min	70	$55.3k
+Ghost Team One	2013	R	84 min	36	$7.3k
+A.C.O.D.	2013	R	88 min	50	$0.2M
+Hansel & Gretel: Witch Hunters	2013	R	88 min	15	$55.7M
+Movie 43	2013	R	94 min	4	$8.8M
+Parker	2013	R	118 min	41	$17.6M
+The Inevitable Defeat of Mister & Pete	2013	R	108 min	91	$0.5M
+Warm Bodies	2013	PG-13	98 min	81	$66.4M
+Identity Thief	2013	R	111 min	19	$134.5M
+Side Effects	2013	R	106 min	83	$32.2M
+A Good Day to Die Hard	2013	R	98 min	14	$67.3M
+Beautiful Creatures	2013	PG-13	124 min	46	$19.4M
+Safe Haven	2013	PG-13	115 min	12	$71.3M
+Escape from Planet Earth	2013	PG	89 min	33	$57.0M
+The Power of Few	2013	R	96 min	57	$30.4k
+Snitch	2013	PG-13	112 min	56	$42.9M
+Dark Skies	2013	PG-13	97 min	40	$17.4M
+"Bless Me, Ultima"	2013	PG-13	106 min	71	$1.6M
+Camp	2013	PG-13	109 min	0	$0.3M
+Aftermath	2013	R	84 min	0	$3.0k
+Jack the Giant Slayer	2013	PG-13	114 min	52	$65.2M
+Stoker	2013	R	99 min	69	$1.7M
+Phantom	2013	R	98 min	25	$1.0M
+The Last Exorcism Part II	2013	PG-13	88 min	16	$15.2M
+21 & Over	2013	R	93 min	27	$25.7M
+Girl on a Bicycle	2013	R	101 min	8	$89.4k
+Dead Man Down	2013	R	118 min	38	$10.9M
+Oz the Great and Powerful	2013	PG	130 min	59	$234.9M
+The Wait	2013	R	96 min	18	$2.1k
+The Call	2013	R	94 min	43	$51.9M
+The Incredible Burt Wonderstone	2013	PG-13	100 min	36	$22.5M
+Olympus Has Fallen	2013	R	119 min	48	$98.9M
+The Croods	2013	PG	98 min	70	$187.2M
+Admission	2013	PG-13	107 min	38	$18.0M
+Love and Honor	2013	PG-13	100 min	13	$16.3k
+Trance	2013	R	101 min	68	$2.3M
+G.I. Joe: Retaliation	2013	PG-13	110 min	28	$122.5M
+The Host	2013	PG-13	125 min	8	$26.6M
+Temptation: Confessions of a Marriage Counselor	2013	PG-13	111 min	15	$51.9M
+Evil Dead	2013	R	91 min	62	$54.2M
+Redwood Highway	2013	PG-13	90 min	80	$0.1M
+Underdogs	2013	PG	102 min	0	$34.8k
+42	2013	PG-13	128 min	79	$95.0M
+Not Today	2013	PG-13	118 min	50	$0.3M
+Scary Movie 5	2013	PG-13	86 min	4	$32.0M
+Oblivion	2013	PG-13	124 min	54	$89.0M
+Home Run	2013	PG-13	113 min	45	$2.9M
+The Girl on the Train	2013	R	80 min	0	$2.9k
+King's Faith	2013	PG-13	108 min	0	$59.3k
+Pain & Gain	2013	R	129 min	49	$49.9M
+The Big Wedding	2013	R	89 min	7	$21.8M
+Syrup	2013	R	90 min	14	$656 
+Scatter My Ashes at Bergdorf's	2013	PG-13	93 min	49	$0.5M
+Iron Man 3	2013	PG-13	130 min	79	$409.0M
+Peeples	2013	PG-13	95 min	37	$9.1M
+The Great Gatsby	2013	PG-13	143 min	48	$144.8M
+Star Trek Into Darkness	2013	PG-13	132 min	87	$228.8M
+Only God Forgives	2013	R	90 min	40	$0.8M
+The Hangover Part III	2013	R	100 min	19	$112.2M
+Fast & Furious 6	2013	PG-13	130 min	69	$238.7M
+Now You See Me	2013	PG-13	115 min	50	$117.7M
+After Earth	2013	PG-13	100 min	11	$60.5M
+V/H/S/2	2013	R	96 min	70	$21.4k
+The Internship	2013	PG-13	119 min	34	$44.7M
+The Purge	2013	R	85 min	38	$64.4M
+This Is the End	2013	R	107 min	83	$101.5M
+Before Midnight	2013	R	109 min	98	$8.1M
+Man of Steel	2013	PG-13	143 min	56	$291.0M
+Axe Giant: The Wrath of Paul Bunyan	2013	R	90 min	0	$2.5k
+The Bling Ring	2013	R	90 min	60	$5.8M
+World War Z	2013	PG-13	116 min	68	$202.4M
+Monsters University	2013	G	104 min	78	$268.5M
+Life of a King	2013	PG-13	100 min	38	$4.2k
+Europa Report	2013	PG-13	90 min	80	$0.1M
+The Heat	2013	R	117 min	65	$159.6M
+Redemption	2013	R	100 min	48	$35.0k
+Copperhead	2013	PG-13	120 min	21	$0.2M
+White House Down	2013	PG-13	131 min	51	$73.1M
+The East	2013	PG-13	116 min	74	$2.3M
+Despicable Me 2	2013	PG	98 min	74	$368.0M
+The Lone Ranger	2013	PG-13	149 min	31	$89.3M
+Kevin Hart: Let Me Explain	2013	R	75 min	63	$32.2M
+Man of Tai Chi	2013	R	105 min	70	$0.1M
+We Steal Secrets: The Story of WikiLeaks	2013	R	130 min	93	$0.2M
+Pacific Rim	2013	PG-13	131 min	72	$101.8M
+Grown Ups 2	2013	PG-13	101 min	7	$133.7M
+Turbo	2013	PG	96 min	67	$83.0M
+Breathe In	2013	R	98 min	55	$81.4k
+R.I.P.D.	2013	PG-13	96 min	13	$33.6M
+RED 2	2013	PG-13	116 min	43	$53.2M
+The Conjuring	2013	R	112 min	86	$137.4M
+Drinking Buddies	2013	R	90 min	83	$0.3M
+Fruitvale Station	2013	R	85 min	94	$16.1M
+The To Do List	2013	R	104 min	52	$3.4M
+The Way Way Back	2013	PG-13	103 min	85	$21.5M
+The Wolverine	2013	PG-13	126 min	69	$132.6M
+The Smurfs 2	2013	PG	105 min	14	$71.0M
+The English Teacher	2013	R	93 min	42	$60.2k
+2 Guns	2013	R	109 min	64	$75.6M
+The Canyons	2013	R	99 min	24	$49.5k
+Percy Jackson: Sea of Monsters	2013	PG	106 min	42	$68.6M
+We're the Millers	2013	R	110 min	47	$150.4M
+Lovelace	2013	R	93 min	54	$0.4M
+Elysium	2013	R	109 min	68	$93.1M
+Planes	2013	PG	91 min	26	$90.3M
+Jobs	2013	PG-13	128 min	27	$16.1M
+Ain't Them Bodies Saints	2013	R	96 min	79	$0.4M
+Kick-Ass 2	2013	R	103 min	30	$28.8M
+Lee Daniels' The Butler	2013	PG-13	132 min	72	$116.6M
+Paranoia	2013	PG-13	106 min	6	$7.4M
+The Mortal Instruments: City of Bones	2013	PG-13	130 min	12	$31.2M
+The Kings of Summer	2013	R	95 min	75	$1.3M
+Blue Jasmine	2013	PG-13	98 min	91	$33.4M
+The World's End	2013	R	109 min	89	$26.0M
+Bad Milo	2013	R	85 min	60	$19.6k
+Getaway	2013	PG-13	90 min	2	$10.5M
+Last Flight of the Champion	2013	PG	88 min	0	$1.5k
+One Direction: This Is Us	2013	PG	92 min	63	$28.9M
+Salinger	2013	PG-13	120 min	35	$0.6M
+Snake and Mongoose	2013	PG-13	102 min	80	$0.2M
+Good Ol' Freda	2013	PG	86 min	84	$0.1M
+The Ultimate Life	2013	PG	105 min	18	$1.3M
+Riddick	2013	R	119 min	59	$42.0M
+All Is Bright	2013	R	107 min	48	$4.6k
+In a World...	2013	R	93 min	92	$3.0M
+The Investigator	2013	PG-13	101 min	0	$93.7k
+The Spectacular Now	2013	R	95 min	93	$6.9M
+Insidious: Chapter 2	2013	PG-13	106 min	38	$83.6M
+Charlie Countryman	2013	R	103 min	29	$8.0k
+The Family	2013	R	111 min	29	$36.9M
+Prince Avalanche	2013	R	94 min	83	$0.2M
+Kill Your Darlings	2013	R	104 min	76	$1.0M
+Prisoners	2013	R	153 min	82	$61.0M
+Battle of the Year	2013	PG-13	110 min	6	$8.9M
+The Lunchbox	2013	PG	104 min	96	$4.2M
+The Short Game	2013	PG	99 min	83	$38.9k
+Nothing Left to Fear	2013	R	100 min	8	$7.9k
+Cloudy with a Chance of Meatballs 2	2013	PG	95 min	70	$119.8M
+Baggage Claim	2013	PG-13	96 min	14	$21.6M
+Alone Yet Not Alone	2013	PG-13	103 min	0	$0.7M
+Don Jon	2013	R	90 min	80	$24.5M
+Austenland	2013	PG-13	97 min	30	$2.2M
+Rush	2013	R	123 min	89	$26.9M
+Linsanity	2013	PG	89 min	63	$0.3M
+Parkland	2013	PG-13	93 min	49	$0.7M
+Tim's Vermeer	2013	PG-13	80 min	89	$1.7M
+Gravity	2013	PG-13	91 min	97	$274.1M
+Grace Unplugged	2013	PG	102 min	50	$2.5M
+Runner Runner	2013	R	91 min	8	$19.3M
+Metallica Through the Never	2013	R	93 min	78	$3.4M
+Captain Phillips	2013	PG-13	134 min	93	$107.1M
+Machete Kills	2013	R	107 min	29	$7.9M
+Enough Said	2013	PG-13	93 min	96	$17.5M
+Walking with the Enemy	2013	PG-13	124 min	44	$0.4M
+Plush	2013	R	99 min	29	$2.8k
+Escape Plan	2013	R	115 min	49	$25.1M
+The Fifth Estate	2013	R	128 min	37	$3.3M
+Blackfish	2013	PG-13	83 min	98	$2.1M
+Carrie	2013	R	100 min	48	$35.3M
+As I Lay Dying	2013	R	110 min	41	$15.0k
+Muscle Shoals	2013	PG	111 min	96	$0.7M
+Jackass Presents: Bad Grandpa	2013	R	92 min	60	$102.0M
+One Chance	2013	PG-13	103 min	63	$89.7k
+We Are What We Are	2013	R	105 min	85	$76.6k
+The Counselor	2013	R	117 min	34	$17.0M
+Innocence	2013	PG-13	96 min	13	$0.3M
+Missionary	2013	R	90 min	40	$2.1k
+Blood Ties	2013	R	127 min	54	$41.2k
+A Perfect Man	2013	R	95 min	20	$388 
+Big Sur	2013	R	81 min	45	$35.9k
+Free Birds	2013	PG	91 min	18	$55.7M
+Last Vegas	2013	PG-13	105 min	46	$63.9M
+Cutie and the Boxer	2013	R	82 min	96	$0.2M
+Thor: The Dark World	2013	PG-13	112 min	65	$206.4M
+The Armstrong Lie	2013	R	124 min	84	$0.4M
+The Best Man Holiday	2013	R	123 min	68	$70.5M
+The Christmas Candle	2013	PG	100 min	18	$2.2M
+Kids for Cash	2013	PG-13	102 min	91	$36.6k
+"No God, No Master"	2013	PG-13	94 min	69	$6.8k
+Pawn Shop Chronicles	2013	R	112 min	13	$4.9k
+Delivery Man	2013	PG-13	105 min	39	$30.7M
+Dallas Buyers Club	2013	R	117 min	93	$27.3M
+The Hunger Games: Catching Fire	2013	PG-13	146 min	89	$424.6M
+Frozen	2013	PG	102 min	89	$400.7M
+The Book Thief	2013	PG-13	131 min	46	$21.5M
+Oldboy	2013	R	104 min	41	$2.2M
+Black Nativity	2013	PG	93 min	48	$7.0M
+Homefront	2013	R	100 min	42	$20.1M
+Concussion	2013	R	96 min	74	$38.4k
+Out of the Furnace	2013	R	116 min	53	$11.3M
+I'm in Love with a Church Girl	2013	PG	118 min	6	$2.4M
+Afternoon Delight	2013	R	98 min	67	$0.2M
+The Hobbit: The Desolation of Smaug	2013	PG-13	161 min	74	$258.4M
+Tyler Perry's A Madea Christmas	2013	PG-13	100 min	18	$52.5M
+Anchorman 2: The Legend Continues	2013	R	119 min	75	$127.3M
+Saving Mr. Banks	2013	PG-13	125 min	80	$83.3M
+American Hustle	2013	R	138 min	93	$150.1M
+Walking with Dinosaurs 3D	2013	PG	87 min	24	$3.5M
+The Secret Life of Walter Mitty	2013	PG	114 min	50	$58.2M
+47 Ronin	2013	PG-13	118 min	15	$38.3M
+The Wolf of Wall Street	2013	R	180 min	77	$116.9M
+Cold Comes the Night	2013	R	90 min	44	$11.6k
+Her	2013	R	126 min	94	$25.6M
+Lone Survivor	2013	R	121 min	75	$125.1M
+After Tiller	2013	PG-13	85 min	94	$66.3k
+August: Osage County	2013	R	121 min	64	$37.7M
+Inside Llewyn Davis	2013	R	104 min	94	$13.2M
+The Unknown Known	2013	PG-13	103 min	83	$0.1M
+Raze	2013	R	92 min	45	$3.5k
+I Spit on Your Grave 2	2013	R	106 min	0	$441 
+Nebraska	2013	R	115 min	91	$17.6M
+Labor Day	2013	PG-13	111 min	34	$13.4M
+At Middleton	2013	R	99 min	58	$52.9k
+The Pretty One	2013	R	90 min	47	$11.2k
+Adult World	2013	R	97 min	56	$16.7k
+Hell Baby	2013	R	98 min	32	$5.0k
+Touchy Feely	2013	R	89 min	36	$36.0k
+Twenty Feet from Stardom	2013	PG-13	91 min	99	$4.9M
+Under the Skin	2013	R	108 min	85	$2.6M
+Narco Cultura	2013	R	103 min	86	$0.1M
+Bad Words	2013	R	89 min	65	$7.8M
+The Retrieval	2013	R	92 min	92	$50.3k
+In Secret	2013	R	107 min	41	$0.4M
+Fading Gigolo	2013	R	90 min	54	$3.8M
+Joe	2013	R	117 min	86	$0.4M
+Oculus	2013	R	104 min	73	$27.7M
+Make Your Move	2013	PG-13	110 min	43	$0.1M
+Locke	2013	R	85 min	91	$1.4M
+Night Moves	2013	R	112 min	85	$0.3M
+Filth	2013	R	97 min	62	$34.3k
+Savannah	2013	PG-13	101 min	8	$36.7k
+The Sacrament	2013	R	99 min	62	$9.0k
+Decoding Annie Parker	2013	R	91 min	58	$39.8k
+Legends of Oz: Dorothy's Return	2013	PG	88 min	16	$8.5M
+Palo Alto	2013	R	100 min	73	$0.8M
+Chinese Puzzle	2013	R	117 min	75	$0.3M
+Words and Pictures	2013	PG-13	111 min	42	$2.2M
+The Immigrant	2013	R	120 min	88	$2.0M
+Supermensch: The Legend of Shep Gordon	2013	R	85 min	77	$0.2M
+Hateship Loveship	2013	R	104 min	50	$50.6k
+Jodorowsky's Dune	2013	PG-13	88 min	98	$0.6M
+The Art of the Steal	2013	R	90 min	44	$61.4k
+Snowpiercer	2013	R	126 min	95	$4.6M
+InAPPropriate Comedy	2013	R	83 min	0	$0.2M
+Jake Squared	2013	R	100 min	14	$1.7k
+Knights of Badassdom	2013	R	86 min	58	$86.8k
+The Zero Theorem	2013	R	107 min	52	$0.3M
+Child of God	2013	R	104 min	38	$37.9k
+Life of Crime	2013	R	98 min	64	$0.3M
+Girl Rising	2013	PG-13	101 min	89	$0.8M
+Repentance	2013	R	90 min	0	$1.2M
+The Disappearance of Eleanor Rigby: Him	2013	R	89 min	63	$0.6M
+Jimi: All Is by My Side	2013	R	118 min	66	$0.3M
+Gimme Shelter	2013	PG-13	101 min	22	$1.4M
+Third Person	2013	R	137 min	23	$1.0M
+The Last of Robin Hood	2013	R	94 min	29	$0.3M
+Afflicted	2013	R	85 min	79	$0.1M
+Inequality for All	2013	PG	89 min	90	$1.2M
+Paranormal Activity: The Marked Ones	2014	R	84 min	37	$32.4M
+3 Nights in the Desert	2014	R	90 min	40	$1.3k
+The Legend of Hercules	2014	PG-13	99 min	3	$18.8M
+Jack Ryan: Shadow Recruit	2014	PG-13	105 min	56	$50.5M
+Devil's Due	2014	R	89 min	18	$15.8M
+Ride Along	2014	PG-13	99 min	18	$134.1M
+The Nut Job	2014	PG	85 min	10	$64.2M
+Fed Up	2014	PG	92 min	81	$1.5M
+Land Ho!	2014	R	95 min	80	$0.7M
+That Awkward Moment	2014	R	94 min	23	$26.0M
+The Lego Movie	2014	PG	100 min	96	$257.8M
+Vampire Academy	2014	PG-13	104 min	9	$7.8M
+The Monuments Men	2014	PG-13	118 min	31	$78.0M
+RoboCop	2014	PG-13	117 min	49	$58.6M
+Winter's Tale	2014	PG-13	118 min	13	$12.6M
+Endless Love	2014	PG-13	104 min	15	$23.4M
+About Last Night	2014	R	100 min	68	$48.6M
+3 Days to Kill	2014	PG-13	117 min	28	$30.7M
+Pompeii	2014	PG-13	105 min	28	$23.2M
+Non-Stop	2014	PG-13	106 min	60	$91.7M
+Son of God	2014	PG-13	138 min	21	$59.7M
+Mr. Peabody & Sherman	2014	PG	92 min	79	$111.5M
+300: Rise of an Empire	2014	R	102 min	42	$106.6M
+The Great Invisible	2014	PG-13	92 min	90	$10.0k
+Take Me to the River	2014	PG	95 min	70	$68.6k
+Veronica Mars	2014	PG-13	107 min	78	$3.3M
+Need for Speed	2014	PG-13	132 min	22	$43.6M
+The Single Moms Club	2014	PG-13	111 min	16	$16.0M
+The Bag Man	2014	R	108 min	10	$48.8k
+Divergent	2014	PG-13	139 min	40	$150.8M
+50 to 1	2014	PG-13	110 min	17	$1.1M
+Muppets Most Wanted	2014	PG	107 min	78	$51.2M
+God's Not Dead	2014	PG	113 min	16	$60.8M
+Noah	2014	PG-13	138 min	77	$101.2M
+Sabotage	2014	R	109 min	19	$10.5M
+Cesar Chavez	2014	PG-13	102 min	41	$5.6M
+Captain America: The Winter Soldier	2014	PG-13	136 min	89	$259.7M
+13 Sins	2014	R	93 min	62	$9.1k
+Draft Day	2014	R	110 min	61	$28.8M
+Rio 2	2014	G	101 min	48	$131.5M
+The Raid 2	2014	R	150 min	79	$2.6M
+Jinn	2014	PG-13	97 min	10	$0.1M
+Heaven Is for Real	2014	PG	99 min	46	$91.4M
+A Haunted House 2	2014	R	86 min	8	$17.3M
+Transcendence	2014	PG-13	119 min	19	$23.0M
+Bears	2014	G	78 min	89	$17.8M
+Ballet 422	2014	PG	75 min	86	$0.3M
+Glen Campbell: I'll Be Me	2014	PG	116 min	100	$0.4M
+Two-Bit Waltz	2014	R	81 min	0	$2.1k
+The Quiet Ones	2014	PG-13	98 min	36	$8.5M
+The Other Woman	2014	PG-13	109 min	23	$83.9M
+The M Word	2014	R	117 min	38	$0.1M
+Walk of Shame	2014	R	95 min	12	$39.8k
+The Amazing Spider-Man 2	2014	PG-13	142 min	53	$202.9M
+Moms' Night Out	2014	PG	98 min	18	$10.4M
+The Hornet's Nest	2014	R	93 min	76	$0.3M
+Neighbors	2014	R	97 min	73	$150.1M
+Million Dollar Arm	2014	PG	124 min	62	$36.4M
+Godzilla	2014	PG-13	123 min	74	$200.7M
+Blended	2014	PG-13	117 min	14	$46.3M
+X-Men: Days of Future Past	2014	PG-13	132 min	91	$233.9M
+A Million Ways to Die in the West	2014	R	116 min	33	$42.6M
+Maleficent	2014	PG	97 min	49	$241.4M
+Edge of Tomorrow	2014	PG-13	113 min	90	$100.1M
+The Fault in Our Stars	2014	PG-13	126 min	81	$124.9M
+22 Jump Street	2014	R	112 min	85	$191.7M
+Hellion	2014	R	99 min	60	$46.1k
+How to Train Your Dragon 2	2014	PG	102 min	92	$177.0M
+Think Like a Man Too	2014	PG-13	106 min	23	$65.2M
+Jersey Boys	2014	R	134 min	52	$47.0M
+The Rover	2014	R	103 min	65	$1.1M
+The Homesman	2014	R	122 min	82	$2.4M
+The Living	2014	R	89 min	43	$5.4k
+Happy Christmas	2014	R	82 min	75	$28.9k
+Whitey: United States of America v. James J. Bulger	2014	R	107 min	80	$75.6k
+Transformers: Age of Extinction	2014	PG-13	165 min	18	$245.4M
+Deliver Us from Evil	2014	R	118 min	28	$30.6M
+Earth to Echo	2014	PG	91 min	48	$38.9M
+America: Imagine the World Without Her	2014	PG-13	105 min	8	$14.4M
+Tammy	2014	R	97 min	23	$84.5M
+Life Itself	2014	R	120 min	97	$0.8M
+The Signal	2014	PG-13	97 min	58	$4.7M
+Dawn of the Planet of the Apes	2014	PG-13	130 min	90	$5.1M
+Life After Beth	2014	R	89 min	45	$57.3k
+Sex Tape	2014	R	94 min	17	$38.5M
+Persecuted	2014	PG-13	91 min	0	$1.6M
+The Purge: Anarchy	2014	R	103 min	56	$71.5M
+The Fluffy Movie: Unity Through Laughter	2014	PG-13	101 min	54	$2.8M
+Wish I Was Here	2014	R	106 min	46	$3.6M
+Come Back to Me	2014	R	90 min	20	$4.2k
+Hercules	2014	PG-13	98 min	60	$72.7M
+Rob the Mob	2014	R	104 min	84	$0.2M
+Frontera	2014	PG-13	103 min	52	$59.3k
+Guardians of the Galaxy	2014	PG-13	121 min	91	$333.2M
+The One I Love	2014	R	91 min	80	$0.5M
+God's Pocket	2014	R	88 min	36	$0.1M
+Teenage Mutant Ninja Turtles	2014	PG-13	101 min	21	$191.2M
+Step Up All In	2014	PG-13	112 min	43	$14.9M
+Into the Storm	2014	PG-13	89 min	22	$47.6M
+The Hundred-Foot Journey	2014	PG	122 min	68	$54.2M
+Let's Be Cops	2014	R	104 min	18	$82.4M
+Boyhood	2014	R	165 min	98	$25.4M
+The Expendables 3	2014	PG-13	126 min	33	$39.3M
+Deepsea Challenge 3D	2014	PG	90 min	67	$0.1M
+If I Stay	2014	PG-13	107 min	36	$50.5M
+The November Man	2014	R	108 min	35	$25.0M
+The Two Faces of January	2014	PG-13	96 min	82	$0.5M
+Obvious Child	2014	R	84 min	90	$3.1M
+Barefoot	2014	PG-13	90 min	14	$11.8k
+The Identical	2014	PG	107 min	7	$2.8M
+Island of Lemurs: Madagascar	2014	G	39 min	80	$9.8M
+The Skeleton Twins	2014	R	93 min	87	$5.3M
+Honeymoon	2014	R	87 min	70	$9.2k
+Pump	2014	PG	88 min	75	$73.5k
+The Drop	2014	R	106 min	89	$10.7M
+Atlas Shrugged: Who Is John Galt?	2014	PG-13	99 min	0	$0.8M
+Dolphin Tale 2	2014	PG	107 min	67	$42.0M
+No Good Deed	2014	PG-13	84 min	10	$52.5M
+This Is Where I Leave You	2014	R	103 min	41	$34.3M
+The Maze Runner	2014	PG-13	113 min	63	$102.4M
+I Origins	2014	R	106 min	52	$5.0M
+The Remaining	2014	PG-13	88 min	56	$1.2M
+White Bird in a Blizzard	2014	R	91 min	55	$33.5k
+The Song	2014	PG-13	116 min	29	$5.5M
+The Equalizer	2014	R	132 min	61	$101.5M
+Two Night Stand	2014	R	86 min	34	$15.6k
+The Boxtrolls	2014	PG	96 min	75	$50.8M
+Seymour: An Introduction	2014	PG	84 min	100	$0.6M
+Annabelle	2014	R	99 min	29	$84.3M
+Left Behind	2014	PG-13	110 min	2	$14.0M
+"Like Sunday, Like Rain"	2014	R	104 min	53	$27.6k
+Dead Snow 2: Red vs. Dead	2014	R	100 min	85	$32.1k
+The Hero of Color City	2014	G	77 min	25	$32.0k
+Kill the Messenger	2014	R	112 min	77	$2.4M
+Addicted	2014	R	106 min	8	$17.4M
+The Judge	2014	R	141 min	47	$47.1M
+Camp X-Ray	2014	R	117 min	73	$9.8k
+A Matter of Faith	2014	PG	89 min	0	$0.5M
+Fury	2014	R	134 min	77	$85.8M
+The Best of Me	2014	PG-13	118 min	8	$26.8M
+The Sisterhood of Night	2014	PG-13	104 min	79	$5.3k
+V/H/S: Viral	2014	R	81 min	36	$2.6k
+The Principle	2014	PG	90 min	0	$86.2k
+23 Blast	2014	PG-13	98 min	38	$0.5M
+St. Vincent	2014	PG-13	102 min	77	$44.1M
+Before I Go to Sleep	2014	R	92 min	36	$3.2M
+The Overnighters	2014	PG-13	102 min	98	$0.1M
+Life Partners	2014	R	93 min	62	$7.6k
+Big Hero 6	2014	PG	102 min	89	$222.5M
+Magician: The Astonishing Life and Work of Orson Welles	2014	PG-13	91 min	73	$15.5k
+Love Is Strange	2014	R	94 min	94	$2.3M
+Dumb and Dumber To	2014	PG-13	109 min	29	$86.2M
+The Good Lie	2014	PG-13	110 min	88	$2.7M
+Beyond the Lights	2014	PG-13	116 min	81	$14.6M
+Birdman: Or (The Unexpected Virtue of Ignorance)	2014	R	119 min	92	$42.3M
+Saving Christmas	2014	PG	80 min	0	$2.8M
+The Hunger Games: Mockingjay - Part 1	2014	PG-13	123 min	65	$337.1M
+My Old Lady	2014	PG-13	107 min	59	$4.0M
+Penguins of Madagascar	2014	PG	92 min	72	$83.3M
+The Green Prince	2014	PG-13	101 min	78	$0.3M
+The One I Wrote for You	2014	PG	110 min	0	$48.6k
+Exodus: Gods and Kings	2014	PG-13	150 min	27	$65.0M
+Merchants of Doubt	2014	PG-13	96 min	85	$0.2M
+Annie	2014	PG	118 min	27	$85.9M
+Night at the Museum: Secret of the Tomb	2014	PG	98 min	50	$113.7M
+Wild	2014	R	115 min	90	$37.9M
+Into the Woods	2014	PG	125 min	71	$128.0M
+The Imitation Game	2014	PG-13	114 min	89	$91.1M
+The Water Diviner	2014	R	111 min	62	$4.2M
+The Woman in Black 2: Angel of Death	2014	PG-13	98 min	21	$26.5M
+Match	2014	R	90 min	76	$30.5k
+Dear White People	2014	R	108 min	92	$4.4M
+American Sniper	2014	R	132 min	73	$350.1M
+Song One	2014	PG-13	86 min	36	$20.2k
+Low Down	2014	R	114 min	51	$49.0k
+Red Army	2014	PG	76 min	96	$0.7M
+A Most Violent Year	2014	R	125 min	90	$5.7M
+Black or White	2014	PG-13	121 min	39	$21.6M
+5 to 7	2014	R	95 min	67	$0.1M
+Christian Mingle	2014	PG	103 min	0	$19.8k
+What We Do in the Shadows	2014	R	86 min	96	$3.3M
+Still Alice	2014	PG-13	101 min	89	$18.7M
+Rudderless	2014	R	105 min	63	$56.0k
+Citizenfour	2014	R	114 min	98	$2.8M
+Serena	2014	R	109 min	18	$0.2M
+Maps to the Stars	2014	R	111 min	61	$0.3M
+Keep on Keepin' On	2014	R	84 min	97	$0.2M
+Zombeavers	2014	R	85 min	66	$14.9k
+While We're Young	2014	R	97 min	84	$7.5M
+Lambert & Stamp	2014	R	117 min	86	$33.3k
+Kill Me Three Times	2014	R	90 min	9	$23.8k
+Clouds of Sils Maria	2014	R	124 min	89	$1.8M
+Beyond the Reach	2014	R	91 min	34	$44.6k
+Unfriended	2014	R	83 min	61	$32.4M
+Skin Trade	2014	R	96 min	20	$1.2k
+Adult Beginners	2014	R	92 min	44	$0.1M
+Welcome to Me	2014	R	87 min	70	$0.3M
+The Seven Five	2014	R	104 min	78	$29.6k
+Good Kill	2014	R	102 min	75	$0.3M
+Every Secret Thing	2014	R	93 min	26	$97.0k
+Sunshine Superman	2014	PG	100 min	89	$55.7k
+Heaven Knows What	2014	R	94 min	86	$70.2k
+Infinitely Polar Bear	2014	R	90 min	81	$0.4M
+Love & Mercy	2014	PG-13	121 min	89	$7.2M
+Blackhat	2015	R	133 min	34	$7.8M
+Strange Magic	2015	PG	99 min	18	$12.4M
+The Hunting Ground	2015	PG-13	90 min	92	$0.4M
+Americons	2015	R	88 min	14	$14.4k
+Jupiter Ascending	2015	PG-13	127 min	25	$47.4M
+"McFarland, USA"	2015	PG	129 min	79	$44.5M
+Hot Tub Time Machine 2	2015	R	93 min	14	$12.3M
+The DUFF	2015	PG-13	101 min	72	$34.0M
+Focus	2015	R	105 min	56	$53.8M
+Chappie	2015	R	120 min	31	$31.6M
+Unfinished Business	2015	R	91 min	11	$10.2M
+Hayride 2	2015	R	92 min	0	$1.7k
+The Second Best Exotic Marigold Hotel	2015	PG	122 min	62	$33.1M
+David and Goliath	2015	PG	92 min	0	$0.2M
+Cinderella	2015	PG	105 min	85	$200.6M
+Insurgent	2015	PG-13	119 min	30	$130.0M
+Do You Believe?	2015	PG-13	120 min	18	$13.0M
+Home	2015	PG	94 min	46	$171.9M
+Get Hard	2015	R	100 min	29	$90.2M
+Beyond the Mask	2015	PG	103 min	22	$1.0M
+Freetown	2015	PG-13	113 min	38	$7.9M
+Danny Collins	2015	R	106 min	78	$5.6M
+Woman in Gold	2015	PG-13	109 min	53	$33.0M
+Paul Blart: Mall Cop 2	2015	PG	94 min	6	$68.4M
+Child 44	2015	R	137 min	24	$1.2M
+Monkey Kingdom	2015	G	81 min	94	$16.3M
+True Story	2015	R	99 min	48	$6.6M
+The Age of Adaline	2015	PG-13	112 min	54	$42.6M
+Little Boy	2015	PG-13	106 min	18	$6.4M
+Barely Lethal	2015	PG-13	96 min	16	$4.9k
+Avengers: Age of Ultron	2015	PG-13	141 min	74	$454.2M
+Hot Pursuit	2015	PG-13	87 min	7	$33.4M
+Maggie	2015	PG-13	95 min	51	$0.2M
+The D Train	2015	R	101 min	43	$0.7M
+Mad Max: Fury Road	2015	R	120 min	98	$149.0M
+Pitch Perfect 2	2015	PG-13	115 min	66	$160.9M
+Poltergeist	2015	PG-13	93 min	31	$46.1M
+Tomorrowland	2015	PG	130 min	50	$91.0M
+Far from the Madding Crowd	2015	PG-13	119 min	85	$9.9M
+Aloha	2015	PG-13	105 min	20	$19.0M
+Insidious: Chapter 3	2015	PG-13	97 min	58	$22.7M
+Me and Earl and the Dying Girl	2015	PG-13	105 min	82	$1.9M
+Jurassic World	2015	PG-13	124 min	71	$556.5M
+The Overnight	2015	R	79 min	81	$0.6M
+Dope	2015	R	103 min	89	$11.7M
+Ted 2	2015	R	115 min	46	$58.5M
+L.A. Slasher	2015	R	86 min	0	$2.4k
+Magic Mike XXL	2015	R	115 min	64	$27.9M
+NA Movie 1		G	100 min	64	$12.3M
+NA Movie 2		PG	110 min	64	$23.4M
+NA Movie 3	2015	PG-13	120 min		$34.5M
+NA Movie 4	2015	R	130 min		$45.6M
